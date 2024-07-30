@@ -1,7 +1,7 @@
 # tabular-data-to-business-glossaries-annotation-dataset
 A dataset of tabular data from [data.gov](https://data.gov/) annotated to business glossaries using LLMs.
 
-# Dataset Description
+# 1. Dataset Description
 Following a collaboration between [Zeenea](https://zeenea.com/fr/) and [LIP6](https://www.lip6.fr/) through an industrial thesis project on **Smart Metadata Management Systems**,
 we encountered a number of data-related challenges.
 Through this project, we took the initiative to build a relevant dataset for tabular data alignment with business glossaries.
@@ -25,8 +25,8 @@ The table bellow describe the main content of this repository:
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
-# Dataset Construction
-### 1. Data Collection and Preparation
+# 2. Dataset Construction
+### 2.1. Data Collection and Preparation
 We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API. 
 We searched for datasets related to **Transport** field, the choice of the field was arbitrary.
 
@@ -37,13 +37,13 @@ Each dataset is described with metadata which consist of issuing organization ,d
 After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](https://github.com/zeenea/tabular-data-to-business-glossaries-annotation-dataset/blob/develop/metadata/theme_to_tags_metadata.json)).
 
 #### Statistics on themes and tags
-The next figure describes the distribution of tags per dataset
+The next figure describes the distribution of datasets per theme.
+[Number of dataset per theme](https://github.com/zeenea/tabular-data-to-business-glossaries-annotation-dataset/blob/develop/figures/number_of_dataset_per_theme.png)
+
+### 2.2. LLM-Generated Business Glossaries
 
 
-### 2. LLM-Generated Business Glossaries
-
-
-### 3. LLM-Generated Alignments
+### 2.3. LLM-Generated Alignments
 
 
 
@@ -88,7 +88,7 @@ The next figure describes the distribution of tags per dataset
 
 
 
-# License
+# 3. License
 tabular-data-to-business-glossaries-annotation-dataset © 2024 by Zeenea is licensed under CC BY-NC-SA 4.0.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or go to [LICENCE.md](https://github.com/AKNOUCHEanis/tabular-data-to-business-glossaries-annotation-dataset/blob/main/LICENSE.md).
 
