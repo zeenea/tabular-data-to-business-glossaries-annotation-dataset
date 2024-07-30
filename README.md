@@ -63,42 +63,97 @@ In this part, we use Large Language Models to generate business glossaries.
 For our experiments, we used [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) LLM.
 For each theme, we give the LLM the list of corresponding tags as input. 
 The LLM follows the instructions of the prompt and generates a hierarchy of business concepts in relation to the theme and list of tags.
+The dataset theme is placed at the root of the generated hierarchy of business concepts.
 
 The prompt used to generate the Business-Glossaries:
 
 ```
-
+[
+        {
+            "role": "user",
+            "content": "Generate in a json format, a hierarchical business glossary in the theme of Automobile, by creating concepts with descriptions linked together, using this list of tags: ['car', 'bolt', 'chevrolet', 'vehicle', 'green-report'].\
+            The business glossary should contain business concepts with descriptions, instances and subclasses if needed.",
+        },
+        {
+            "role": "assistant",
+            "content": """{ 'Automobile': {
+                                    'Vehicle': {
+                                      'description': 'A mode of transportation',
+                                      'subclasses': {
+                                        'Car': {
+                                          'description': 'A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor',
+                                          'instances': ['bolt', 'chevrolet']
+                                        }
+                                      }
+                                    },
+                                    'EnvironmentalAgency': {
+                                                            'description': 'Organizations focused on environmental impacts',
+                                                            'instances': ['green-report']
+                                                            }
+          },
+      }"""
+        },
+        {
+            "role":"user",
+            "content": f"Generate in a json format, a hierarchical business glossary in the theme of {theme}, by creating concepts with descriptions linked together, using this list of tags: {list_tags}. \
+                        The business glossary should contain business concepts with descriptions, instances and subclasses if needed." 
+        }
+    ]
 ```
 
 The table bellow describes some statistics on the LLM-generated Business Glossaries:
 
-| Statistics on Business Glossaries              |     |
-|------------------------------------------------|-----|
-| Number of Business Glossaries                  | 34  |
-| Maximum number of business entity per glossary | 26  |
-| Minimum number of business entity per glossary | 4   |
-| Mean number of business entity per glossary    | 14  |
-| Maximum number of levels per glossary          | 9   |
-| Minimum number of levels per glossary          | 2   |
-| Mean number of levels per glossary             | 4   |
+| Statistics on LLM-generated Business Glossaries |     |
+|-------------------------------------------------|-----|
+| Number of Business Glossaries                   | 34  |
+| Maximum number of business entity per glossary  | 26  |
+| Minimum number of business entity per glossary  | 4   |
+| Mean number of business entity per glossary     | 14  |
+| Maximum number of levels per glossary           | 9   |
+| Minimum number of levels per glossary           | 2   |
+| Mean number of levels per glossary              | 4   |
 
 ### 2.3. LLM-Generated Alignments
 For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3), but with another prompt.
+For each dataset, we ask the LLM through the prompt to generate alignments between the dataset columns and the corresponding business glossary entities (each dataset has a theme, and each theme is linked to a business glossary).
+Dataset are linked to the business entities represented by the themes.
+
 
 The prompt used to generate the Alignments:
 ```
+[
+            {
+                "role": "user",
+                "content": "In a json format {column:business-concept}, generate alignments between these tabular columns: ['vehicle', 'model', 'environment'], and the next business-glossary items: "+ """["Transportation\",
+                            "Transportattion.Vehicle", "Transportation.Vehicle.Car", "Transportation.Vehicle.Car.Model", "Transportation.Environmental-Agency", "Transportation.Environmental-Agency.Environment", "Transportation.Environmental-Agency.Agency"]""" \
+                            + ". Business-concepts should contain the right path in the business-glossary."
+            },
+            {
+                "role": "assistant",
+                "content":"""{
+                "vehicle": "Transportation.Vehicle",
+                "model": "Transportation.Vehicle.Car.Model",
+                "environment": "Trasportation.Environmental-Agency"
+                }"""
 
+            },
+            {
+                "role":"user",
+                "content": "In a json format {column:business-concept}, generate alignments between these tabular columns:"+ f"{list_columns}, and the next business-glossary items: {list_entities}"\
+                           +". Business-concepts should contain the right path in the business-glossary."
+            }
+        ]
 ```
 
 
 The table bellow describes some statistics on the LLM-generated Alignments:
 
-| Statistics on Alignments   |        |
-|----------------------------|--------|
-| Number of aligned columns  | **1017**   |
-| Rate of aligned columns    | **19.02%** |
-| Number of aligned datasets | **226**    |
-| Rate of aligned datasets   | **100%**   |
+| Statistics on LLM-generated Alignments |        |
+|----------------------------------------|--------|
+| Number of aligned columns              | **1017**   |
+| Rate of aligned columns                | **19.02%** |
+| Number of aligned datasets             | **226**    |
+| Rate of aligned datasets               | **100%**   |
 
 
 # 3. License
