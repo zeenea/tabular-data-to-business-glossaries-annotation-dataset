@@ -14,7 +14,7 @@ We choose [data.gov](https://data.gov/) for the following reasons:
 * Tabular Datasets are annotated with _themes_ and a _list of tags_ 
 * Tabular Columns have meaningful names 
 
-The table bellow describe the main content of this repository:
+The table bellow describes the main content of this repository:
 
 | Content Description  |                                                        |
 |----------------------|--------------------------------------------------------|
@@ -31,6 +31,8 @@ We used Large Language Models LLMs to assist the dataset construction as describ
 We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API. 
 We searched for datasets related to **Transport** field, the choice of the field was arbitrary.
 
+The table bellow describes some statistics about columns and rows in the collected datasets:
+
 | Statistics on datasets                |      |
 |---------------------------------------|------|
 | Number of datasets                    | 226  |
@@ -42,7 +44,7 @@ We searched for datasets related to **Transport** field, the choice of the field
 | Minimum number of row per dataset     | 4    |
 | Mean number of rows per dataset       | 62   |
 
-Each dataset is described with metadata which consist of issuing organization ,dataset name, column names, tags, theme, access level and license.
+Each dataset is described with metadata which consist of issuing organization ,dataset name, column names, list of tags, theme, access level and license.
 * **_Dataset Theme._** It describes the general topic of the dataset
 * **_Dataset Tags._** It represents a list of terms that are related to the dataset content
 
@@ -57,6 +59,19 @@ Distribution of tags per theme:
 
 ### 2.2. LLM-Generated Business Glossaries
 
+In this part, we use Large Language Models to generate business glossaries.
+For our experiments, we used [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) LLM.
+For each theme, we give the LLM the list of corresponding tags as input. 
+The LLM follows the instructions of the prompt and generates a hierarchy of business concepts in relation to the theme and list of tags.
+
+The prompt used to generate the Business-Glossaries:
+
+```
+
+```
+
+The table bellow describes some statistics on the LLM-generated Business Glossaries:
+
 | Statistics on Business Glossaries              |     |
 |------------------------------------------------|-----|
 | Number of Business Glossaries                  | 34  |
@@ -68,6 +83,15 @@ Distribution of tags per theme:
 | Mean number of levels per glossary             | 4   |
 
 ### 2.3. LLM-Generated Alignments
+For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3), but with another prompt.
+
+The prompt used to generate the Alignments:
+```
+
+```
+
+
+The table bellow describes some statistics on the LLM-generated Alignments:
 
 | Statistics on Alignments   |        |
 |----------------------------|--------|
