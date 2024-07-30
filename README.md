@@ -22,6 +22,7 @@ The table bellow describe the main content of this repository:
 | metadata/            | Metadata about Datasets, Columns, Themes and Tags      |
 | business-glossaries/ | Collection of business-glossaries in csv files         |
 | alignments/          | Column and Dataset alignments with business-glossaries |
+| figures/             | Statistical figures                                    |
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
@@ -29,6 +30,17 @@ We used Large Language Models LLMs to assist the dataset construction as describ
 ### 2.1. Data Collection and Preparation
 We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API. 
 We searched for datasets related to **Transport** field, the choice of the field was arbitrary.
+
+| Statistics on datasets                |      |
+|---------------------------------------|------|
+| Number of datasets                    | 226  |
+| Number of columns                     | 5232 |
+| Maximum number of columns per dataset | 381  |
+| Minimum number of columns per dataset | 2    |
+| Mean number of columns per dataset    | 23   |
+| Maximum number of rows per dataset    | 100  |
+| Minimum number of row per dataset     | 4    |
+| Mean number of rows per dataset       | 62   |
 
 Each dataset is described with metadata which consist of issuing organization ,dataset name, column names, tags, theme, access level and license.
 * **_Dataset Theme._** It describes the general topic of the dataset
@@ -45,30 +57,7 @@ Distribution of tags per theme:
 
 ### 2.2. LLM-Generated Business Glossaries
 
-
-### 2.3. LLM-Generated Alignments
-
-
-
-#General Statistics on Datasets and Columns, Business Glossaries and Alignments
-<table>
-<tr><th>1. Dataset and Column statistics  </th> <th>2. Business Glossary statistics  </th><th>3. Alignments statistics</th></tr>
-<tr><td>
-
-|                                       |      |
-|---------------------------------------|------|
-| Number of datasets                    | 226  |
-| Number of columns                     | 5232 |
-| Maximum number of columns per dataset | 381  |
-| Minimum number of columns per dataset | 2    |
-| Mean number of columns per dataset    | 23   |
-| Maximum number of rows per dataset    | 100  |
-| Minimum number of row per dataset     | 4    |
-| Mean number of rows per dataset       | 62   |
-
-</td><td>
-
-|                                                |     |
+| Statistics on Business Glossaries              |     |
 |------------------------------------------------|-----|
 | Number of Business Glossaries                  | 34  |
 | Maximum number of business entity per glossary | 26  |
@@ -78,17 +67,14 @@ Distribution of tags per theme:
 | Minimum number of levels per glossary          | 2   |
 | Mean number of levels per glossary             | 4   |
 
-</td><td>
+### 2.3. LLM-Generated Alignments
 
-|                            |        |
+| Statistics on Alignments   |        |
 |----------------------------|--------|
 | Number of aligned columns  | **1017**   |
 | Rate of aligned columns    | **19.02%** |
 | Number of aligned datasets | **226**    |
 | Rate of aligned datasets   | **100%**   |
-
-</td></tr> </table>
-
 
 
 # 3. License
