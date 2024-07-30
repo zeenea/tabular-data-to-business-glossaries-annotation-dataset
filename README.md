@@ -72,12 +72,12 @@ The prompt used to generate the Business-Glossaries:
 [
         {
             "role": "user",
-            "content": "Generate in a json format, a hierarchical business glossary in the theme of Automobile, by creating concepts with descriptions linked together, using this list of tags: ['car', 'bolt', 'chevrolet', 'vehicle', 'green-report'].\
+            "content": "Generate in a json format, a hierarchical business glossary in the theme of Transportation, by creating concepts with descriptions linked together, using this list of tags: ['car', 'bolt', 'chevrolet', 'vehicle', 'green-report'].\
             The business glossary should contain business concepts with descriptions, instances and subclasses if needed.",
         },
         {
             "role": "assistant",
-            "content": """{ 'Automobile': {
+            "content": """{ 'Transportation': {
                                     'Vehicle': {
                                       'description': 'Any device capable of moving, and can be used for transportation.',
                                       'subclasses': {
@@ -96,7 +96,7 @@ The prompt used to generate the Business-Glossaries:
         },
         {
             "role":"user",
-            "content": f"Generate in a json format, a hierarchical business glossary in the theme of {theme_var}, by creating concepts with descriptions linked together, using this list of tags: {list_of_tags_var}. \
+            "content": f"Generate in a json format, a hierarchical business glossary in the theme of {theme}, by creating concepts with descriptions linked together, using this list of tags: {list_of_tags}. \
                         The business glossary should contain business concepts with descriptions, instances and subclasses if needed." 
         }
     ]
@@ -125,9 +125,9 @@ The prompt used to generate the Alignments:
 [
             {
                 "role": "user",
-                "content": "In a json format {column:business-concept}, generate alignments between these tabular columns: ['vehicle', 'model', 'environment'], and the next business-glossary items: "+ """["Transportation\",
-                            "Transportattion.Vehicle", "Transportation.Vehicle.Car", "Transportation.Vehicle.Car.Model", "Transportation.Environmental-Agency", "Transportation.Environmental-Agency.Environment", "Transportation.Environmental-Agency.Agency"]""" \
-                            + ". Business-concepts should contain the right path in the business-glossary."
+                "content": "In a json format {column:business-concept}, generate alignments between these tabular columns: ['vehicle', 'model', 'environment'] and the next business glossary items: "+ """["Transportation\",
+                            "Transportattion.Vehicle", "Transportation.Vehicle.Car", "Transportation.Vehicle.Car.Model", "Transportation.Environmental-Agency", "Transportation.Environmental-Agency.Environment", "Transportation.Environmental-Agency.Agency"]. """ \
+                            + "Business concepts should contain the right path in the business glossary."
             },
             {
                 "role": "assistant",
@@ -140,8 +140,8 @@ The prompt used to generate the Alignments:
             },
             {
                 "role":"user",
-                "content": "In a json format {column-business-concept}, generate alignments between these tabular columns:"+ f"{list_columns}, and the next business-glossary items: {list_entities}"\
-                           +". Business-concepts should contain the right path in the business-glossary."
+                "content": "In a json format {column-business-concept}, generate alignments between these tabular columns:"+ f"{list_columns} and the next business glossary items: {list_entities}. "\
+                           +"Business concepts should contain the right path in the business glossary."
             }
         ]
 ```
