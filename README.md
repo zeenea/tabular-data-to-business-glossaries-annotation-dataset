@@ -49,7 +49,7 @@ Each dataset is described with metadata which consists of issuing organization ,
 * **_Dataset Tags._** It represents a list of terms that are related to the dataset content
 
 After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](metadata/theme_to_tags_metadata.json)).
-We obtained 34 Themes, and each theme have a list of tags.
+We obtained 34 Themes, and each theme has a list of tags.
 
 #### Statistics on themes and tags
 Distribution of datasets per theme:
@@ -96,7 +96,7 @@ The prompt used to generate the Business-Glossaries:
         },
         {
             "role":"user",
-            "content": f"Generate in a json format, a hierarchical business glossary in the theme of {theme}, by creating concepts with descriptions linked together, using this list of tags: {list_tags}. \
+            "content": f"Generate in a json format, a hierarchical business glossary in the theme of {theme_var}, by creating concepts with descriptions linked together, using this list of tags: {list_of_tags_var}. \
                         The business glossary should contain business concepts with descriptions, instances and subclasses if needed." 
         }
     ]
