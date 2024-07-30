@@ -26,20 +26,28 @@ The table bellow describe the main content of this repository:
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
 # Dataset Construction
+### 1. Data Collection and Preparation
+We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API. 
+We searched for datasets related to **Transport** field, the choice of the field was arbitrary.
 
-We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API, 
-by searching for datasets related to "**Transport**" field (The choice of the field was arbitrary).
+Each dataset is described with metadata which consist of issuing organization ,dataset name, column names, tags, theme, access level and license.
+* **_Dataset Theme._** It describes the general topic of the dataset
+* **_Dataset Tags._** It represents a list of terms that are related to the dataset content
+
+After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](https://github.com/zeenea/tabular-data-to-business-glossaries-annotation-dataset/blob/develop/metadata/theme_to_tags_metadata.json)).
+
+#### Statistics on themes and tags
+The next figure describes the distribution of tags per dataset
+
+
+### 2. LLM-Generated Business Glossaries
+
+
+### 3. LLM-Generated Alignments
 
 
 
-### LLM-Generated Business Glossaries
-
-
-### LLM-Generated Alignments
-
-
-
-# Statistics on Datasets and Columns, Business Glossaries and Alignments
+#General Statistics on Datasets and Columns, Business Glossaries and Alignments
 <table>
 <tr><th>1. Dataset and Column statistics  </th> <th>2. Business Glossary statistics  </th><th>3. Alignments statistics</th></tr>
 <tr><td>
