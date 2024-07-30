@@ -1,9 +1,12 @@
 # tabular-data-to-business-glossaries-annotation-dataset
-A dataset of tabular data (tables and columns) from data.gov (USA) annotated to business glossaries using LLMs.
+A dataset of tabular data from [data.gov](https://data.gov/) annotated to business glossaries using LLMs.
 
 # Dataset Description
-In this project we collected datasets from [data.gov](https://data.gov/) using their API,
-by searching for datasets related to "Transport" field (The choice of the field was arbitrary).
+Following a collaboration between [Zeenea](https://zeenea.com/fr/) and [LIP6](https://www.lip6.fr/) through an industrial thesis project on **Smart Metadata Management Systems**,
+we encountered a number of data-related challenges.
+Consequently, we took the initiative to create our own dataset for the task of aligning tabular data with business glossaries.
+
+This repository contains tabular data (datasets and columns) collected from [data.gov](https://data.gov/) , various business glossaries, and alignments between tabular data and business glossary entities.
 
 We choose [data.gov](https://data.gov/) for the following reasons:
 * Easy-to-use API
@@ -11,8 +14,14 @@ We choose [data.gov](https://data.gov/) for the following reasons:
 * Tabular Datasets are annotated with _themes_ and a _list of tags_ 
 * Tabular Columns have meaningful names 
 
---- describe the content, files ....
+In the dataset construction phase, we used Large Language Models to generate the business glossaries and alignments.
 
+| Content Description  |     |
+|----------------------|-----|
+| data/                |     |
+| metadata/            |     |
+| business-glossaries/ |     |
+| alignments/          |     |
 
 We conducted this project to build a relevant dataset for tabular data alignment with business glossaries.
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
@@ -70,7 +79,7 @@ LLM used :
 
 
 # License
-tabular-data-to-business-glossaries-annotation-dataset © 2024 is licensed under CC BY-NC-SA 4.0.
+tabular-data-to-business-glossaries-annotation-dataset © 2024 by Zeenea is licensed under CC BY-NC-SA 4.0.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or go to [LICENCE.md](https://github.com/AKNOUCHEanis/tabular-data-to-business-glossaries-annotation-dataset/blob/main/LICENSE.md).
 
 Certain datasets utilized in this project are governed by specific licenses as detailed in [metadata/column_and_dataset_metadata.csv](https://github.com/AKNOUCHEanis/tabular-data-to-business-glossaries-annotation-dataset/blob/main/metadata/column_and_dataset_metadata.csv).  
