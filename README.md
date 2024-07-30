@@ -34,11 +34,14 @@ Each dataset is described with metadata which consist of issuing organization ,d
 * **_Dataset Theme._** It describes the general topic of the dataset
 * **_Dataset Tags._** It represents a list of terms that are related to the dataset content
 
-After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](https://github.com/zeenea/tabular-data-to-business-glossaries-annotation-dataset/blob/develop/metadata/theme_to_tags_metadata.json)).
+After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [column_and_dataset_metadata.csv](/metadata/column_and_dataset_metadata.csv)).
 
 #### Statistics on themes and tags
-The next figure describes the distribution of datasets per theme.
-[Number of dataset per theme](https://github.com/zeenea/tabular-data-to-business-glossaries-annotation-dataset/blob/develop/figures/number_of_dataset_per_theme.png)
+Distribution of datasets per theme:
+![](figures/number_of_dataset_per_theme.png)
+
+Distribution of tags per theme:
+![](figures/number_of_tags_per_theme.png)
 
 ### 2.2. LLM-Generated Business Glossaries
 
