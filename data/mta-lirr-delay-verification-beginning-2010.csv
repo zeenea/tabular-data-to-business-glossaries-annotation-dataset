@@ -1,0 +1,51 @@
+,Service Date,Train,Branch,Depart Station,Depart Time,Arrive Station,Arrive Time,Period,Status,Minutes Late
+0,01/01/2010,6148,Babylon,NY Penn Station,01/01/2010 11:31:00 PM,Babylon,01/01/2010 12:47:00 AM,Off-peak,Late,25.0
+1,01/01/2010,6405,Port Washington,Port Washington,01/01/2010 03:40:00 AM,NY Penn Station,01/01/2010 04:25:00 AM,Off-peak,Late,14.0
+2,01/01/2010,6698,Port Jefferson,NY Penn Station,01/01/2010 03:13:00 AM,Port Jefferson,01/01/2010 05:03:00 AM,Off-peak,Late,26.0
+3,01/01/2010,6702,Hempstead,Flatbush Avenue,01/01/2010 01:43:00 AM,Hempstead,01/01/2010 02:34:00 AM,Off-peak,Late,8.0
+4,01/01/2010,8064,Ronkonkoma,NY Penn Station,01/01/2010 07:17:00 PM,Ronkonkoma,01/01/2010 08:35:00 PM,Off-peak,Late,7.0
+5,01/01/2010,8765,Montauk,Patchogue,01/01/2010 05:23:00 PM,Jamaica,01/01/2010 06:32:00 PM,Off-peak,Late,11.0
+6,01/01/2010,7746,Huntington,NY Penn Station,01/01/2010 11:43:00 PM,Huntington,01/01/2010 12:48:00 AM,Off-peak,Late,24.0
+7,01/01/2010,7737,Huntington,Huntington,01/01/2010 09:03:00 PM,NY Penn Station,01/01/2010 10:09:00 PM,Off-peak,Late,9.0
+8,01/01/2010,8770,Montauk,Jamaica,01/01/2010 05:41:00 PM,Patchogue,01/01/2010 06:49:00 PM,Off-peak,Late,8.0
+9,01/01/2010,8796,Montauk,NY Penn Station,01/01/2010 01:30:00 AM,Speonk,01/01/2010 03:39:00 AM,Off-peak,Late,14.0
+10,01/01/2010,6404,Port Washington,NY Penn Station,01/01/2010 03:20:00 AM,Port Washington,01/01/2010 04:05:00 AM,Off-peak,Late,11.0
+11,01/01/2010,8061,Ronkonkoma,Ronkonkoma,01/01/2010 05:40:00 PM,NY Penn Station,01/01/2010 06:59:00 PM,Off-peak,Late,6.0
+12,01/01/2010,8713,Montauk,Montauk,01/01/2010 07:34:00 PM,Jamaica,01/01/2010 10:11:00 PM,Off-peak,Late,7.0
+13,01/01/2010,8000,Ronkonkoma,NY Penn Station,01/01/2010 12:15:00 AM,Ronkonkoma,01/01/2010 01:36:00 AM,Off-peak,Late,9.0
+14,01/02/2010,6609,Port Jefferson,Port Jefferson,01/02/2010 10:08:00 AM,Huntington,01/02/2010 10:55:00 AM,Off-peak,Late,27.0
+15,01/02/2010,7726,Huntington,NY Penn Station,01/02/2010 06:26:00 PM,Huntington,01/02/2010 07:28:00 PM,Off-peak,Late,11.0
+16,01/02/2010,7729,Huntington,Huntington,01/02/2010 07:03:00 PM,NY Penn Station,01/02/2010 08:09:00 PM,Off-peak,Late,8.0
+17,01/02/2010,7730,Huntington,NY Penn Station,01/02/2010 07:26:00 PM,Huntington,01/02/2010 08:28:00 PM,Off-peak,Late,8.0
+18,01/02/2010,8741,Montauk,Speonk,01/02/2010 05:53:00 PM,Jamaica,01/02/2010 07:32:00 PM,Off-peak,Late,41.0
+19,01/02/2010,6202,Ronkonkoma,Ronkonkoma,01/02/2010 03:40:00 PM,Greenport,01/02/2010 05:05:00 PM,Off-peak,Late,36.0
+20,01/02/2010,6606,Port Jefferson,Huntington,01/02/2010 08:36:00 AM,Port Jefferson,01/02/2010 09:25:00 AM,Off-peak,Cancelled,
+21,01/02/2010,7619,Huntington,Huntington,01/02/2010 08:36:00 AM,NY Penn Station,01/02/2010 09:39:00 AM,Off-peak,Late,11.0
+22,01/02/2010,6127,Babylon,Babylon,01/02/2010 05:28:00 PM,NY Penn Station,01/02/2010 06:45:00 PM,Off-peak,Late,7.0
+23,01/02/2010,6490,Port Washington,NY Penn Station,01/02/2010 10:20:00 PM,Port Washington,01/02/2010 11:05:00 PM,Off-peak,Late,17.0
+24,01/02/2010,6600,Port Jefferson,Huntington,01/02/2010 12:54:00 AM,Port Jefferson,01/02/2010 01:41:00 AM,Off-peak,Late,19.0
+25,01/02/2010,7731,Huntington,Huntington,01/02/2010 07:36:00 PM,NY Penn Station,01/02/2010 08:39:00 PM,Off-peak,Late,14.0
+26,01/03/2010,6201,Ronkonkoma,Greenport,01/03/2010 01:11:00 PM,Ronkonkoma,01/03/2010 02:35:00 PM,Off-peak,Partial Cancel,
+27,01/03/2010,6663,Port Jefferson,Port Jefferson,01/03/2010 10:08:00 PM,Huntington,01/03/2010 10:55:00 PM,Off-peak,Late,14.0
+28,01/03/2010,6860,Long Beach,NY Penn Station,01/03/2010 05:29:00 PM,Long Beach,01/03/2010 06:26:00 PM,Off-peak,Late,8.0
+29,01/03/2010,6853,Long Beach,Long Beach,01/03/2010 01:30:00 PM,NY Penn Station,01/03/2010 02:27:00 PM,Off-peak,Late,23.0
+30,01/03/2010,6200,Ronkonkoma,Ronkonkoma,01/03/2010 10:40:00 AM,Greenport,01/03/2010 12:05:00 PM,Off-peak,Partial Cancel,36.0
+31,01/03/2010,6202,Ronkonkoma,Ronkonkoma,01/03/2010 03:40:00 PM,Greenport,01/03/2010 05:05:00 PM,Off-peak,Cancelled,
+32,01/03/2010,7609,Huntington,Huntington,01/03/2010 06:03:00 AM,NY Penn Station,01/03/2010 07:09:00 AM,Off-peak,Late,12.0
+33,01/03/2010,8065,Ronkonkoma,Ronkonkoma,01/03/2010 07:40:00 PM,NY Penn Station,01/03/2010 08:59:00 PM,Off-peak,Late,21.0
+34,01/03/2010,6203,Ronkonkoma,Greenport,01/03/2010 06:11:00 PM,Ronkonkoma,01/03/2010 07:35:00 PM,Off-peak,Cancelled,
+35,01/03/2010,6864,Long Beach,NY Penn Station,01/03/2010 07:29:00 PM,Long Beach,01/03/2010 08:26:00 PM,Off-peak,Late,7.0
+36,01/04/2010,149,Babylon,Babylon,01/04/2010 08:41:00 PM,NY Penn Station,01/04/2010 09:55:00 PM,Off-peak,Late,8.0
+37,01/04/2010,2768,Montauk,Babylon,01/04/2010 12:26:00 PM,Patchogue,01/04/2010 12:56:00 PM,Off-peak,Late,11.0
+38,01/04/2010,2769,Montauk,Patchogue,01/04/2010 11:40:00 AM,Babylon,01/04/2010 12:10:00 PM,Off-peak,Late,6.0
+39,01/04/2010,48,Babylon,NY Penn Station,01/04/2010 11:23:00 AM,Babylon,01/04/2010 12:23:00 PM,Off-peak,Late,10.0
+40,01/04/2010,511,Oyster Bay,Oyster Bay,01/04/2010 08:16:00 AM,Long Island City,01/04/2010 09:36:00 AM,AM Peak,Late,19.0
+41,01/04/2010,57,Babylon,Babylon,01/04/2010 09:48:00 AM,NY Penn Station,01/04/2010 11:04:00 AM,Off-peak,Late,7.0
+42,01/04/2010,610,Port Jefferson,Huntington,01/04/2010 11:51:00 AM,Port Jefferson,01/04/2010 12:37:00 PM,Off-peak,Late,10.0
+43,01/04/2010,102,Babylon,NY Penn Station,01/04/2010 12:07:00 PM,Babylon,01/04/2010 01:21:00 PM,Off-peak,Late,9.0
+44,01/04/2010,1453,Far Rockaway,Jamaica,01/04/2010 04:52:00 PM,Flatbush Avenue,01/04/2010 05:10:00 PM,Off-peak,Late,8.0
+45,01/04/2010,16,Babylon,NY Penn Station,01/04/2010 07:11:00 AM,Babylon,01/04/2010 08:08:00 AM,Off-peak,Late,24.0
+46,01/04/2010,2023,Ronkonkoma,Ronkonkoma,01/04/2010 07:19:00 AM,NY Penn Station,01/04/2010 08:28:00 AM,AM Peak,Late,7.0
+47,01/04/2010,22,Babylon,NY Penn Station,01/04/2010 07:50:00 AM,Babylon,01/04/2010 08:47:00 AM,Off-peak,Late,12.0
+48,01/04/2010,2704,Montauk,Babylon,01/04/2010 08:52:00 AM,Montauk,01/04/2010 10:53:00 AM,Off-peak,Late,12.0
+49,01/04/2010,2707,Montauk,Montauk,01/04/2010 11:14:00 AM,Jamaica,01/04/2010 02:03:00 PM,Off-peak,Late,13.0

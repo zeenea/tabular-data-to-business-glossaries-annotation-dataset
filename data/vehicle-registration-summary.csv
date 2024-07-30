@@ -1,0 +1,51 @@
+,Transaction Count,Calendar Year,Fiscal Year,Transaction Type,Vehicle Primary Use,Vehicle Type,Gross Vehicle Weight Rating Class,Gross Vehicle Weight Rating Range (Pounds),Electrification Level,County,State
+0,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Asotin,WA
+1,1,2017,2017,Original Registration,Passenger,BUS,,,ICE (Internal Combustion Engine),Asotin,WA
+2,1,2017,2017,Original Registration,Passenger,BUS,,,ICE (Internal Combustion Engine),Benton,WA
+3,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Columbia,WA
+4,1,2017,2017,Original Registration,Passenger,BUS,,,ICE (Internal Combustion Engine),Cowlitz,WA
+5,3,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Unknown or Out of State,CA
+6,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Douglas,WA
+7,7,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Island,WA
+8,13,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Chelan,WA
+9,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Adams,WA
+10,12,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Grant,WA
+11,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Pacific,WA
+12,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Skamania,WA
+13,10,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Clallam,WA
+14,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Unknown or Out of State,OK
+15,11,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Cowlitz,WA
+16,18,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Benton,WA
+17,1,2017,2017,Original Registration,Passenger,BUS,,,ICE (Internal Combustion Engine),Clark,WA
+18,6,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Walla Walla,WA
+19,17,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Lewis,WA
+20,16,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Clark,WA
+21,35,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Clark,WA
+22,11,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Yakima,WA
+23,4,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Jefferson,WA
+24,8,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Mason,WA
+25,1,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Garfield,WA
+26,5,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Kitsap,WA
+27,10,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Franklin,WA
+28,11,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Klickitat,WA
+29,1,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),San Juan,WA
+30,11,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Kitsap,WA
+31,1,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Walla Walla,WA
+32,2,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Yakima,WA
+33,5,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Stevens,WA
+34,6,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Okanogan,WA
+35,2,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,4.0,"14,001 - 16,000",ICE (Internal Combustion Engine),Thurston,WA
+36,13,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Grays Harbor,WA
+37,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Ferry,WA
+38,5,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Stevens,WA
+39,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Kittitas,WA
+40,37,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Snohomish,WA
+41,23,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Thurston,WA
+42,3,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Pend Oreille,WA
+43,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Wahkiakum,WA
+44,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Unknown or Out of State,PA
+45,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Unknown or Out of State,AK
+46,1,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,5.0,"16,001 - 19,500",ICE (Internal Combustion Engine),Lewis,WA
+47,1,2017,2017,Original Registration,Passenger,INCOMPLETE VEHICLE,5.0,"16,001 - 19,500",ICE (Internal Combustion Engine),Mason,WA
+48,1,2017,2017,Original Registration,Passenger,BUS,2.0,"6,001 - 10,000",ICE (Internal Combustion Engine),Unknown or Out of State,SC
+49,2,2017,2017,Original Registration,Passenger,BUS,3.0,"10,001 - 14,000",ICE (Internal Combustion Engine),King,WA

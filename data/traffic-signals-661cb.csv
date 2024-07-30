@@ -1,0 +1,51 @@
+,Intersection ID,Intersection Name,Maintenance Custodian,Signal Type,Asset ID,Status,Data Source,Date Installed,Geometry,Mount Type,Cabinet Manufacturer,Cabinet Type,Cabinet Size,Battery Back-up,Controller Manufacturer,Controller Model,Type of Detection,Conflict Monitor Manufacturer,Conflict Monitor Model
+0,4820.0,Arbors LN & Clarizz BLVD & Moores PIKE,Bloomington,Rapid Flashing Beacon,42,Operational,GIS COB,,POINT (-86.491324331003 39.150337989493),,,,,,,,,,
+1,4144.0,19th ST & Dunn ST,Bloomington,Hawk Signal,18,Operational,GIS COB,,POINT (-86.528321074541 39.181013625926),,,,,,,,,,
+2,3339.0,2nd ST & Walker ST,Bloomington,Signal,96,Operational,GIS COB,,POINT (-86.546156113596 39.161451484277),,,,,,,,,,
+3,2131.0,Country Club DR & Rockport RD & Tapp RD,Bloomington,Signal,35,Operational,GIS COB,,POINT (-86.548737173161 39.136341948105),,,,,,,,,,
+4,3051.0,Allen ST & Walnut ST,Bloomington,Rapid Flashing Beacon,25,Operational,GIS COB,,POINT (-86.53370148945 39.155621866109),,,,,,,,,,
+5,3194.0,2nd ST & Adams ST & Bloomfield RD,Bloomington,Signal,72,Operational,GIS COB,,POINT (-86.550815844422 39.160392768927),,,,,,,,,,
+6,3932.0,11th ST & Diamond ST,Bloomington,Rapid Flashing Beacon,141,Operational,GIS COB,,POINT (-86.544174039195 39.173268470246),,,,,,,,,,
+7,,,Bloomington,Driver Feedback,144,Operational,GIS COB,,POINT (-86.55291225206 39.141582291148),,,,,,,,,,
+8,,,Bloomington,Driver Feedback,145,Operational,GIS COB,,POINT (-86.552211559258 39.142230429463),,,,,,,,,,
+9,2557.0,Graham DR & Rogers ST,Bloomington,Rapid Flashing Beacon,139,Operational,GIS COB,,POINT (-86.538669027753 39.139821240268),,,,,,,,,,
+10,4127.0,18th ST & Dunn ST,Bloomington,Rapid Flashing Beacon,136,Operational,GIS COB,,POINT (-86.528313090255 39.180225267423),,,,,,,,,,
+11,,,Bloomington,Driver Feedback,147,Operational,GIS COB,,POINT (-86.508281860933 39.139524874752),,,,,,,,,,
+12,,,Bloomington,Driver Feedback,146,Operational,GIS COB,,POINT (-86.503545037936 39.160997194664),,,,,,,,,,
+13,3386.0,Smith AVE & Washington ST,Bloomington,Rapid Flashing Beacon,137,Operational,GIS COB,,POINT (-86.532393254221 39.162837075691),,,,,,,,,,
+14,2665.0,Greenbriar LN & High ST & Wimbleton LN,Bloomington,Rapid Flashing Beacon,138,Operational,GIS COB,,POINT (-86.508318949622 39.144120725596),,,,,,,,,,
+15,3589.0,4th ST & Rogers ST,Bloomington,Rapid Flashing Beacon,135,Operational,GIS COB,,POINT (-86.538707910609 39.165633542088),,,,,,,,,,
+16,2568.0,Graham DR & Rockport RD,Bloomington,Rapid Flashing Beacon,140,Operational,GIS COB,,POINT (-86.545129276089 39.139982894714),,,,,,,,,,
+17,,,Bloomington,Driver Feedback,142,Operational,GIS COB,,POINT (-86.522794932469 39.150587948286),,,,,,,,,,
+18,,,Bloomington,Hawk Signal,133,Operational,GIS COB,,POINT (-86.533048777641 39.148234675276),,,,,,,,,,
+19,,,Bloomington,Driver Feedback,148,Operational,Aerial Imagery,,POINT (-86.530411055991 39.150450853328),,,,,,,,,,
+20,,,Bloomington,Driver Feedback,143,Operational,GIS COB,,POINT (-86.484550976686 39.150250885186),,,,,,,,,,
+21,5462.0,B-Line Trail & Bloomington Rail Trail & Country Club DR,Bloomington,Hawk Signal,9,Operational,GIS COB,,POINT (-86.53487755864 39.135955413373),,,,,,,,,,
+22,3579.0,3rd ST & Madison ST,Bloomington,Signal,94,Operational,GIS COB,,POINT (-86.537411772755 39.164627946148),,,,,,Econolite,ASC_2S_1000,,EDI,MMU16E
+23,3887.0,10th ST & Fee LN,Bloomington,Signal,75,Operational,GIS COB,,POINT (-86.519027574614 39.171615003808),,,,,,Econolite,ASC_3_1000,Autoscope,Reno AE,MMU1600D
+24,3519.0,3rd ST & Kimble DR,Bloomington,Signal,100,Operational,GIS COB,,POINT (-86.567989494212 39.164535023012),,,,,,Econolite,ASC_3_1000,Autoscope,Reno AE,MMU1600
+25,4113.0,17th ST & Walnut ST,Bloomington,Signal,71,Operational,GIS COB,,POINT (-86.53350369097 39.178997914735),,,,,,Econolite,Cobalt eos,,Reno AE,MMU1601
+26,2094.0,Gordon PIKE & Old State Road 37 & Rhorer RD & Walnut ST,Bloomington,Signal,132,Operational,GIS COB,,POINT (-86.531349774394 39.121457405767),,,,,,Econolite,Cobalt eos,,EDI,MMU16E
+27,2424.0,Country Club DR & Rogers ST,Bloomington,Signal,129,Operational,GIS COB,,POINT (-86.538260894504 39.136034410601),,,,,,Econolite,ASC_2S_1000,Autoscope,Reno AE,MMU1600D
+28,3894.0,11th ST & College AVE,Bloomington,Signal,56,Operational,GIS COB,,POINT (-86.53482002332 39.17327994036),,,,,,Econolite,ASC_3_1000,,Reno AE,MMU1600D
+29,3255.0,2nd ST & College Mall RD,Bloomington,Signal,59,Operational,GIS COB,,POINT (-86.497727262238 39.160926096065),,,,,,Econolite,ASC_2,Autoscope,Reno AE,MMU1600
+30,3026.0,College Mall RD & Covenanter DR,Bloomington,Signal,114,Operational,GIS COB,,POINT (-86.497701409929 39.155185097309),,,,,,Econolite,ASC_2S_1000,Autoscope,EDI,MMU16E
+31,3580.0,4th ST & College AVE,Bloomington,Signal,81,Operational,GIS COB,,POINT (-86.534895124433 39.165601114011),,,,,,Econolite,ASC_3_1000,Autoscope,Reno AE,MMU1600D
+32,4709.0,Bloomfield RD & Rolling Ridge WAY,Bloomington,Signal,36,Operational,GIS COB,,POINT (-86.563226971549 39.154946131147),,,,,,Econolite,ASC_3_1000,Miovision,Reno AE,MMU1600GE
+33,2904.0,College Mall RD & Moores PIKE & Sare RD,Bloomington,Signal,112,Operational,GIS COB,,POINT (-86.498250362057 39.150478469976),,,,,,Econolite,Cobalt eos,Miovision,Reno AE,MMU21600GE
+34,3663.0,6th ST & College AVE,Bloomington,Signal,79,Operational,GIS COB,,POINT (-86.534870598859 39.167563357494),,,,,,Econolite,ASC_3_2100,Autoscope,Reno AE,MMU1600
+35,2587.0,South DR & Walnut ST,Bloomington,Signal,90,Operational,GIS COB,,POINT (-86.531184143498 39.141904886497),,,,,,Econolite,ASC_2S_2100,,EDI,MMU16E
+36,2978.0,Grimes LN & Walnut ST,Bloomington,Signal,88,Operational,GIS COB,,POINT (-86.533731442048 39.153373208574),,,,,,Econolite,ASC_3_1000,,Reno AE,MMU1600D
+37,4754.0,Bloomfield RD & Landmark AVE,Bloomington,Signal,67,Operational,GIS COB,,POINT (-86.553836655541 39.159976929454),,,,,,Econolite,Cobalt eos,Autoscope,Reno AE,MMU1600GE
+38,3452.0,3rd ST & Washington ST,Bloomington,Signal,77,Operational,GIS COB,,POINT (-86.53237245551 39.164599040592),,,,,,Econolite,ASC_3_1000,,Reno AE,MMU1600D
+39,3701.0,7th ST & College AVE,Bloomington,Signal,76,Operational,GIS COB,,POINT (-86.534861558265 39.168567463811),,,,,,Econolite,ASC_3_1000,Autoscope,Reno AE,MMU1600D
+40,3006.0,Patterson DR & Rogers ST,Bloomington,Signal,130,Operational,GIS COB,,POINT (-86.53875028747 39.153794259021),,,,,,Econolite,ASC_3_1000,Miovision,Reno AE,MMU1600GE
+41,3857.0,10th ST & Walnut ST,Bloomington,Signal,74,Operational,GIS COB,,POINT (-86.533573405005 39.171666799675),,,,,,Econolite,ASC_3_1000,,Reno AE,MMU1600D
+42,4116.0,17th ST & Kinser PIKE & Madison ST,Bloomington,Signal,69,Operational,GIS COB,,POINT (-86.537751062385 39.179020542675),,,,,,Econolite,Cobalt,Miovision,Reno AE,MMU1600GE
+43,4060.0,17th ST & Woodlawn AVE,Bloomington,Signal,45,Operational,GIS COB,,POINT (-86.52356784325 39.179042799407),,,,,,Econolite,Cobalt eos,Miovision,Reno AE,MMU1600D
+44,3434.0,Atwater AVE & Eagleson AVE,Bloomington,Signal,116,Operational,GIS COB,,POINT (-86.51640261063 39.16306788074),,,,,,Econolite,Cobalt eos,,Reno AE,MMU1600D
+45,2709.0,Miller DR & Walnut ST,Bloomington,Signal,126,Operational,GIS COB,,POINT (-86.53267728799 39.146915776431),,,,,,Econolite,Cobalt eos,,Reno AE,MMU21600GE
+46,4838.0,Allen ST & Patterson DR,Bloomington,Signal,106,Operational,GIS COB,,POINT (-86.543311164028 39.155634728463),,,,,,Econolite,ASC_2S_1000,,Reno AE,MMU1600D
+47,3864.0,10th ST & College AVE,Bloomington,Signal,68,Operational,GIS COB,,POINT (-86.534834666357 39.171685716108),,,,,,Econolite,ASC_3_1000,,Reno AE,MMU1600D
+48,4530.0,3rd ST & Landmark AVE,Bloomington,Signal,108,Operational,GIS COB,,POINT (-86.556334979576 39.164430455914),,,,,,Econolite,ASC_3_1000,Autoscope,EDI,MMU16E
+49,4970.0,Adams ST & Patterson DR & Prospect ST,Bloomington,Signal,11,Operational,GIS COB,,POINT (-86.550490439517 39.162696283514),,,,,,Econolite,ASC_3_1000,Miovision,Reno AE,MMU1600D

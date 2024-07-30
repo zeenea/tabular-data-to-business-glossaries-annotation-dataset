@@ -1,0 +1,101 @@
+,Date,County,State,Vehicle Primary Use,Battery Electric Vehicles (BEVs),Plug-In Hybrid Electric Vehicles (PHEVs),Electric Vehicle (EV) Total,Non-Electric Vehicle Total,Total Vehicles,Percent Electric Vehicles
+0,November 30 2018,San Juan,PR,Passenger,0,1,1,5,6,16.67
+1,November 30 2021,Ferry,WA,Passenger,13,3,16,4457,4473,0.36
+2,July 31 2021,Eagle,CO,Passenger,1,0,1,10,11,9.09
+3,January 31 2020,Collier,FL,Passenger,1,0,1,17,18,5.56
+4,July 31 2023,Lane,OR,Passenger,0,2,2,66,68,2.94
+5,May 31 2020,Ventura,CA,Passenger,1,1,2,296,298,0.67
+6,August 31 2023,Carroll,MD,Passenger,0,1,1,20,21,4.76
+7,January 31 2022,Washtenaw,MI,Passenger,0,1,1,30,31,3.23
+8,November 30 2022,Clinton,PA,Passenger,1,0,1,1,2,50.0
+9,August 31 2018,Lincoln,WA,Passenger,3,6,9,7748,7757,0.12
+10,July 31 2018,Riverside,CA,Passenger,2,2,4,689,693,0.58
+11,April 30 2020,Cochise,AZ,Passenger,0,1,1,100,101,0.99
+12,June 30 2018,Sedgwick,KS,Passenger,0,1,1,101,102,0.98
+13,August 31 2019,Alameda,CA,Passenger,4,1,5,300,305,1.64
+14,January 31 2018,Adams,WA,Truck,0,0,0,5149,5149,0.0
+15,September 30 2022,DeKalb,GA,Passenger,1,0,1,50,51,1.96
+16,November 30 2018,Santa Fe,NM,Passenger,0,1,1,44,45,2.22
+17,June 30 2022,Sumter,SC,Passenger,0,1,1,33,34,2.94
+18,January 31 2019,Columbia,WA,Passenger,2,2,4,2424,2428,0.16
+19,September 30 2020,El Dorado,CA,Passenger,1,0,1,36,37,2.7
+20,October 31 2022,Tarrant,TX,Passenger,1,0,1,106,107,0.93
+21,February 28 2023,Marin,CA,Passenger,0,1,1,31,32,3.12
+22,March 31 2017,Monroe,NY,Passenger,1,0,1,30,31,3.23
+23,May 31 2023,Yellowstone,MT,Passenger,0,1,1,16,17,5.88
+24,November 30 2023,Washington,MD,Passenger,1,0,1,13,14,7.14
+25,March 31 2017,Yakima,WA,Truck,0,0,0,57264,57264,0.0
+26,September 30 2020,Santa Clara,CA,Passenger,6,2,8,290,298,2.68
+27,January 31 2020,Alameda,CA,Passenger,4,1,5,295,300,1.67
+28,July 31 2020,Montgomery,TX,Passenger,1,0,1,55,56,1.79
+29,February 28 2018,Sumter,FL,Passenger,0,1,1,10,11,9.09
+30,July 31 2017,Thurston,WA,Truck,0,0,0,53295,53295,0.0
+31,October 31 2018,Grant,WA,Truck,0,0,0,26083,26083,0.0
+32,April 30 2021,Whitman,WA,Truck,0,0,0,8568,8568,0.0
+33,August 31 2018,Lewis,WA,Passenger,83,62,145,57864,58009,0.25
+34,November 30 2018,Clark,WA,Passenger,1188,830,2018,310962,312980,0.64
+35,May 31 2022,Juneau,AK,Passenger,0,1,1,30,31,3.23
+36,June 30 2021,Louisa,VA,Passenger,0,1,1,1,2,50.0
+37,August 31 2019,Wilson,TX,Passenger,0,1,1,7,8,12.5
+38,October 31 2021,El Paso,TX,Passenger,3,0,3,368,371,0.81
+39,May 31 2018,Kent,MI,Passenger,0,1,1,30,31,3.23
+40,November 30 2021,Thurston,WA,Truck,0,0,0,56139,56139,0.0
+41,July 31 2020,Clay,FL,Passenger,0,1,1,82,83,1.2
+42,June 30 2022,Greene,MO,Passenger,0,1,1,26,27,3.7
+43,June 30 2019,Saginaw,MI,Passenger,1,0,1,12,13,7.69
+44,July 31 2022,DuPage,IL,Passenger,0,1,1,48,49,2.04
+45,March 31 2022,Goochland,VA,Passenger,4,2,6,161,167,3.59
+46,March 31 2021,Island,WA,Passenger,556,299,855,62929,63784,1.34
+47,September 30 2020,Klickitat,WA,Passenger,58,42,100,15019,15119,0.66
+48,November 30 2021,Broward,FL,Passenger,2,0,2,106,108,1.85
+49,November 30 2019,Grays Harbor,WA,Truck,0,0,0,20749,20749,0.0
+50,March 31 2021,St. Louis,MO,Passenger,1,0,1,95,96,1.04
+51,May 31 2023,Lewis,WA,Passenger,309,207,516,59105,59621,0.87
+52,February 28 2022,Klickitat,WA,Passenger,92,53,145,15295,15440,0.94
+53,January 31 2021,Washington,OR,Passenger,1,0,1,414,415,0.24
+54,November 30 2018,Allegheny,PA,Passenger,1,0,1,91,92,1.09
+55,February 28 2019,Shelby,TN,Passenger,0,1,1,98,99,1.01
+56,September 30 2023,Albemarle,VA,Passenger,1,0,1,14,15,6.67
+57,January 31 2018,Spokane,WA,Passenger,300,255,555,300759,301314,0.18
+58,November 30 2017,Clallam,WA,Truck,0,0,0,21183,21183,0.0
+59,August 31 2019,Cascade,MT,Passenger,0,1,1,64,65,1.54
+60,December 31 2022,Anchorage,AK,Passenger,1,0,1,117,118,0.85
+61,September 30 2021,Montgomery,OH,Passenger,0,1,1,58,59,1.69
+62,November 30 2022,Whatcom,WA,Passenger,2057,798,2855,148742,151597,1.88
+63,April 30 2020,Harford,MD,Passenger,0,1,1,60,61,1.64
+64,August 31 2020,Okaloosa,FL,Passenger,0,1,1,147,148,0.68
+65,December 31 2021,Moore,NC,Passenger,0,1,1,124,125,0.8
+66,September 30 2018,Skamania,WA,Passenger,15,11,26,8709,8735,0.3
+67,February 28 2018,Anne Arundel,MD,Passenger,0,1,1,474,475,0.21
+68,July 31 2020,Grays Harbor,WA,Truck,0,0,0,20977,20977,0.0
+69,November 30 2018,Benton,WA,Passenger,209,224,433,132772,133205,0.33
+70,December 31 2017,Anne Arundel,MD,Passenger,0,1,1,475,476,0.21
+71,June 30 2022,Richland,SC,Passenger,0,2,2,132,134,1.49
+72,June 30 2020,St. Louis,MO,Passenger,1,0,1,100,101,0.99
+73,October 31 2023,Asotin,WA,Truck,0,0,0,6562,6562,0.0
+74,February 28 2018,Wahkiakum,WA,Truck,0,0,0,1673,1673,0.0
+75,May 31 2021,Hamilton,IN,Passenger,2,0,2,36,38,5.26
+76,August 31 2022,Oldham,KY,Passenger,0,1,1,4,5,20.0
+77,January 31 2023,Island,WA,Passenger,955,401,1356,61401,62757,2.16
+78,February 28 2019,Whatcom,WA,Passenger,785,380,1165,149611,150776,0.77
+79,July 31 2018,Stevens,WA,Passenger,11,25,36,31645,31681,0.11
+80,July 31 2021,San Diego,CA,Passenger,18,6,24,2564,2588,0.93
+81,November 30 2019,Kootenai,ID,Passenger,1,1,2,230,232,0.86
+82,June 30 2019,Williamson,TX,Passenger,0,1,1,149,150,0.67
+83,August 31 2019,Franklin,WA,Truck,0,0,0,19489,19489,0.0
+84,December 31 2020,Cascade,MT,Passenger,0,1,1,58,59,1.69
+85,June 30 2023,Franklin,WA,Truck,5,0,5,20938,20943,0.02
+86,May 31 2020,Howard,MD,Passenger,0,1,1,76,77,1.3
+87,December 31 2020,Sarasota,FL,Passenger,2,0,2,28,30,6.67
+88,January 31 2018,Santa Fe,NM,Passenger,0,1,1,44,45,2.22
+89,October 31 2022,Oldham,KY,Passenger,0,1,1,4,5,20.0
+90,January 31 2018,Pend Oreille,WA,Passenger,4,4,8,9443,9451,0.08
+91,May 31 2017,Virginia Beach,VA,Passenger,2,1,3,654,657,0.46
+92,October 31 2017,Mercer,NJ,Passenger,0,1,1,18,19,5.26
+93,February 28 2023,San Juan,WA,Truck,10,0,10,5899,5909,0.17
+94,August 31 2022,Multnomah,OR,Passenger,0,3,3,526,529,0.57
+95,July 31 2022,Harris,TX,Passenger,1,0,1,149,150,0.67
+96,July 31 2019,Richland,SC,Passenger,0,1,1,164,165,0.61
+97,March 31 2020,Tulsa,OK,Passenger,1,1,2,48,50,4.0
+98,August 31 2021,Wilson,TX,Passenger,0,1,1,4,5,20.0
+99,April 30 2022,Marion,IA,Passenger,1,0,1,0,1,100.0

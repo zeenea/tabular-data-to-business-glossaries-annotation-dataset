@@ -1,0 +1,13 @@
+,Field,Description
+0,OBJECTID,ID
+1,ROUTE,Route number
+2,WeekendSer,Weekend service description
+3,Route_Name,Route name
+4,Timetable_,timetable link
+5,Mode,Mode of travel/vehicle type
+6,TypeServ,Type of service
+7,Shape_Leng,Route length
+8,Avg_Wkdy_F,Average weekday ridership
+9,RidersHour,Total hours service time
+10,CostPerRid,"Cost per ride calculation incorportates the following information: total overhead cost to operate the Port Authority, annual share of total hours vehicles on this route are used (both in and out of service), and total annual number of riders per route."
+11,OnTime2,"Percentage of ""on-time"" total trips by scheduled tietable stop for buses only. On-time stops are defined as timetable stops where the bus arives between 1 minute early and 6 minutes late."

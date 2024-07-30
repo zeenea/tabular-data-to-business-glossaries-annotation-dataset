@@ -1,0 +1,101 @@
+,Agency,Asset Category,Asset,Asset Sub-Category/Components,Total,Units,Condition Criteria,Condition Criteria Percent
+0,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Roof,15,Each,Percent in Poor/Marginal Condition,0.47
+1,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),HVAC,15,Each,Percent in Poor/Marginal Condition,0.47
+2,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Exterior,15,Each,Percent in Poor/Marginal Condition,0.33
+3,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Building Structure,15,Each,Percent in Poor/Marginal Condition,0.73
+4,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Electrical,15,Each,Percent in Poor/Marginal Condition,0.33
+5,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Elevators,8,Each,Percent in Poor/Marginal Condition,0.63
+6,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Employee Facilities,15,Each,Percent in Poor/Marginal Condition,0.8
+7,NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Heavy Shop Equipment,41,Each,Percent in Poor/Marginal Condition,0.1
+8,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Roof,15,Each,Percent in Poor/Marginal Condition,0.13
+9,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",HVAC,15,Each,Percent in Poor/Marginal Condition,0.67
+10,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Exterior,15,Each,Percent in Poor/Marginal Condition,0.13
+11,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Building Structure,15,Each,Percent in Poor/Marginal Condition,0.73
+12,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Electrical,15,Each,Percent in Poor/Marginal Condition,0.13
+13,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Elevators,12,Each,Percent in Poor/Marginal Condition,1.0
+14,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Employee Facilities,15,Each,Percent in Poor/Marginal Condition,0.47
+15,NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Heavy Shop Equipment,246,Each,Percent in Poor/Marginal Condition,0.36
+16,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),CCTV,2,Each,Percent in Poor/Marginal Condition,0.5
+17,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Fencing,24,Each,Percent in Poor/Marginal Condition,0.0
+18,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Hydrants,24,Each,Percent in Poor/Marginal Condition,0.08
+19,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Lighting,24,Each,Percent in Poor/Marginal Condition,0.5
+20,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Track,102,Miles,Percent in Poor/Marginal Condition,0.25
+21,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Signal,23,Each,Percent in Poor/Marginal Condition,0.42
+22,NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Switch,874,Each,Percent in Poor/Marginal Condition,0.19
+23,NYCT,Shops and yards,Car Washer (8 Car Washers),Enclosures,8,Each,Percent in Poor/Marginal Condition,0.13
+24,NYCT,Shops and yards,Car Washer (8 Car Washers),Equipment,8,Each,Percent in Poor/Marginal Condition,0.13
+25,NYCT,Shops and yards,Car Washer (8 Car Washers),Lighting,8,Each,Percent in Poor/Marginal Condition,0.13
+26,NYCT,Shops and yards,Car Washer (8 Car Washers),Electrical,8,Each,Percent in Poor/Marginal Condition,0.0
+27,NYCT,Shops and yards,Car Washer (8 Car Washers),Plumbing and Drain,8,Each,Percent in Poor/Marginal Condition,0.13
+28,NYCT,Shops and yards,Maintenance Support Shops,Roof,29,Each,Percent in Poor/Marginal Condition,0.69
+29,NYCT,Shops and yards,Maintenance Support Shops,HVAC,29,Each,Percent in Poor/Marginal Condition,0.48
+30,NYCT,Shops and yards,Maintenance Support Shops,Exterior,29,Each,Percent in Poor/Marginal Condition,0.48
+31,NYCT,Shops and yards,Maintenance Support Shops,Building Structure,29,Each,Percent in Poor/Marginal Condition,0.38
+32,NYCT,Shops and yards,Maintenance Support Shops,Electrical,29,Each,Percent in Poor/Marginal Condition,0.55
+33,NYCT,Shops and yards,Maintenance Support Shops,Employee Facilities,29,Each,Percent in Poor/Marginal Condition,0.45
+34,NYCT,Shops and yards,Maintenance Support Shops,Heavy Shop Equipment,29,Each,Percent in Poor/Marginal Condition,0.31
+35,NYCT,Shops and yards,SIR Maintenance Shops,Overall Rating,2,Each,Percent in Poor/Marginal Condition,0.5
+36,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Roof,38,Each,Percent in Poor/Marginal Condition,0.29
+37,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Boiler,38,Each,Percent in Poor/Marginal Condition,0.21
+38,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Air Curtain,31,Each,Percent in Poor/Marginal Condition,0.26
+39,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Ventilation,38,Each,Percent in Poor/Marginal Condition,0.42
+40,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Architectural/Structural,38,Each,Percent in Poor/Marginal Condition,0.24
+41,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Electrical,38,Each,Percent in Poor/Marginal Condition,0.37
+42,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Lighting,38,Each,Percent in Poor/Marginal Condition,0.26
+43,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Elevator,19,Each,Percent in Poor/Marginal Condition,0.16
+44,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Employee Facilities,38,Each,Percent in Poor/Marginal Condition,0.39
+45,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Admin Office,38,Each,Percent in Poor/Marginal Condition,0.45
+46,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Emergency Generators,31,Each,Percent in Poor/Marginal Condition,0.42
+47,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Fire Alarm and Suppression,38,Each,Percent in Poor/Marginal Condition,0.21
+48,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Bus Wash,29,Each,Percent in Poor/Marginal Condition,0.07
+49,NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,All Rated Bus Depot/Facility Components,452,Each,Percent in Poor/Marginal Condition,0.31
+50,NYCT,Station Structures and Components,Station Structures and Components,Platform Canopies,436,Each,Percent in Poor/Marginal Condition,0.08
+51,NYCT,Station Structures and Components,Station Structures and Components,"Mezzanine Floors, Columns, Walls, and Ceilings","3,246",Each,Percent in Poor/Marginal Condition,0.1
+52,NYCT,Station Structures and Components,Station Structures and Components,Platform Edges,"1,198",Each,Percent in Poor/Marginal Condition,0.36
+53,NYCT,Station Structures and Components,Station Structures and Components,"Platform Floors, Columns, Walls, and Ceilings","3,276",Each,Percent in Poor/Marginal Condition,0.13
+54,NYCT,Station Structures and Components,Station Structures and Components,Stairways,"5,502",Each,Percent in Poor/Marginal Condition,0.13
+55,NYCT,Station Structures and Components,Station Structures and Components,Passive Ventilation Systems,"2,425",Each,Percent in Poor/Marginal Condition,0.39
+56,NYCT,Station Structures and Components,Station Structures and Components,Windscreens (above-ground station platform fencing),214,Each,Percent in Poor/Marginal Condition,0.21
+57,NYCT,Station Structures and Components,Station Structures and Components,Electrical Distribution Rooms,916,Each,Percent in Poor/Marginal Condition,0.15
+58,NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Elevator - Hydraulic,246,Each,Percent in Poor/Marginal Condition,0.0
+59,NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Elevator - Traction,60,Each,Percent in Poor/Marginal Condition,0.0
+60,NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Escalator,231,Each,Percent in Poor/Marginal Condition,0.06
+61,NYCT,Station Communication Systems,Station Communication Systems,Public Address/Customer Information Screens,472,Each,Percent in Poor/Marginal Condition,0.52
+62,NYCT,Station Communication Systems,Station Communication Systems,Help Points,"1,886",Each,Percent in Poor/Marginal Condition,0.01
+63,NYCT,Station Communication Systems,Station Communication Systems,ADA Farecard Access System,278,Each,Percent in Poor/Marginal Condition,0.0
+64,NYCT,Station Communication Systems,Station Communication Systems,Fare Collection Vending Machines (transitioning to configurable vending machines and changing quantity for OMNY cards),"1,720",Each,Percent in Poor/Marginal Condition,0.0
+65,NYCT,Station Communication Systems,Station Communication Systems,Fare Collection Electronic Turnstiles,"4,461",Each,Percent in Poor/Marginal Condition,0.0
+66,NYCT,Station Communication Systems,Station Communication Systems,Emergency Booth Communication System,478,Each,Percent in Poor/Marginal Condition,0.0
+67,NYCT,Station Communication Systems,Station Communication Systems,"NYCT Station CCTV (cameras, monitors, and recorders for emergency alarm, passenger ID, police security, platform edge, and crowd control)","11,210",Each,Percent in Poor/Marginal Condition,0.55
+68,NYCT,Station Communication Systems,Station Communication Systems,SIR Station CCTV,406,Each,Percent in Poor/Marginal Condition,1.0
+69,NYCT,Line structures,Line structures,Elevated,61,Miles,Percentage of Miles with High Defect Concentration,0.08
+70,NYCT,Line structures,Line structures,Viaduct,9.3,Miles,Percentage of Miles with High Defect Concentration,0.58
+71,NYCT,Line structures,Line structures,Open Cut,10.6,Miles,Percentage of Miles with High Defect Concentration,0.05
+72,NYCT,Line structures,Line structures,Subway,155.4,Miles,Percentage of Miles with High Defect Concentration,0.29
+73,NYCT,Line structures,Line structures,Embankment,15.2,Miles,Percentage of Miles with High Defect Concentration,0.02
+74,NYCT,Line structures,Staten Island Railway,At-Grade,12,Miles,Percent in Poor/Marginal Condition,0.83
+75,NYCT,Line structures,Staten Island Railway,Bridge,0.4,Miles,Percent in Poor/Marginal Condition,0.24
+76,NYCT,Line structures,Staten Island Railway,Elevated,1.1,Miles,Percent in Poor/Marginal Condition,1.0
+77,NYCT,Line structures,Staten Island Railway,Open Cut,1,Miles,Percent in Poor/Marginal Condition,0.0
+78,NYCT,Line structures,Staten Island Railway,Tunnel,0.2,Miles,Percent in Poor/Marginal Condition,1.0
+79,NYCT,Line structures,Staten Island Railway,Fencing,27,Miles,Percent in Poor/Marginal Condition,0.08
+80,NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,11.3,Miles,Percent in Poor/Marginal Condition,0.18
+81,NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,31.2,Miles,Percent in Good Condition,0.49
+82,NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,20.8,Miles,Percent Under Construction,0.33
+83,NYCT,Track,Track,Mainline Revenue,665,Miles,Percent with Remaining Life Less Than 6 Years,0.11
+84,NYCT,Track,Track,Non-Revenue,39,Miles,Percent with Remaining Life Less Than 6 Years,0.12
+85,NYCT,Track,Track,Yard,102,Miles,Percent with Remaining Life Less Than 6 Years,0.13
+86,NYCT,Track,Track,Mainline Switches,"1,770",Each,Percent with Remaining Life Less Than 6 Years,0.16
+87,NYCT,Track,Track,Yard Switches,874,Each,Percent with Remaining Life Less Than 6 Years,0.11
+88,NYCT,Track,Track,SIR - Mainline,29,Miles,Percent with Remaining Life Less Than 6 Years,0.07
+89,NYCT,Track,Track,SIR - Non-Revenue,3,Miles,Percent with Remaining Life Less Than 6 Years,0.11
+90,NYCT,Track,Track,SIR - Switches,62,Each,Percent with Remaining Life Less Than 6 Years,0.13
+91,NYCT,Signals and train control,Signals and train control,Mainline Signals,763,Miles,Percent in Poor/Marginal Condition,0.24
+92,NYCT,Signals and train control,Signals and train control,Mainline Interlockings,183,Each,Percent in Poor/Marginal Condition,0.23
+93,NYCT,Signals and train control,Signals and train control,Yard Signals,23,Each,Percent in Poor/Marginal Condition,0.43
+94,NYCT,Signals and train control,Signals and train control,Yard Interlockings,20,Each,Percent in Poor/Marginal Condition,0.3
+95,NYCT,Signals and train control,Signals and train control,SIR - Signals,31,Miles,Percent in Poor/Marginal Condition,0.03
+96,NYCT,Signals and train control,Signals and train control,SIR - Interlockings,14,Each,Percent in Poor/Marginal Condition,0.07
+97,NYCT,Signals and train control,Signals and train control,Modernized signaling status,529,Miles,Conventional Fixed Block,0.69
+98,NYCT,Signals and train control,Signals and train control,Modernized signaling status,52,Miles,Modernization complete,0.07
+99,NYCT,Signals and train control,Signals and train control,Modernized signaling status,182,Miles,In Construction or to be Awarded by 2024,0.24

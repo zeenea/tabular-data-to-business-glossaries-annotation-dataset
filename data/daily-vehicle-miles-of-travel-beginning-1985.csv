@@ -1,0 +1,51 @@
+,Year,Urban Area,Functional Class,Functional Class Code,Vehicle Miles Travelled
+0,2011,Rural,Interstate,1,16852
+1,2011,Rural,Other Princ Arterial,2,10464
+2,2011,Rural,Minor Arterial,6,12987
+3,2011,Rural,Major Collector,7,11302
+4,2011,Rural,Minor Collector,8,25683
+5,2011,Rural,Local,9,12587
+6,2011,Small Urban,Interstate,11,1814
+7,2011,Small Urban,Other Fwys & Exp,12,578
+8,2011,Small Urban,Other Princ Arterial,14,3081
+9,2011,Small Urban,Minor Arterial,16,4700
+10,2011,Small Urban,Collector,17,1846
+11,2011,Small Urban,Local,19,2195
+12,2011,Urbanized,Interstate,11,53032
+13,2011,Urbanized,Other Fwys & Exp,12,45791
+14,2011,Urbanized,Other Princ Arterial,14,47040
+15,2011,Urbanized,Minor Arterial,16,43103
+16,2011,Urbanized,Collector,17,18724
+17,2011,Urbanized,Local,19,38155
+18,2010,Rural,Interstate,1,16807
+19,2010,Rural,Other Princ Arterial,2,10518
+20,2010,Rural,Minor Arterial,6,13108
+21,2010,Rural,Major Collector,7,11383
+22,2010,Rural,Minor Collector,8,25750
+23,2010,Rural,Local,9,12641
+24,2010,Small Urban,Interstate,11,1886
+25,2010,Small Urban,Other Fwys & Exp,12,450
+26,2010,Small Urban,Other Princ Arterial,14,3226
+27,2010,Small Urban,Minor Arterial,16,4722
+28,2010,Small Urban,Collector,17,1868
+29,2010,Small Urban,Local,19,2198
+30,2010,Urbanized,Interstate,11,53776
+31,2010,Urbanized,Other Fwys & Exp,12,45740
+32,2010,Urbanized,Other Princ Arterial,14,48355
+33,2010,Urbanized,Minor Arterial,16,49121
+34,2010,Urbanized,Collector,17,19941
+35,2010,Urbanized,Local,19,38107
+36,2009,Rural,Interstate,1,16679
+37,2009,Rural,Other Princ Arterial,2,10429
+38,2009,Rural,Minor Arterial,6,13149
+39,2009,Rural,Major Collector,7,11541
+40,2009,Rural,Minor Collector,8,25819
+41,2009,Rural,Local,9,12689
+42,2009,Small Urban,Interstate,11,1886
+43,2009,Small Urban,Other Fwys & Exp,12,430
+44,2009,Small Urban,Other Princ Arterial,14,3271
+45,2009,Small Urban,Minor Arterial,16,4990
+46,2009,Small Urban,Collector,17,2189
+47,2009,Small Urban,Local,19,2193
+48,2009,Urbanized,Interstate,11,54115
+49,2009,Urbanized,Other Fwys & Exp,12,45822

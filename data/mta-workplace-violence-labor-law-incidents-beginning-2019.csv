@@ -1,0 +1,51 @@
+,Month,Agency,Contact Type,Total
+0,01/01/2019,NYCT Subway/SIR,Physical Contact,15
+1,01/01/2019,NYCT Subway/SIR,Non Physical Contact,46
+2,01/01/2019,NYCT Bus/MTA Bus,Physical Contact,21
+3,01/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,90
+4,01/01/2019,NYCT Other,Physical Contact,1
+5,01/01/2019,NYCT Other,Non Physical Contact,1
+6,02/01/2019,NYCT Subway/SIR,Physical Contact,13
+7,02/01/2019,NYCT Subway/SIR,Non Physical Contact,33
+8,02/01/2019,NYCT Bus/MTA Bus,Physical Contact,22
+9,02/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,111
+10,02/01/2019,NYCT Other,Physical Contact,6
+11,02/01/2019,NYCT Other,Non Physical Contact,2
+12,03/01/2019,NYCT Subway/SIR,Physical Contact,24
+13,03/01/2019,NYCT Subway/SIR,Non Physical Contact,44
+14,03/01/2019,NYCT Bus/MTA Bus,Physical Contact,21
+15,03/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,95
+16,03/01/2019,NYCT Other,Physical Contact,2
+17,03/01/2019,NYCT Other,Non Physical Contact,2
+18,04/01/2019,NYCT Subway/SIR,Physical Contact,16
+19,04/01/2019,NYCT Subway/SIR,Non Physical Contact,49
+20,04/01/2019,NYCT Bus/MTA Bus,Physical Contact,35
+21,04/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,112
+22,04/01/2019,NYCT Other,Physical Contact,4
+23,04/01/2019,NYCT Other,Non Physical Contact,1
+24,05/01/2019,NYCT Subway/SIR,Physical Contact,18
+25,05/01/2019,NYCT Subway/SIR,Non Physical Contact,43
+26,05/01/2019,NYCT Bus/MTA Bus,Physical Contact,33
+27,05/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,94
+28,05/01/2019,NYCT Other,Physical Contact,1
+29,05/01/2019,NYCT Other,Non Physical Contact,0
+30,06/01/2019,NYCT Subway/SIR,Physical Contact,18
+31,06/01/2019,NYCT Subway/SIR,Non Physical Contact,39
+32,06/01/2019,NYCT Bus/MTA Bus,Physical Contact,24
+33,06/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,128
+34,06/01/2019,NYCT Other,Physical Contact,3
+35,06/01/2019,NYCT Other,Non Physical Contact,3
+36,07/01/2019,NYCT Subway/SIR,Physical Contact,14
+37,07/01/2019,NYCT Subway/SIR,Non Physical Contact,48
+38,07/01/2019,NYCT Bus/MTA Bus,Physical Contact,41
+39,07/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,105
+40,07/01/2019,NYCT Other,Physical Contact,4
+41,07/01/2019,NYCT Other,Non Physical Contact,3
+42,08/01/2019,NYCT Subway/SIR,Physical Contact,16
+43,08/01/2019,NYCT Subway/SIR,Non Physical Contact,49
+44,08/01/2019,NYCT Bus/MTA Bus,Physical Contact,30
+45,08/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,97
+46,08/01/2019,NYCT Other,Physical Contact,8
+47,08/01/2019,NYCT Other,Non Physical Contact,0
+48,09/01/2019,NYCT Subway/SIR,Physical Contact,17
+49,09/01/2019,NYCT Subway/SIR,Non Physical Contact,37

@@ -1,0 +1,10 @@
+,Agency,Asset,Power source,Total,Useful Life,Percent Beyond Useful Life,Planned Bus Purchases 2025-2029,Planned Bus Purchases 2030-2034,Planned Bus Purchases 2035-2039,Planned Bus Purchases 2040-2044
+0,NYCT,Standard,Any Type,"3,662",12.0,7%,,,,
+1,NYCT,Articulated,Any Type,"1,158",12.0,14%,,,,
+2,NYCT,Express,Any Type,"1,020",12.0,5%,,,,
+3,NYCT,New Standard,Any Type,,,,758.0,0,0,0
+4,NYCT,New Standard,Zero Emissions,,,,700.0,"1,455","1,880","1,022"
+5,NYCT,New Articulated,Any Type,,,,425.0,0,0,0
+6,NYCT,New Articulated,Zero Emissions,,,,200.0,195,760,395
+7,NYCT,New Express,Any Type,,,,300.0,0,0,0
+8,NYCT,New Express,Zero Emissions,,,,0.0,335,695,138

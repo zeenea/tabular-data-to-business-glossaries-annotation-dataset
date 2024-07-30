@@ -1,0 +1,51 @@
+,Carrier,Commitment,Provided
+0,Alaska,Rebook passenger on same airline at no additional cost,1
+1,Alaska,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+2,Alaska,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+3,Alaska,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+4,Alaska,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+5,Allegiant,Rebook passenger on same airline at no additional cost,1
+6,Allegiant,Rebook on partner airline or another airline with which it has an agreement at no additional cost,0
+7,Allegiant,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,0
+8,Allegiant,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+9,Allegiant,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+10,American,Rebook passenger on same airline at no additional cost,1
+11,American,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+12,American,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+13,American,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+14,American,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+15,Delta,Rebook passenger on same airline at no additional cost,1
+16,Delta,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+17,Delta,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+18,Delta,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+19,Delta,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+20,Frontier,Rebook passenger on same airline at no additional cost,1
+21,Frontier,Rebook on partner airline or another airline with which it has an agreement at no additional cost,0
+22,Frontier,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+23,Frontier,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,0
+24,Frontier,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,0
+25,Hawaiian,Rebook passenger on same airline at no additional cost,1
+26,Hawaiian,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+27,Hawaiian,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+28,Hawaiian,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+29,Hawaiian,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+30,JetBlue,Rebook passenger on same airline at no additional cost,1
+31,JetBlue,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+32,JetBlue,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+33,JetBlue,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+34,JetBlue,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+35,Southwest,Rebook passenger on same airline at no additional cost,1
+36,Southwest,Rebook on partner airline or another airline with which it has an agreement at no additional cost,0
+37,Southwest,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+38,Southwest,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+39,Southwest,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1
+40,Spirit,Rebook passenger on same airline at no additional cost,1
+41,Spirit,Rebook on partner airline or another airline with which it has an agreement at no additional cost,0
+42,Spirit,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+43,Spirit,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+44,Spirit,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,0
+45,United,Rebook passenger on same airline at no additional cost,1
+46,United,Rebook on partner airline or another airline with which it has an agreement at no additional cost,1
+47,United,Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight,1
+48,United,Complimentary hotel accommodations for any passenger affected by an overnight cancellation,1
+49,United,Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation,1

@@ -1,0 +1,51 @@
+,OBJECTID,DSTRBTE_EXTRNL_CODE,PLAN_ROUTE_DSGNTN_AUTH,PLAN_ASSET_CLASS,PLAN_OHV_ROUTE_DSGNTN,PLAN_MODE_TRNSPRT,Original_GlobalID,ADMIN_ST,PLAN_ADD_MODE_TRNSPRT_RSTRT_CD,OBSRVE_MODE_TRNSPRT,OBSRVE_SRFCE_TYPE,OBSRVE_FUNC_CLASS,OBSRVE_ROUTE_USE_CLASS,ROUTE_PRMRY_NM,ROUTE_SCNDRY_SPCL_DSGNTN_NM,ROUTE_SPCL_DSGNTN_TYPE,FAMS ID,Route Existing Authorization Status,Planned Allowed Mode of Transport,OHV Route Designation Limitation Explanation,OHV Route Designation Limitation,Shape__Length
+0,8889,YES,BLM,Transportation System - Trail,Open,Motorized,{AF5AC0D6-A75C-4D1B-9BC2-7C3B5826A6B2},AK,,Motorized,Natural,Resource,ATV,Greyling Creek Trail (74.2),,,,,,,,0.0351020534756607
+1,8890,YES,BLM,Transportation System - Trail,Open,Motorized,{D2C2A83F-9069-4492-9B6C-E10232B9D90F},AK,,Motorized,Natural,Resource,ATV,109 Mile North,,,,,,,,0.0013579088777808
+2,10114,YES,BLM,Transportation System - Trail,Open,Motorized,{A7577D98-565F-4FDC-99E7-EE61E4BF47C8},CO,,Motorized,Natural,Resource,ATV,BLM T5820C,,,,,MTC_ATV_SHARED,Vehicle width limited to 50 inches or less,Limited by Type of Vehicle,0.0108019561869799
+3,10132,YES,BLM,Transportation System - Trail,Open,Motorized,{B7E9CB91-3142-4420-B5B0-35870A0643E7},CO,YES,Non-Mechanized,Natural,Resource,Non-Mechanized,8377E,,,,,ALL_MOTO_VEH,Closed 12/1- 4/15,Limited by Season,0.0025503124534193
+4,10144,YES,BLM,Transportation System - Trail,Open,Motorized,{2A4BC110-A62C-47B4-A2B9-CB6C357750EF},CO,YES,Motorized,Natural,Resource,Motorized Single Track,Ledge,,,,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0025921918800059
+5,10146,YES,BLM,Transportation System - Trail,Open,Motorized,{583C23ED-0FCE-49CE-A0B9-7140A43AA2F7},CO,YES,Motorized,Natural,Resource,Motorized Single Track,8384CD,,,,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0041881986499258
+6,10147,YES,BLM,Transportation System - Trail,Open,Motorized,{A631CAD7-904C-4BA5-A9EE-7A4DBD72C39C},CO,YES,Motorized,Natural,Resource,UTV,8380MC,,,L2126805,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0011072030864194
+7,10149,YES,BLM,Transportation System - Trail,Open,Motorized,{01FB2DAF-B452-4AE7-BB36-F4F07B6B62AC},CO,YES,Motorized,Natural,Resource,UTV,8380Q,,,L2126813,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0018131534449053
+8,10150,YES,BLM,Transportation System - Trail,Open,Motorized,{8DE068C6-73FC-4A32-90C8-5A71CBA7BEEA},CO,YES,Motorized,Natural,Resource,UTV,8380G,,,L2126815,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0023240173086061
+9,10151,YES,BLM,Transportation System - Trail,Open,Motorized,{40D75175-FF73-4A8E-89A0-26D7BBB67539},CO,YES,Motorized,Natural,Resource,UTV,8380MD,,,L2126807,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0008455937443827
+10,10155,YES,BLM,Transportation System - Trail,Open,Motorized,{19F3B00E-E90F-4CE7-9298-62EADAC2518D},CO,YES,Motorized,Natural,Resource,UTV,8380N,,,L2126458,,ALL_MOTO_VEH,Closed 12/1- 4/15,Limited by Season,0.005401694298258
+11,10156,YES,BLM,Transportation System - Trail,Open,Motorized,{59E25246-3D38-4074-9EED-39A3E440841C},CO,YES,Motorized,Natural,Resource,UTV,8380L,,,L2126809,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0033432586034206
+12,10161,YES,BLM,Transportation System - Trail,Open,Motorized,{73793F2D-1A95-4C83-BA21-F43FF69889AE},CO,NO,Non-Mechanized,Natural,Resource,Non-Mechanized,8381M,,,L110444,,EQU_HIK_ONLY,Closed 12/1- 4/15,Limited by Season,0.0116889558402576
+13,10163,YES,BLM,Transportation System - Trail,Open,Motorized,{6D962021-93E1-4E6F-A807-CFAA568D9E86},CO,YES,Motorized,Natural,Resource,UTV,8380P,,,L2126811,,MTC_SHARED,Closed 12/1- 4/15,Limited by Season,0.0042801300739294
+14,10166,YES,BLM,Transportation System - Trail,Open,Motorized,{AB303EF3-6BD3-46B2-B07B-2502DEF5D30A},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0004891650406006
+15,10167,YES,BLM,Transportation System - Trail,Open,Motorized,{EFDADCBD-F799-4533-948E-48B171035E0C},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0074580550996593
+16,10168,YES,BLM,Transportation System - Trail,Open,Motorized,{D867B2B1-CA5B-45D2-AEF9-7CBCA4247EAE},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0006255055560209
+17,10169,YES,BLM,Transportation System - Trail,Open,Motorized,{421ACFD6-15B6-4F51-BCD1-E89EF0224C7F},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,5.41832962767567e-05
+18,10170,YES,BLM,Transportation System - Trail,Open,Motorized,{7FF756F9-ED54-4CD6-90E1-01A53FF8F125},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0001845049309005
+19,10171,YES,BLM,Transportation System - Trail,Open,Motorized,{4A3173D4-DFCD-4975-B1CF-8D24642B489A},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0140601487114292
+20,10172,YES,BLM,Transportation System - Trail,Open,Motorized,{BEA3DBC0-D822-45F2-9DB1-C160915CC6BA},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0080351359298442
+21,10173,YES,BLM,Transportation System - Trail,Open,Motorized,{B5C8824D-E212-4E08-82FA-44F7262C8F16},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0042209377473186
+22,10174,YES,BLM,Transportation System - Trail,Open,Motorized,{F6A0EE7F-CCE4-4D71-ACAA-EE406031A2FC},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0052099015817001
+23,10175,YES,BLM,Transportation System - Trail,Open,Motorized,{EE110DD3-5588-497D-9B15-98F81B7FF34D},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0008388850774042
+24,10176,YES,BLM,Transportation System - Trail,Open,Motorized,{812A7ECA-E55E-419C-9FE4-9AC2558E76E5},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0047711431642554
+25,10177,YES,BLM,Transportation System - Trail,Open,Motorized,{B5F48EAE-A18B-4C44-A4E7-E3713C6AE641},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0104543752299513
+26,10178,YES,BLM,Transportation System - Trail,Open,Motorized,{484A428C-C53A-4C1A-AE63-77A450F484F7},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0015581800506204
+27,10179,YES,BLM,Transportation System - Trail,Open,Motorized,{F7483235-C4D5-43C8-B9FE-C19329CC8B36},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0006807758649033
+28,10180,YES,BLM,Transportation System - Trail,Open,Motorized,{AB09907E-9364-4BED-835C-A571BB166970},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0083062567104549
+29,10181,YES,BLM,Transportation System - Trail,Open,Motorized,{71753C02-F984-4DA5-A6DD-2E3AE2C74949},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0050860738991952
+30,10182,YES,BLM,Transportation System - Trail,Open,Motorized,{F0FD7508-5835-4567-B067-1ADD60CC1E67},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0061948521671601
+31,10183,YES,BLM,Transportation System - Trail,Open,Motorized,{026BBBDD-6256-4D1F-8DCC-7D9B900406E0},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.013206119144327
+32,10184,YES,BLM,Transportation System - Trail,Open,Motorized,{66E83F18-FA01-4543-A86B-BB27667B44E7},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.000949240661525
+33,10185,YES,BLM,Transportation System - Trail,Open,Motorized,{BFDF3AC0-5900-4FA6-A9E2-92064A801833},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0005155046164187
+34,10186,YES,BLM,Transportation System - Trail,Open,Motorized,{715BDB73-D0A0-4BE6-A201-73BD8B93D485},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0001147908081046
+35,10187,YES,BLM,Transportation System - Trail,Open,Motorized,{FE87365E-2C45-4056-90B2-D7AE061A8BA6},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0037707658331913
+36,10188,YES,BLM,Transportation System - Trail,Open,Motorized,{8659D0F5-B77E-4297-A747-CA72DE68FBD9},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0026273376580573
+37,10189,YES,BLM,Transportation System - Trail,Open,Motorized,{D4B6FA7E-68A5-4F77-8897-6803D1245301},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0051791024961804
+38,10190,YES,BLM,Transportation System - Trail,Open,Motorized,{6840AA95-0323-499D-BEFE-BAB0EB509E65},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0091963649797473
+39,10191,YES,BLM,Transportation System - Trail,Open,Motorized,{2020E1F8-08E8-4D1C-8860-8F3C303C5CEA},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0091601823859277
+40,10192,YES,BLM,Transportation System - Trail,Open,Motorized,{FCB1E8CF-910F-4BED-9078-8276D7C350EB},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0011582869718661
+41,10193,YES,BLM,Transportation System - Trail,Open,Motorized,{D7633FD4-D2D9-4C3A-8E24-DF6EE7B3AC0F},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0034995945999346
+42,10194,YES,BLM,Transportation System - Trail,Open,Motorized,{50B2B90A-FCBF-48F6-9039-0D581ABC5DC7},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0028517274273761
+43,10195,YES,BLM,Transportation System - Trail,Open,Motorized,{508E7620-FDDE-4A4B-B392-E878F2AA7D03},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0018827687640978
+44,10196,YES,BLM,Transportation System - Trail,Open,Motorized,{B0D002E7-1140-4AA5-B40E-7067E7DEDB2A},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0021555241768029
+45,10197,YES,BLM,Transportation System - Trail,Open,Motorized,{4B5FFB16-A8A2-498A-999F-6327FE38A3AC},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0061958037895863
+46,10198,YES,BLM,Transportation System - Trail,Open,Motorized,{20EEB7F0-17F0-4082-B4AD-2627D33A6EFB},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.001577577022315
+47,10199,YES,BLM,Transportation System - Trail,Open,Motorized,{84F9B842-044E-4879-98A2-E3F4044A3A2E},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0015096239525631
+48,10200,YES,BLM,Transportation System - Trail,Open,Motorized,{B4918693-9226-45BE-BACF-F0DBC22F2775},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0114815074891352
+49,10201,YES,BLM,Transportation System - Trail,Open,Motorized,{35B008B4-7708-43CB-8614-0152E165CC21},WY,No,Motorized,Natural,Resource,ATV,Unnamed,,,,No,UNK,,,0.0053466035469799
