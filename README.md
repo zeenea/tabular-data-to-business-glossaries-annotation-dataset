@@ -41,14 +41,15 @@ The table bellow describes some statistics about columns and rows in the collect
 | Minimum number of columns per dataset | 2    |
 | Mean number of columns per dataset    | 23   |
 | Maximum number of rows per dataset    | 100  |
-| Minimum number of row per dataset     | 4    |
+| Minimum number of rows per dataset    | 4    |
 | Mean number of rows per dataset       | 62   |
 
-Each dataset is described with metadata which consist of issuing organization ,dataset name, column names, list of tags, theme, access level and license.
+Each dataset is described with metadata which consists of issuing organization ,dataset name, column names, list of tags, theme, access level and license.
 * **_Dataset Theme._** It describes the general topic of the dataset
 * **_Dataset Tags._** It represents a list of terms that are related to the dataset content
 
 After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](metadata/theme_to_tags_metadata.json)).
+We obtained 34 Themes, and each theme have a list of tags.
 
 #### Statistics on themes and tags
 Distribution of datasets per theme:
