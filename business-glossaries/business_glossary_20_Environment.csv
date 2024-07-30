@@ -1,0 +1,22 @@
+,code,name,description,instances,sub_class_of
+0,Environment,Environment,"The surroundings or conditions in which a person, animal, or plant lives or operates",[],
+1,Environment.Natural-Environment,Natural-Environment,"The physical environment, including both the built and natural world",[],Environment
+2,Environment.Natural-Environment.Land,Land,The solid surface of the Earth,"['parks', 'schools', 'housing']",Environment.Natural-Environment
+3,Environment.Natural-Environment.Water,Water,An extensive body of a natural element,['faith'],Environment.Natural-Environment
+4,Environment.Natural-Environment.Air,Air,The invisible substance surrounding the Earth and constituting its atmosphere,"['traffic-count', 'sensors']",Environment.Natural-Environment
+5,Environment.Man-Made-Environment,Man-Made-Environment,Artificial environments created by humans,[],Environment
+6,Environment.Man-Made-Environment.Transportation,Transportation,A mode for traveling,[],Environment.Man-Made-Environment
+7,Environment.Man-Made-Environment.Transportation.Road-Transportation,Road-Transportation,Travel along the ground,"['traffic', 'transportation']",Environment.Man-Made-Environment.Transportation
+8,Environment.Man-Made-Environment.Transportation.Air-Transportation,Air-Transportation,Travel through the air,['airplanes'],Environment.Man-Made-Environment.Transportation
+9,Environment.Man-Made-Environment.Businesses,Businesses,Organizations involved in producing or selling goods and services,"['pharmacy', 'early-childhood', 'traffic', 'health', '_etl', 'fast-food', 'grocery', 'restaurants', 'civic', 'supermarket', 'schools', 'faith', 'supermarkets', 'social-determinants-of-health']",Environment.Man-Made-Environment
+10,Environment.Man-Made-Environment.Businesses.Store,Store,A retail business,"['grocery', 'supermarket']",Environment.Man-Made-Environment.Businesses
+11,Environment.Man-Made-Environment.Businesses.Service-Provider,Service-Provider,An enterprise providing services,"['hospital', 'doctor', 'pharmacy']",Environment.Man-Made-Environment.Businesses
+12,Environment.Man-Made-Environment.Businesses.Institution,Institution,"An establishment for the education, care, training, and administration of individuals","['schools', 'museums']",Environment.Man-Made-Environment.Businesses
+13,Environment.Man-Made-Environment.Businesses.Institution.Child-Care,Child-Care,Care and education of children,['early-childhood'],Environment.Man-Made-Environment.Businesses.Institution
+14,Environment.Man-Made-Environment.Businesses.Institution.Museum,Museum,"An institution for the advancement of knowledge through the preservation, exhibition, and study of objects and artifacts",[],Environment.Man-Made-Environment.Businesses.Institution
+15,Environment.Man-Made-Environment.Businesses.Assets,Assets,Valuable things or resources owned by an individual or business,"['businesses', 'assets']",Environment.Man-Made-Environment.Businesses
+16,Environment.Man-Made-Environment.Businesses.Post-Offices,Post-Offices,"A public building where mail is received, sent, or delivered",['post-offices'],Environment.Man-Made-Environment.Businesses
+17,Environment.Man-Made-Environment.Businesses.Business-Entity,Business-Entity,An entity or organization that operates or conducts business,"['businesses', 'assets']",Environment.Man-Made-Environment.Businesses
+18,Environment.Man-Made-Environment.Population,Population,The total number of individuals living in a particular area or during a particular time,[],Environment.Man-Made-Environment
+19,Environment.Man-Made-Environment.Population.Child,Child,A young person between birth and adolescence,['child'],Environment.Man-Made-Environment.Population
+20,Environment.Man-Made-Environment.Infrastructure,Infrastructure,Technological or organizational structures that support a society,['housing'],Environment.Man-Made-Environment

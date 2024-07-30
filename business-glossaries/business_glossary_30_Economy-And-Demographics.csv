@@ -1,0 +1,8 @@
+,code,name,description,instances,sub_class_of
+0,Economy-And-Demographics,Economy-And-Demographics,An organization that is responsible for the administration of a particular area of government,[],
+1,Economy-And-Demographics.California-Government-Agency,California-Government-Agency,"A government agency located in California, USA","['California Department of Tax and Fee Administration**', 'California Government Operations Agency', 'California State Controllers Office', 'CDTFA']",Economy-And-Demographics
+2,Economy-And-Demographics.Tax,Tax,"A compulsory contribution to state revenue, levied by the government on workers income and business profits, or added to the cost of some goods, services, and transactions.",[],Economy-And-Demographics
+3,Economy-And-Demographics.Tax.California-Taxes,California-Taxes,State or local taxes levied in California,"['Revenue', '**Filed Late or Failed to File**']",Economy-And-Demographics.Tax
+4,Economy-And-Demographics.Third-Party-Administrator,Third-Party-Administrator,"Third-Party Administrator: An entity that acts on behalf of another party – in the case of taxes, a TPA might be responsible for filing and managing taxes on behalf of businesses and individuals",['TPA'],Economy-And-Demographics
+5,Economy-And-Demographics.Data,Data,Facts and statistics collected for analysis,[],Economy-And-Demographics
+6,Economy-And-Demographics.Data.Open-Data-Platform,Open-Data-Platform,An online platform from which data is made available for public use,['caopendata'],Economy-And-Demographics.Data

@@ -1,0 +1,18 @@
+,code,name,description,instances,sub_class_of
+0,Natural-Resources,Natural-Resources,The natural environment and its associated processes,[],
+1,Natural-Resources.Water-Resources,Water-Resources,Natural resources related to water,[],Natural-Resources
+2,Natural-Resources.Water-Resources.Rivers,Rivers,"A large, flowing body of water","['major-rivers-and-creeks', 'minor-rivers', 'rivers']",Natural-Resources.Water-Resources
+3,Natural-Resources.Water-Resources.Flow-lines,Flow-lines,The direct path taken by a fluid (such as water),[],Natural-Resources.Water-Resources
+4,Natural-Resources.Water-Resources.Flow-Station,Flow-Station,A site for regularly recording flow data,[],Natural-Resources.Water-Resources
+5,Natural-Resources.Water-Resources.Canals,Canals,An artificial waterway,[],Natural-Resources.Water-Resources
+6,Natural-Resources.Water-Resources.Reservoirs,Reservoirs,An artificial body of water created for water storage,[],Natural-Resources.Water-Resources
+7,Natural-Resources.Water-Resources.Lakes,Lakes,A large body of still or slowly moving water,"['major-lakes', 'lakes']",Natural-Resources.Water-Resources
+8,Natural-Resources.Water-Resources.Lakes.Elevation-Derived,Elevation-Derived,Elevation information derived from GIS data,[],Natural-Resources.Water-Resources.Lakes
+9,Natural-Resources.Water-Resources.Watersheds,Watersheds,The land area that drains into a particular body of water,['watersheds'],Natural-Resources.Water-Resources
+10,Natural-Resources.Water-Resources.Watersheds.Watershed-Boundary-Dataset,Watershed-Boundary-Dataset,Data describing the boundary of a watershed,[],Natural-Resources.Water-Resources.Watersheds
+11,Natural-Resources.NHD-Plus,NHD-Plus,The National Hydrography Data-Plus Project,[],Natural-Resources
+12,Natural-Resources.NHD-Plus.NHD,NHD,The National Hydrography Dataset,[],Natural-Resources.NHD-Plus
+13,Natural-Resources.NHD-Plus.USGS,USGS,United States Geological Survey,[],Natural-Resources.NHD-Plus
+14,Natural-Resources.GIS,GIS,Geographic Information System,[],Natural-Resources
+15,Natural-Resources.GIS.Arc-GIS,Arc-GIS,Geographic Information System for working with maps and geographic information,[],Natural-Resources.GIS
+16,Natural-Resources.GIS.Arc-GIS.GIS-Maps,GIS-Maps,Maps created using GIS software,[],Natural-Resources.GIS.Arc-GIS

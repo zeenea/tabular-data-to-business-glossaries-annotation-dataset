@@ -1,0 +1,16 @@
+,code,name,description,instances,sub_class_of
+0,Geospatial,Geospatial,"A system for collecting, managing and analyzing data related to location",[],
+1,Geospatial.GIS,GIS,Geographic Information System,[],Geospatial
+2,Geospatial.GIS.GIS-Database,GIS-Database,A database for storing location-based data,"['planningcadastre', 'gis-office']",Geospatial.GIS
+3,Geospatial.GIS.GIS-Database.Data-Layers,Data-Layers,An array of data layers stored in the GIS database,[],Geospatial.GIS.GIS-Database
+4,Geospatial.GIS.GIS-Operations,GIS-Operations,Activities related to the management of GIS data,[],Geospatial.GIS
+5,Geospatial.GIS.GIS-Operations.Data-Management,Data-Management,"Processes related to the creation, collection, storage, and dissemination of spatial data","['docked-bikeshare', 'opm']",Geospatial.GIS.GIS-Operations
+6,Geospatial.GIS.GIS-Operations.Data-Management.Open-Data,Open-Data,Publicly available data that can be accessed and used by anyone,['primitive-roads'],Geospatial.GIS.GIS-Operations.Data-Management
+7,Geospatial.Location,Location,An object that has a identifiable position,[],Geospatial
+8,Geospatial.Location.Longitude,Longitude,Longitude values,[],Geospatial.Location
+9,Geospatial.Location.Latitude,Latitude,Latitude values,[],Geospatial.Location
+10,Geospatial.Location.Address,Address,Residential or business address,[],Geospatial.Location
+11,Geospatial.Location.ZIP,ZIP,Zip code,[],Geospatial.Location
+12,Geospatial.Transportation-Network,Transportation-Network,A collection of transportation infrastructure such as roads and trails,[],Geospatial
+13,Geospatial.Transportation-Network.Roads,Roads,A network of paved or unpaved routes for vehicular transport ,[],Geospatial.Transportation-Network
+14,Geospatial.Transportation-Network.Trails,Trails,"A network of paths for cycling, hiking, or other non-motorized travel ",[],Geospatial.Transportation-Network

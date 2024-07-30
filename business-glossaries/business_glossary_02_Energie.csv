@@ -1,0 +1,24 @@
+,code,name,description,instances,sub_class_of
+0,Energy,Energy,"The electrical or emotional force driving a person, animal, or physical system.","['fossil-energy', 'renewable-energy']",
+1,Energy.Electricity,Electricity,A flow of electric energy.,['electricity-grid'],Energy
+2,Energy.Electricity.Power,Power,The quantity of electrical energy transferred or available.,[],Energy.Electricity
+3,Energy.Electricity.Power.Voltage,Voltage,A measure of electric potential energy.,['volts'],Energy.Electricity.Power
+4,Energy.Electricity.Power.Current,Current,The rate of flow of electric charge.,['amps'],Energy.Electricity.Power
+5,Energy.Electricity.Power.Power-Factor,Power-Factor,A measure of the efficiency of electrical equipment.,[],Energy.Electricity.Power
+6,Energy.Electricity.Power-Plant,Power-Plant,A facility for generating and selling electricity.,['pumped-storage-hydropower'],Energy.Electricity
+7,Energy.Electricity.Power-Plant.Capital-Expenditures,Capital-Expenditures,"The costs for building, buying, or designing an asset.",['overnight-capital-cost'],Energy.Electricity.Power-Plant
+8,Energy.Electricity.Power-Plant.Capacity-Factor,Capacity-Factor,The ratio of actual power output to the maximum possible,[],Energy.Electricity.Power-Plant
+9,Energy.Electricity.Energy-Technology,Energy-Technology,A device or process for converting energy into another form.,['ccs'],Energy.Electricity
+10,Energy.Electricity.Energy-Technology.Renewable-Technology,Renewable-Technology,A technology that uses renewable resources for energy production.,['solar'],Energy.Electricity.Energy-Technology
+11,Energy.Electricity.Energy-Technology.Renewable-Technology.Technical-Potential,Technical-Potential,The total amount of energy a technology can theoretically produce.,[],Energy.Electricity.Energy-Technology.Renewable-Technology
+12,Energy.Electricity.Energy-Technology.Renewable-Technology.Resource-Potential,Resource-Potential,The actual amount of energy a resource can provide.,[],Energy.Electricity.Energy-Technology.Renewable-Technology
+13,Energy.Electricity.Energy-Technology.Renewable-Technology.Projection,Projection,An estimate of future utilization or production.,[],Energy.Electricity.Energy-Technology.Renewable-Technology
+14,Energy.Electricity.Energy-Technology.Fossil-Technology,Fossil-Technology,A technology that uses fossil fuels for energy production.,"['fossil-energy', 'coal', 'lng']",Energy.Electricity.Energy-Technology
+15,Energy.Electricity.Energy-Technology.Fossil-Technology.Consumption-Potential,Consumption-Potential,The capacity to consume energy.,[],Energy.Electricity.Energy-Technology.Fossil-Technology
+16,Energy.Electricity.Energy-Technology.Fossil-Technology.Capital-Expenditures,Capital-Expenditures,"The costs for building, buying, or designing an asset.",['overnight-capital-cost'],Energy.Electricity.Energy-Technology.Fossil-Technology
+17,Energy.Electricity.Energy-Technology.Fossil-Technology.Operations-And-Maintenance,Operations-And-Maintenance,The ongoing costs for keeping a facility in operation.,[],Energy.Electricity.Energy-Technology.Fossil-Technology
+18,Energy.Electricity.Energy-Technology.Fuel,Fuel,A substance that can be burned to produce heat or power.,"['liquefied-petroleum-gas', 'biodiesel', 'hydrogen']",Energy.Electricity.Energy-Technology
+19,Energy.Electricity.Energy-Technology.Fuel.Energy-Content,Energy-Content,The amount of energy contained in the fuel.,[],Energy.Electricity.Energy-Technology.Fuel
+20,Energy.Electricity.Energy-Technology.Fuel.Alternative-Fuels,Alternative-Fuels,Fuels that are cleaner and more sustainable than traditional fossil fuels.,['alternative-fuels-stations'],Energy.Electricity.Energy-Technology.Fuel
+21,Energy.Electricity.Energy-Technology.Fuel.Alternative-Fuels.Bio-Fuel,Bio-Fuel,Fuels made from renewable biomass sources.,['ethanol'],Energy.Electricity.Energy-Technology.Fuel.Alternative-Fuels
+22,Energy.Electricity.Energy-Technology.Fuel.Alternative-Fuels.Bio-Fuel.Energy-Content,Energy-Content,The amount of energy contained in the fuel.,[],Energy.Electricity.Energy-Technology.Fuel.Alternative-Fuels.Bio-Fuel

@@ -1,0 +1,19 @@
+,code,name,description,instances,sub_class_of
+0,Transportation-Operations,Transportation-Operations,Activities related to managing and optimizing transportation systems,[],
+1,Transportation-Operations.Inventory-Management,Inventory-Management,Subsystem for managing the flow of goods and resources,[],Transportation-Operations
+2,Transportation-Operations.Inventory-Management.TMS,TMS,Transportation Management System,[],Transportation-Operations.Inventory-Management
+3,Transportation-Operations.Asset-Management,Asset-Management,Subsystem for managing physical assets,[],Transportation-Operations
+4,Transportation-Operations.Asset-Management.ITS,ITS,Intelligent Transportation System,[],Transportation-Operations.Asset-Management
+5,Transportation-Operations.Asset-Management.ATMS,ATMS,Advance Traffic Management System,[],Transportation-Operations.Asset-Management
+6,Transportation-Operations.Asset-Management.Roads,Roads,,[],Transportation-Operations.Asset-Management
+7,Transportation-Operations.Asset-Management.Commercial-Vehicles,Commercial-Vehicles,Heavy vehicles used for commercial purposes,[],Transportation-Operations.Asset-Management
+8,Transportation-Operations.Asset-Management.Commercial-Vehicles.Trucks,Trucks,,[],Transportation-Operations.Asset-Management.Commercial-Vehicles
+9,Transportation-Operations.Asset-Management.Commercial-Vehicles.Bus,Bus,,[],Transportation-Operations.Asset-Management.Commercial-Vehicles
+10,Transportation-Operations.Road-Management,Road-Management,Subsystem for managing and maintaining roadways,[],Transportation-Operations
+11,Transportation-Operations.Road-Management.Road-Conditions,Road-Conditions,,[],Transportation-Operations.Road-Management
+12,Transportation-Operations.Road-Management.Road-Work,Road-Work,,[],Transportation-Operations.Road-Management
+13,Transportation-Operations.Road-Management.Road-Closures,Road-Closures,Closures of sections of a roadway,[],Transportation-Operations.Road-Management
+14,Transportation-Operations.Road-Management.Maintenance,Maintenance,Activities required to keep assets in good working order,[],Transportation-Operations.Road-Management
+15,Transportation-Operations.Road-Management.Traffic-Management,Traffic-Management,Subsystem for managing and optimizing the flow of traffic,[],Transportation-Operations.Road-Management
+16,Transportation-Operations.Road-Management.Traffic-Management.Commercial-Vehicle-Restrictions,Commercial-Vehicle-Restrictions,,[],Transportation-Operations.Road-Management.Traffic-Management
+17,Transportation-Operations.Road-Management.Traffic-Management.Traffic,Traffic,,[],Transportation-Operations.Road-Management.Traffic-Management

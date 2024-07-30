@@ -1,0 +1,9 @@
+,code,name,description,instances,sub_class_of
+0,Enrollment,Enrollment,"The process of registering or joining an organization, program, or system","['pace', 'pahp']",
+1,Enrollment.Managed-Care-Enrollment,Managed-Care-Enrollment,The process of enrolling in a managed care health plan,[],Enrollment
+2,Enrollment.Managed-Care-Enrollment.MCO,MCO,"A health insurance company that contracts with other providers - including hospitals, primary care physicians (PCPs), and specialists - to provide services to enrollees within specific geographic areas or networks",['mco'],Enrollment.Managed-Care-Enrollment
+3,Enrollment.Managed-Care-Enrollment.PIHP,PIHP,A health care organization that contracts with the state Medicaid program to provide comprehensive managed care services to Medicaid beneficiaries,['pihp'],Enrollment.Managed-Care-Enrollment
+4,Enrollment.Managed-Care-Enrollment.MLTSS,MLTSS,"A managed care approach for individuals with complex, chronic health needs that combines Medical and Long-Term Services and Supports",[],Enrollment.Managed-Care-Enrollment
+5,Enrollment.Managed-Care-Enrollment.BHO,BHO,A Behavioral Health Organization that provides coordinated care and access to behavioral health services as part of an MLTSS program,[],Enrollment.Managed-Care-Enrollment
+6,Enrollment.Managed-Care-Enrollment.PCCM,PCCM,"A Population Care Coordination Management service that manages comprehensive care and coordinates services for enrollees, including primary care, specialty services, behavioral health, and long-term services and supports",[],Enrollment.Managed-Care-Enrollment
+7,Enrollment.Government-Programs,Government-Programs,"Public programs, such as Medicare and Medicaid, focused on healthcare benefits","['medicare', 'medicaid']",Enrollment

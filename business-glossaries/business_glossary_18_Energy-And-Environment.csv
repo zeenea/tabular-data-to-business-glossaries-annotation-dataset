@@ -1,0 +1,21 @@
+,code,name,description,instances,sub_class_of
+0,Energy-And-Environment,Energy-And-Environment,,[],
+1,Energy-And-Environment.Energy,Energy,The fundamental source of power for the conduct of warmth or work,"['clean-energy', 'energy-prices']",Energy-And-Environment
+2,Energy-And-Environment.RenewableEnergy,RenewableEnergy,"Energy derived from renewable resources such as sunlight, wind, and water",[],Energy-And-Environment
+3,Energy-And-Environment.RenewableEnergy.Electricity,Electricity,Energy transferred through electric wires for use by electrical appliances,"['battery-electric', 'electricity-prices']",Energy-And-Environment.RenewableEnergy
+4,Energy-And-Environment.RenewableEnergy.Electricity.Sources,Sources,Different sources of electricity generation,"['wind', 'solar', 'hydro', 'geothermal']",Energy-And-Environment.RenewableEnergy.Electricity
+5,Energy-And-Environment.RenewableEnergy.Electricity.Sources.Battery-Electric-Vehicle-Charging,Battery-Electric-Vehicle-Charging,The charging of battery-electric vehicles using electricity,['electric-vehicle'],Energy-And-Environment.RenewableEnergy.Electricity.Sources
+6,Energy-And-Environment.RenewableEnergy.Electricity.Utilities,Utilities,Companies that generate and sell electricity to consumers,"['nyserda-patterns-and-trends', 'real-prices', 'prices-by-sector']",Energy-And-Environment.RenewableEnergy.Electricity
+7,Energy-And-Environment.RenewableEnergy.Ethanol,Ethanol,Alcohol produced from biomass designed to be used as fuel,['e-85'],Energy-And-Environment.RenewableEnergy
+8,Energy-And-Environment.RenewableEnergy.Ethanol.Sources,Sources,Different sources of ethanol production,"['corn', 'sugarcane']",Energy-And-Environment.RenewableEnergy.Ethanol
+9,Energy-And-Environment.RenewableEnergy.Ethanol.Applications,Applications,Different applications of ethanol as a fuel,['flex-fuel vehicles'],Energy-And-Environment.RenewableEnergy.Ethanol
+10,Energy-And-Environment.RenewableEnergy.Ethanol.Applications.EVs,EVs,Electric vehicles that can run on ethanol as well as other fuels,['ev'],Energy-And-Environment.RenewableEnergy.Ethanol.Applications
+11,Energy-And-Environment.RenewableEnergy.Biodiesel,Biodiesel,Fuel derived from vegetable oils or animal fats,['biodiesel'],Energy-And-Environment.RenewableEnergy
+12,Energy-And-Environment.RenewableEnergy.Biodiesel.Sources,Sources,Different sources of biodiesel production,"['soybean oil', 'canola oil']",Energy-And-Environment.RenewableEnergy.Biodiesel
+13,Energy-And-Environment.RenewableEnergy.Biodiesel.Applications,Applications,Different applications of biodiesel as a fuel,['biodiesel blends'],Energy-And-Environment.RenewableEnergy.Biodiesel
+14,Energy-And-Environment.RenewableEnergy.Biodiesel.Applications.Diesel Engines,Diesel Engines,Engines that can run on biodiesel as well as fossil fuels,['oem'],Energy-And-Environment.RenewableEnergy.Biodiesel.Applications
+15,Energy-And-Environment.RenewableEnergy.Compressed Natural Gas,Compressed Natural Gas,Natural gas compressed to a density more than 300 times its standard atmospheric volume,['compressed-natural-gas'],Energy-And-Environment.RenewableEnergy
+16,Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Sources,Sources,Different sources of natural gas,['shale gas'],Energy-And-Environment.RenewableEnergy.Compressed Natural Gas
+17,Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Applications,Applications,Different applications of compressed natural gas as a fuel,"['CNG buses', 'CNG trucks']",Energy-And-Environment.RenewableEnergy.Compressed Natural Gas
+18,Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Applications.Transportation,Transportation,The use of compressed natural gas as a fuel for transportation,['transportation'],Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Applications
+19,Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Applications.Transportation.Bus,Bus,Bus powered by compressed natural gas,['electric-bus'],Energy-And-Environment.RenewableEnergy.Compressed Natural Gas.Applications.Transportation

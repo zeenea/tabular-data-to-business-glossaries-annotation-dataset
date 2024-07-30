@@ -1,0 +1,20 @@
+,code,name,description,instances,sub_class_of
+0,Roadways-And-Bridges,Roadways-And-Bridges,Concepts related to roadways and bridges,[],
+1,Roadways-And-Bridges.Highways,Highways,Large multi-lane roads for rapid long-distance transportation of people and freight,['hwy'],Roadways-And-Bridges
+2,Roadways-And-Bridges.Automobile-Drivers,Automobile-Drivers,Persons licensed to operate a motor vehicle on roads and highways,[],Roadways-And-Bridges
+3,Roadways-And-Bridges.Automobile-Drivers.Driver-Licenses,Driver-Licenses,Documents granting an individual the legal authorization to operate a motor vehicle,"['license', 'driver-licensing']",Roadways-And-Bridges.Automobile-Drivers
+4,Roadways-And-Bridges.Automobile-Drivers.Driver-Licenses.ageGroups,ageGroups,Groups based on age that determine license eligibility and class,['age-groups'],Roadways-And-Bridges.Automobile-Drivers.Driver-Licenses
+5,Roadways-And-Bridges.Automobile-Drivers.Driver-Licenses.vehicleSizesAndWeight,vehicleSizesAndWeight,The maximum allowable weight and size of vehicles for different license classes,['vehicle-size-and-weight'],Roadways-And-Bridges.Automobile-Drivers.Driver-Licenses
+6,Roadways-And-Bridges.Automobile-Drivers.registrations,registrations,System for registering motor vehicles,['registrations'],Roadways-And-Bridges.Automobile-Drivers
+7,Roadways-And-Bridges.Automobile-Drivers.registrations.Motor-Vehicle-Registrations,Motor-Vehicle-Registrations,Records of motor vehicles registered with the governing body,['motor-vehicle-registrations'],Roadways-And-Bridges.Automobile-Drivers.registrations
+8,Roadways-And-Bridges.Automobile-Drivers.registrations.vehicle-Miles-Traveled,vehicle-Miles-Traveled,System for tracking vehicle miles traveled,['vehicle-miles-traveled'],Roadways-And-Bridges.Automobile-Drivers.registrations
+9,Roadways-And-Bridges.Automobile-Drivers.registrations.vehicleSizeAndWeight,vehicleSizeAndWeight,Systems for tracking vehicle size and weight,['vehicle-size-and-weight'],Roadways-And-Bridges.Automobile-Drivers.registrations
+10,Roadways-And-Bridges.On-Demand-Service-Revenue,On-Demand-Service-Revenue,"Revenue generated from on-demand road or transport services like ride-hailing, car sharing or pay-per-mile",['e-commerce'],Roadways-And-Bridges
+11,Roadways-And-Bridges.Gross-Domestic-Product,Gross-Domestic-Product,The total economic output of a country or region,['gdp'],Roadways-And-Bridges
+12,Roadways-And-Bridges.Population-Density,Population-Density,Population per square kilometer or square mile,"['population-density', 'population']",Roadways-And-Bridges
+13,Roadways-And-Bridges.Telework,Telework,Working from home or a remote location with the use of telecommunications,[],Roadways-And-Bridges
+14,Roadways-And-Bridges.Transportation-Demand,Transportation-Demand,"Desires, needs and requests for transportation services",[],Roadways-And-Bridges
+15,Roadways-And-Bridges.Charging-Stations,Charging-Stations,Infrastructure for recharging electric vehicles,[],Roadways-And-Bridges
+16,Roadways-And-Bridges.Work-Zone-Data-Exchange,Work-Zone-Data-Exchange,Sharing of data related to work zones among agencies and stakeholders,['work-zone-data-exchange-wzdx'],Roadways-And-Bridges
+17,Roadways-And-Bridges.Greenhouse-Gases,Greenhouse-Gases,Greenhouse gases produced by transportation,[],Roadways-And-Bridges
+18,Roadways-And-Bridges.Greenhouse-Gases.truckSizeAndWeight,truckSizeAndWeight,Concepts related to trucks size and weight,['truck-size-and-weight'],Roadways-And-Bridges.Greenhouse-Gases

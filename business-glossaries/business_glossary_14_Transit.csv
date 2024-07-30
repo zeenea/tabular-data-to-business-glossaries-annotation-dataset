@@ -1,0 +1,13 @@
+,code,name,description,instances,sub_class_of
+0,Transit,Transit,,[],
+1,Transit.Transit-System,Transit-System,An organized arrangement of public transportation services and routes in a particular area.,[],Transit
+2,Transit.Transit-System.Public-Transit,Public-Transit,A public transportation system that provides shared transportation services to the general public.,[],Transit.Transit-System
+3,Transit.Transit-System.Public-Transit.Routes,Routes,A specific path or series of connected paths that a transit vehicle follows to provide service.,[],Transit.Transit-System.Public-Transit
+4,Transit.Transit-System.Public-Transit.Vehicles,Vehicles,"Transit vehicles used to transport passengers, such as buses and trains.",[],Transit.Transit-System.Public-Transit
+5,Transit.Transit-System.Public-Transit.Vehicles.Bus,Bus,,[],Transit.Transit-System.Public-Transit.Vehicles
+6,Transit.Transit-System.Public-Transit.Vehicles.Train,Train,,[],Transit.Transit-System.Public-Transit.Vehicles
+7,Transit.Transit-System.Public-Transit.Stations,Stations,Facilities where passengers can board and alight from transit vehicles.,[],Transit.Transit-System.Public-Transit
+8,Transit.Transit-Ridership,Transit-Ridership,The number of passengers using a transit system or route over a given period.,[],Transit
+9,Transit.Transit-Ridership.Peak-Hours,Peak-Hours,The periods of time when transportation usage is highest.,[],Transit.Transit-Ridership
+10,Transit.Transit-Ridership.Ridership-Data,Ridership-Data,"Data on the number of passes sold, passenger trips taken, or passenger hours.",[],Transit.Transit-Ridership
+11,Transit.Transit-Ridership.Demographics,Demographics,"Information about the characteristics of transit riders, such as age, gender, and income.",[],Transit.Transit-Ridership

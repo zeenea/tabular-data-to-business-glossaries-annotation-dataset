@@ -1,0 +1,21 @@
+,code,name,description,instances,sub_class_of
+0,Transportation,Transportation,A system for the movement of people and goods between locations,[],
+1,Transportation.Public-Transportation,Public-Transportation,A type of transportation system available to the general public,"['subways', 'buses', 'commuter-rail', 'light-rail']",Transportation
+2,Transportation.Public-Transportation.Mass-Transit,Mass-Transit,A type of public transportation that serves large numbers of passengers,"['mta-bus', 'mtabus', 'mta-hq', 'nypd']",Transportation.Public-Transportation
+3,Transportation.Public-Transportation.Mass-Transit.Schedule,Schedule,A defined set of departure times for a bus or train,"['schedule', 'md', 'on-time-performance']",Transportation.Public-Transportation.Mass-Transit
+4,Transportation.Public-Transportation.Mass-Transit.Fare,Fare,The payment required to use a public transportation service,"['fare', 'reduced-fares']",Transportation.Public-Transportation.Mass-Transit
+5,Transportation.Public-Transportation.Mass-Transit.Routes,Routes,A defined set of locations served by a public transportation system,"['routes', 'bus-route', 'subway-lines']",Transportation.Public-Transportation.Mass-Transit
+6,Transportation.Personal-Transportation,Personal-Transportation,A type of transportation used by individuals for personal purposes,"['car', 'bicycle']",Transportation
+7,Transportation.Personal-Transportation.Vehicle,Vehicle,The mode of personal transportation used,"['vehicle', 'car']",Transportation.Personal-Transportation
+8,Transportation.Personal-Transportation.Registration,Registration,The process of registering a personal vehicle with a jurisdiction,['vehicle-registration'],Transportation.Personal-Transportation
+9,Transportation.Personal-Transportation.Location,Location,The place where a vehicle is currently located or can be found,['location'],Transportation.Personal-Transportation
+10,Transportation.Personal-Transportation.Mileage,Mileage,The distance traveled by a vehicle,['mileage'],Transportation.Personal-Transportation
+11,Transportation.Waiting-Time,Waiting-Time,The time spent waiting for a transportation service to arrive,['wait-assessment'],Transportation
+12,Transportation.Waiting-Time.Delay,Delay,The difference between the expected arrival time and the actual arrival time,['delay'],Transportation.Waiting-Time
+13,Transportation.Resurfacing,Resurfacing,The process of repairing or replacing the surface of a road or railway,['paving'],Transportation
+14,Transportation.Jurisdiction,Jurisdiction,An area or authority in which a transportation system or regulation applies,['mdot'],Transportation
+15,Transportation.Jurisdiction.Permits,Permits,A document or authorization required to operate a transportation service,['permit-agency'],Transportation.Jurisdiction
+16,Transportation.Jurisdiction.Regulations,Regulations,A set of rules governing the operation of a transportation system within a jurisdiction,['regulation'],Transportation.Jurisdiction
+17,Transportation.Green-Report,Green-Report,A document or database providing information about the environmental impact of a transportation system,['green-report'],Transportation
+18,Transportation.Green-Report.Clean-Energy,Clean-Energy,The use of renewable energy sources to power transportation services,['clean-energy'],Transportation.Green-Report
+19,Transportation.Green-Report.Fee-Distribution,Fee-Distribution,The allocation of fees collected from transportation users or sources,['fee-distribution'],Transportation.Green-Report

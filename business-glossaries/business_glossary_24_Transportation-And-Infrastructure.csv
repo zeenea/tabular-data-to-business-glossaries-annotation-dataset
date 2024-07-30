@@ -1,0 +1,19 @@
+,code,name,description,instances,sub_class_of
+0,Transportation-And-Infrastructure,Transportation-And-Infrastructure,Systems and infrastructure for the movement of people and goods,[],
+1,Transportation-And-Infrastructure.Transportation,Transportation,,[],Transportation-And-Infrastructure
+2,Transportation-And-Infrastructure.Transportation.Road-Transportation,Road-Transportation,Movement of vehicles and pedestrians on roads,"['road', 'street']",Transportation-And-Infrastructure.Transportation
+3,Transportation-And-Infrastructure.Transportation.Road-Transportation.Road,Road,"A network of interconnected highways, streets, and paths",[],Transportation-And-Infrastructure.Transportation.Road-Transportation
+4,Transportation-And-Infrastructure.Transportation.Road-Transportation.Street,Street,"A public throughfare in a built environment, for transportation",['street-name'],Transportation-And-Infrastructure.Transportation.Road-Transportation
+5,Transportation-And-Infrastructure.Transportation.Road-Transportation.Interstate,Interstate,A major long-distance highway,[],Transportation-And-Infrastructure.Transportation.Road-Transportation
+6,Transportation-And-Infrastructure.Transportation.Road-Transportation.Entrance,Entrance,A point of entry or access to a road or interstate,[],Transportation-And-Infrastructure.Transportation.Road-Transportation
+7,Transportation-And-Infrastructure.Transportation.Road-Transportation.Exit,Exit,A point of departure from a road or interstate,[],Transportation-And-Infrastructure.Transportation.Road-Transportation
+8,Transportation-And-Infrastructure.Transportation.Public-Transportation,Public-Transportation,"Shared, scheduled transportation for the public",[],Transportation-And-Infrastructure.Transportation
+9,Transportation-And-Infrastructure.Transportation.Air-Transportation,Air-Transportation,Movement of people and goods through the air,[],Transportation-And-Infrastructure.Transportation
+10,Transportation-And-Infrastructure.Transportation.Rail-Transportation,Rail-Transportation,Movement of people and goods on rails,[],Transportation-And-Infrastructure.Transportation
+11,Transportation-And-Infrastructure.Transportation.Smart-Transportation,Smart-Transportation,Systems and technologies to improve the efficiency and safety of transportation,[],Transportation-And-Infrastructure.Transportation
+12,Transportation-And-Infrastructure.Transportation.Transportation-Management,Transportation-Management,"Systems and technologies for managing traffic, transportation network, and infrastructure",[],Transportation-And-Infrastructure.Transportation
+13,Transportation-And-Infrastructure.Infrastructure,Infrastructure,The underlying foundational systems and structures,[],Transportation-And-Infrastructure
+14,Transportation-And-Infrastructure.Infrastructure.Utilities,Utilities,Services provided through the use of public or private facilities,"['utility', 'pole']",Transportation-And-Infrastructure.Infrastructure
+15,Transportation-And-Infrastructure.Infrastructure.GIS,GIS,"Geographic Information System, technology for mapping and analyzing locations",['gis'],Transportation-And-Infrastructure.Infrastructure
+16,Transportation-And-Infrastructure.Infrastructure.Lighting,Lighting,Installations for illumination in transportation infrastructure,[],Transportation-And-Infrastructure.Infrastructure
+17,Transportation-And-Infrastructure.Infrastructure.Emergency-Response-Plan,Emergency-Response-Plan,Plans for responding to emergencies in transportation infrastructure,['ebrp'],Transportation-And-Infrastructure.Infrastructure

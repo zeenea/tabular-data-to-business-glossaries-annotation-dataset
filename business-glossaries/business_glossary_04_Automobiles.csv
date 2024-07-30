@@ -1,0 +1,15 @@
+,code,name,description,instances,sub_class_of
+0,Automobiles,Automobiles,A road vehicle designed for passenger or cargo transportation,"['car', 'auto', 'cars']",
+1,Automobiles.Car,Car,A motor vehicle designed for carrying passengers,[],Automobiles
+2,Automobiles.Car.CarEquipment,CarEquipment,The components and systems used in a vehicle,"['equipment', 'connected-vehicles']",Automobiles.Car
+3,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System,Advanced-Driver-Assistance-System,A vehicle system that assists the driver in operating the vehicle,['ADAS'],Automobiles.Car.CarEquipment
+4,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.SAE-Level-2,SAE-Level-2,An ADAS with some level of automation (up to partial automation),['SAE-level-2'],Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System
+5,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.Campaign,Campaign,A coordinated series of actions to address a specific issue with vehicles,['recalls'],Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System
+6,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.Connected-Vehicle-Pilot,Connected-Vehicle-Pilot,A test program for connected vehicles,"['Tampa-connected-vehicle-pilot', 'Wyoming-connected-vehicle-cv-pilot']",Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System
+7,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.TRIM,TRIM,"A text-based, coded vehicle description for vehicle identification and reporting",['TIM'],Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System
+8,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.TRIM.Carries,Carries,A TRIM message that includes information about a vehicle or vehicle components,['connected-vehicle-message'],Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.TRIM
+9,Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System.VIN,VIN,A unique code identifying a specific vehicle,[],Automobiles.Car.CarEquipment.Advanced-Driver-Assistance-System
+10,Automobiles.Car.CarEquipment.Tire,Tire,Rubber covers for the wheels of a vehicle,[],Automobiles.Car.CarEquipment
+11,Automobiles.Car.CarEquipment.Tire.Air-Tire,Air-Tire,A tire filled with compressed air,['tire'],Automobiles.Car.CarEquipment.Tire
+12,Automobiles.Car.CarEquipment.AirBag,AirBag,A safety device in a vehicle that inflates during a collision,['air-bag'],Automobiles.Car.CarEquipment
+13,Automobiles.Car.CarEquipment.AirBag.Deployment,Deployment,The activation of an airbag during a collision,[],Automobiles.Car.CarEquipment.AirBag

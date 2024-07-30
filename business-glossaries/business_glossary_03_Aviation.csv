@@ -1,0 +1,7 @@
+,code,name,description,instances,sub_class_of
+0,Aviation,Aviation,Industry and infrastructure involved in air transportation,"['ntad', 'office-of-aviation-analysis', 'consumer-airfare-report']",
+1,Aviation.Airports,Airports,Facilities for the departure and arrival of airplanes,"['city-summary', 'airport', 'table-2', 'table-5', 'top-1000', 'table-1a']",Aviation
+2,Aviation.Airlines,Airlines,Companies that operate airplanes and schedule flights,['airlines'],Aviation
+3,Aviation.Airlines.Cabin-Crew,Cabin-Crew,Staff responsible for maintaining order and services aboard the aircraft,[],Aviation.Airlines
+4,Aviation.Airlines.Pilots,Pilots,Licensed personnel who operate and navigate the aircraft,[],Aviation.Airlines
+5,Aviation.Airlines.Fleet,Fleet,Collection of airplanes owned by the airline,['aircraft'],Aviation.Airlines

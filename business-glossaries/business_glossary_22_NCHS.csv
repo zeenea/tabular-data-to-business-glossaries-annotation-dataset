@@ -1,0 +1,15 @@
+,code,name,description,instances,sub_class_of
+0,NCHS,NCHS,An organization concerned with preventing disease and promoting health,['NCHS'],
+1,NCHS.Health-Statistics,Health-Statistics,Data related to the health and mortality of a population,[],NCHS
+2,NCHS.Health-Statistics.Mortality-Statistics,Mortality-Statistics,Data related to deaths in a population,[],NCHS.Health-Statistics
+3,NCHS.Health-Statistics.Mortality-Statistics.Provisional-Mortality-Statistics,Provisional-Mortality-Statistics,Preliminary data on mortality rates.,[],NCHS.Health-Statistics.Mortality-Statistics
+4,NCHS.Health-Statistics.Mortality-Statistics.VSRR,VSRR,Vital Statistics Rapid Release program for timely access to mortality data.,[],NCHS.Health-Statistics.Mortality-Statistics
+5,NCHS.Health-Statistics.Mortality-Statistics.Weekly-Mortality-Report,Weekly-Mortality-Report,Statistics on weekly mortality rates.,[],NCHS.Health-Statistics.Mortality-Statistics
+6,NCHS.Health-Statistics.Mortality-Statistics.COVID19-Mortality,COVID19-Mortality,Statistics on COVID-19 related deaths.,[],NCHS.Health-Statistics.Mortality-Statistics
+7,NCHS.Health-Statistics.Mortality-Statistics.Causes,Causes,Types of deaths in the population,[],NCHS.Health-Statistics.Mortality-Statistics
+8,NCHS.Health-Statistics.Mortality-Statistics.Causes.TransportAccidentsMortality,TransportAccidentsMortality,Deaths caused by transport accidents.,[],NCHS.Health-Statistics.Mortality-Statistics.Causes
+9,NCHS.Health-Statistics.Mortality-Statistics.Causes.DrugOverdoseMortality,DrugOverdoseMortality,Deaths caused by drug overdoses.,[],NCHS.Health-Statistics.Mortality-Statistics.Causes
+10,NCHS.Health-Statistics.Mortality-Statistics.Causes.SuicideMortality,SuicideMortality,Deaths caused by suicide.,[],NCHS.Health-Statistics.Mortality-Statistics.Causes
+11,NCHS.Health-Statistics.NVSS,NVSS,"National Vital Statistics System, a component of the CDC",[],NCHS.Health-Statistics
+12,NCHS.Health-Statistics.RANDS,RANDS,"Recent Causes of Death in the United States, a component of NCHS",[],NCHS.Health-Statistics
+13,NCHS.Health-Statistics.State-Health-Department,State-Health-Department,A government entity responsible for the health of a specific US state,[],NCHS.Health-Statistics
