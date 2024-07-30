@@ -20,10 +20,12 @@ We used Large Language Models LLMs to assist the dataset construction as describ
 # Dataset Construction
 
 LLM used : 
+
 ### LLM-Generated Business Glossaries
 
 
 ### LLM-Generated Alignments
+
 
 
 # Statistics on Datasets, Columns, Business Glossaries and Alignments
