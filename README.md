@@ -4,7 +4,7 @@ A dataset of tabular data from [data.gov](https://data.gov/) annotated to busine
 # Dataset Description
 Following a collaboration between [Zeenea](https://zeenea.com/fr/) and [LIP6](https://www.lip6.fr/) through an industrial thesis project on **Smart Metadata Management Systems**,
 we encountered a number of data-related challenges.
-Consequently, we took the initiative to create our own dataset for the task of aligning tabular data with business glossaries.
+Through this project, we took the initiative to build a relevant dataset for tabular data alignment with business glossaries.
 
 This repository contains tabular data (datasets and columns) collected from [data.gov](https://data.gov/) , various business glossaries, and alignments between tabular data and business glossary entities.
 
@@ -14,21 +14,20 @@ We choose [data.gov](https://data.gov/) for the following reasons:
 * Tabular Datasets are annotated with _themes_ and a _list of tags_ 
 * Tabular Columns have meaningful names 
 
-In the dataset construction phase, we used Large Language Models to generate the business glossaries and alignments.
+The table bellow describe the main content of this repository:
 
-| Content Description  |     |
-|----------------------|-----|
-| data/                |     |
-| metadata/            |     |
-| business-glossaries/ |     |
-| alignments/          |     |
+| Content Description  |                                                        |
+|----------------------|--------------------------------------------------------|
+| data/                | Collection of tables in csv files                      |
+| metadata/            | Metadata about Datasets, Columns, Themes and Tags      |
+| business-glossaries/ | Collection of business-glossaries in csv files         |
+| alignments/          | Column and Dataset alignments with business-glossaries |
 
-We conducted this project to build a relevant dataset for tabular data alignment with business glossaries.
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
 # Dataset Construction
 
-LLM used : 
+
 
 ### LLM-Generated Business Glossaries
 
