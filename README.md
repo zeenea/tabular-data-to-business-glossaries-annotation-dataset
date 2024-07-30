@@ -117,7 +117,7 @@ The table bellow describes some statistics on the LLM-generated Business Glossar
 ### 2.3. LLM-Generated Alignments
 For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3), but with another prompt.
 For each dataset, we ask the LLM through the prompt to generate alignments between the dataset columns and the corresponding business glossary entities (each dataset has a theme, and each theme is linked to a business glossary).
-Dataset are linked to the business entities represented by the themes.
+Datasets are linked to the business concepts at the root of the generated hierarchies (represented by the themes).
 
 
 The prompt used to generate the Alignments:
