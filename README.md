@@ -78,16 +78,16 @@ The prompt used to generate the Business-Glossaries:
             "role": "assistant",
             "content": """{ 'Automobile': {
                                     'Vehicle': {
-                                      'description': 'A mode of transportation',
+                                      'description': 'Any device capable of moving, and can be used for transportation.',
                                       'subclasses': {
                                         'Car': {
-                                          'description': 'A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor',
+                                          'description': 'A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor.',
                                           'instances': ['bolt', 'chevrolet']
                                         }
                                       }
                                     },
-                                    'EnvironmentalAgency': {
-                                                            'description': 'Organizations focused on environmental impacts',
+                                    'Environmental-Agency': {
+                                                            'description': 'Organization focused on environmental impacts.',
                                                             'instances': ['green-report']
                                                             }
           },
@@ -139,7 +139,7 @@ The prompt used to generate the Alignments:
             },
             {
                 "role":"user",
-                "content": "In a json format {column:business-concept}, generate alignments between these tabular columns:"+ f"{list_columns}, and the next business-glossary items: {list_entities}"\
+                "content": "In a json format {column-business-concept}, generate alignments between these tabular columns:"+ f"{list_columns}, and the next business-glossary items: {list_entities}"\
                            +". Business-concepts should contain the right path in the business-glossary."
             }
         ]
