@@ -34,7 +34,7 @@ Each dataset is described with metadata which consist of issuing organization ,d
 * **_Dataset Theme._** It describes the general topic of the dataset
 * **_Dataset Tags._** It represents a list of terms that are related to the dataset content
 
-After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [column_and_dataset_metadata.csv](/metadata/column_and_dataset_metadata.csv)).
+After a data cleaning process of the dataset themes and tag lists, we grouped together the tags per theme (the result is stored in [theme_to_tags_metadata.json](metadata/theme_to_tags_metadata.json)).
 
 #### Statistics on themes and tags
 Distribution of datasets per theme:
@@ -93,9 +93,9 @@ Distribution of tags per theme:
 
 # 3. License
 tabular-data-to-business-glossaries-annotation-dataset © 2024 by Zeenea is licensed under CC BY-NC-SA 4.0.
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or go to [LICENCE.md](https://github.com/AKNOUCHEanis/tabular-data-to-business-glossaries-annotation-dataset/blob/main/LICENSE.md).
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or go to [LICENCE.md](/LICENSE.md).
 
-Certain datasets utilized in this project are governed by specific licenses as detailed in [metadata/column_and_dataset_metadata.csv](https://github.com/AKNOUCHEanis/tabular-data-to-business-glossaries-annotation-dataset/blob/main/metadata/column_and_dataset_metadata.csv).  
+Certain datasets utilized in this project are governed by specific licenses as detailed in [column_and_dataset_metadata.csv](/metadata/column_and_dataset_metadata.csv).  
 The corresponding licenses are provided in [data.gov](https://data.gov/) for each dataset. 
 
 The dataset licenses used in this project are:
