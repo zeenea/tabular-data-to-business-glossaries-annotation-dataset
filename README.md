@@ -27,6 +27,9 @@ We used Large Language Models LLMs to assist the dataset construction as describ
 
 # Dataset Construction
 
+We collected 226 Datasets (Tables) from [data.gov](https://data.gov/) using their API, 
+by searching for datasets related to "**Transport**" field (The choice of the field was arbitrary).
+
 
 
 ### LLM-Generated Business Glossaries
@@ -36,9 +39,9 @@ We used Large Language Models LLMs to assist the dataset construction as describ
 
 
 
-# Statistics on Datasets, Columns, Business Glossaries and Alignments
+# Statistics on Datasets and Columns, Business Glossaries and Alignments
 <table>
-<tr><th>Dataset and Column statistics  </th> <th>Business Glossary statistics  </th><th>Alignments statistics</th></tr>
+<tr><th>1. Dataset and Column statistics  </th> <th>2. Business Glossary statistics  </th><th>3. Alignments statistics</th></tr>
 <tr><td>
 
 |                                       |      |
