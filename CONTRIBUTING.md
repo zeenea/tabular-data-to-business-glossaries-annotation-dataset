@@ -8,7 +8,7 @@ Whether you are a seasoned data scientist, a researcher, or an enthusiastic begi
 ## How You Can Contribute
 ### 1. Submitting Data
 * **New Data Submissions:** Share datasets that fit within our project's scope. Ensure your data is clean, well-documented, and free of personal information.
-* **Data Enhancements:** Improve existing datasets by adding more samples, refining data points, or correcting inaccuracies.
+* **Data Enhancements:** Improve existing datasets by adding more samples or correcting inaccuracies.
 
 ### 2. Suggesting New Methods For The Tabular Data Alignment Task
 * **Prompt Enhancements**: Update or suggest new prompts to generate new business glossaries and new alignments.
