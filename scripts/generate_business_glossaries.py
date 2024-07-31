@@ -62,7 +62,7 @@ def generate_business_glossary(theme, list_of_tags, llm):
 
 
 def extract_info(data, parent_key='', node_type='Concept'):
-    """Recursive function to Extract metadata in a json file"""
+    """Recursive function to extract metadata in a json file"""
     records = []
 
     for key, value in data.items():
