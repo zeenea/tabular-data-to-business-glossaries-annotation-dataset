@@ -45,7 +45,9 @@ Always write a clear log message for your commits. One-line messages are fine fo
 We are committed to fostering a welcoming and respectful community.
 Please read our  [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to ensure a positive experience for everyone.
 
+## Thank You for Contributing
 Thank you for your interest in contributing to our open dataset project **tabular-data-to-business-glossaries-annotation-dataset © 2024 by Zeenea**.
 Your efforts help make data more accessible and useful for everyone!
 
+With gratitude,  
 _**Zeenea Team.**_
