@@ -12,7 +12,7 @@ Whether you are a seasoned data scientist, a researcher, or an enthusiastic begi
 
 ### 2. Suggesting New Methods For The Tabular Data Alignment Task
 * **Prompt Enhancements**: Update or suggest new prompts to generate new business glossaries and new alignments.
-* **Method Proposing**: Propose new methods to do the alignments with/without LLMs.
+* **Proposing new alignment methods**: Propose new methods to do the alignments with/without LLMs.
 
 ### 3. Documentation
 * **Improve Documentation:** Help us by writing or refining dataset documentation, including metadata descriptions, usage examples, and code snippets.
