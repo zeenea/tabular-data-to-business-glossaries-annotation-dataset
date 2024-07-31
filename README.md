@@ -16,6 +16,7 @@ We choose [data.gov](https://data.gov/) for the following reasons:
 
 The table bellow describes the main content of this repository:
 
+
 | Content Description  |                                                    |
 |----------------------|----------------------------------------------------|
 | data/                | Collection of Tables in csv files                  |
@@ -24,6 +25,7 @@ The table bellow describes the main content of this repository:
 | alignments/          | Column and Dataset alignments with Business Glossaries |
 | figures/             | Statistical figures                                |
 | scripts/             | Python scripts for Dataset Generation              |
+
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
@@ -67,6 +69,7 @@ For each theme, we give the LLM the list of corresponding tags as input.
 The LLM follows the instructions of the prompt and generates a hierarchy of business concepts in relation to the theme and list of tags.
 The dataset theme is placed at the root of the generated hierarchy of business concepts.
 For more details go to [generate_business_glossaries.py](scripts/generate_business_glossaries.py).
+
 
 The prompt used to generate the Business-Glossaries:
 
@@ -121,6 +124,7 @@ For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistr
 For each dataset, we ask the LLM through the prompt to generate alignments between the dataset columns and the corresponding business glossary entities (each dataset has a theme, and each theme is linked to a business glossary).
 Datasets are linked to the business concepts at the root of the generated hierarchies (represented by the themes).
 For more details got to [generate_tabular_data_alignments.py](scripts/generate_tabular_data_alignments.py).
+
 
 The prompt used to generate the Alignments:
 ```
