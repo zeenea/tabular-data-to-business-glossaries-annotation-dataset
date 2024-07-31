@@ -18,12 +18,12 @@ The table bellow describes the main content of this repository:
 
 | Content Description  |                                                        |
 |----------------------|--------------------------------------------------------|
-| data/                | Collection of tables in csv files                      |
+| data/                | Collection of Tables in csv files                      |
 | metadata/            | Metadata about Datasets, Columns, Themes and Tags      |
-| business-glossaries/ | Collection of business-glossaries in csv files         |
-| alignments/          | Column and Dataset alignments with business-glossaries |
+| business-glossaries/ | Collection of Business Glossaries in csv files         |
+| alignments/          | Column and Dataset alignments with Business Glossaries |
 | figures/             | Statistical figures                                    |
-| scripts/             | Python scripts for the Dataset LLM-Generation          |
+| scripts/             | Python scripts for the Dataset Generation              |
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
