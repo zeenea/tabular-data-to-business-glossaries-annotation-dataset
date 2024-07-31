@@ -10,11 +10,9 @@ Whether you are a seasoned data scientist, a researcher, or an enthusiastic begi
 * **New Data Submissions:** Share datasets that fit within our project's scope. Ensure your data is clean, well-documented, and free of personal information.
 * **Data Enhancements:** Improve existing datasets by adding more samples, refining data points, or correcting inaccuracies.
 
-
 ### 2. Suggesting New Methods For The Tabular Data Alignment Task
 * **Prompt Enhancements**: Update or suggest new prompts to generate new business glossaries and new alignments.
 * **Method Proposing**: Propose new methods to do the alignments with/without LLMs.
-
 
 ### 3. Documentation
 * **Improve Documentation:** Help us by writing or refining dataset documentation, including metadata descriptions, usage examples, and code snippets.
@@ -26,6 +24,7 @@ Whether you are a seasoned data scientist, a researcher, or an enthusiastic begi
 ### 5. Community Support
 * **Issue Resolution:** Help by responding to issues and questions raised by other users.
 * **Discussions:** Participate in discussions to help guide the project's direction and prioritize new features or datasets.
+
 
 ## Getting Started
 * **Fork the Repository:** Fork the project repository to your own GitHub account.
@@ -41,9 +40,11 @@ Always write a clear log message for your commits. One-line messages are fine fo
     > A paragraph describing what changed and its impact."
     ```
 
+
 ## Code of Conduct
 We are committed to fostering a welcoming and respectful community.
 Please read our  [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to ensure a positive experience for everyone.
+
 
 ## Thank You for Contributing
 Thank you for your interest in contributing to our open dataset project **tabular-data-to-business-glossaries-annotation-dataset © 2024 by Zeenea**.
