@@ -66,6 +66,7 @@ For our experiments, we used [mistralai/Mistral-7B-Instruct-v0.3](https://huggin
 For each theme, we give the LLM the list of corresponding tags as input. 
 The LLM follows the instructions of the prompt and generates a hierarchy of business concepts in relation to the theme and list of tags.
 The dataset theme is placed at the root of the generated hierarchy of business concepts.
+For more details go to [generate_business_glossaries.py](scripts/generate_business_glossaries.py).
 
 The prompt used to generate the Business-Glossaries:
 
@@ -119,7 +120,7 @@ The table bellow describes some statistics on the LLM-generated Business Glossar
 For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3), but with another prompt.
 For each dataset, we ask the LLM through the prompt to generate alignments between the dataset columns and the corresponding business glossary entities (each dataset has a theme, and each theme is linked to a business glossary).
 Datasets are linked to the business concepts at the root of the generated hierarchies (represented by the themes).
-
+For more details got to [generate_tabular_data_alignments.py](scripts/generate_tabular_data_alignments.py).
 
 The prompt used to generate the Alignments:
 ```
