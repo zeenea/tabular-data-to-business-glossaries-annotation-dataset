@@ -23,6 +23,7 @@ The table bellow describes the main content of this repository:
 | business-glossaries/ | Collection of business-glossaries in csv files         |
 | alignments/          | Column and Dataset alignments with business-glossaries |
 | figures/             | Statistical figures                                    |
+| scripts/             | Python scripts for the Dataset LLM-Generation          |
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
@@ -134,7 +135,7 @@ The prompt used to generate the Alignments:
                 "content":"""{
                 "vehicle": "Transportation.Vehicle",
                 "model": "Transportation.Vehicle.Car.Model",
-                "environment": "Trasportation.Environmental-Agency"
+                "environment": "Transportation.Environmental-Agency"
                 }"""
 
             },
