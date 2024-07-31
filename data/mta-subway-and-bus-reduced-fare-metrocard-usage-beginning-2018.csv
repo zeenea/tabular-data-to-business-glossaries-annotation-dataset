@@ -1,0 +1,51 @@
+,month,transport,borough,category,journeys
+0,2018-01,Bus,Bronx,AFAS,29212
+1,2018-01,Bus,Bronx,Access,54697
+2,2018-01,Bus,Bronx,Reduced Fare,743468
+3,2018-01,Bus,Brooklyn,AFAS,35806
+4,2018-01,Bus,Brooklyn,Access,128698
+5,2018-01,Bus,Brooklyn,Reduced Fare,1223502
+6,2018-01,Bus,Manhattan,AFAS,28813
+7,2018-01,Bus,Manhattan,Access,51194
+8,2018-01,Bus,Manhattan,Reduced Fare,1372875
+9,2018-01,Bus,Misc,AFAS,301
+10,2018-01,Bus,Misc,Access,744
+11,2018-01,Bus,Misc,Reduced Fare,12805
+12,2018-01,Bus,Queens,AFAS,17448
+13,2018-01,Bus,Queens,Access,63479
+14,2018-01,Bus,Queens,Reduced Fare,1111562
+15,2018-01,Bus,Staten Island,AFAS,3422
+16,2018-01,Bus,Staten Island,Access,18893
+17,2018-01,Bus,Staten Island,Reduced Fare,132461
+18,2018-02,Bus,Bronx,AFAS,31122
+19,2018-02,Bus,Bronx,Access,56761
+20,2018-02,Bus,Bronx,Reduced Fare,772284
+21,2018-02,Bus,Brooklyn,AFAS,36384
+22,2018-02,Bus,Brooklyn,Access,137322
+23,2018-02,Bus,Brooklyn,Reduced Fare,1251358
+24,2018-02,Bus,Manhattan,AFAS,29923
+25,2018-02,Bus,Manhattan,Access,54044
+26,2018-02,Bus,Manhattan,Reduced Fare,1392493
+27,2018-02,Bus,Misc,AFAS,277
+28,2018-02,Bus,Misc,Access,737
+29,2018-02,Bus,Misc,Reduced Fare,11801
+30,2018-02,Bus,Queens,AFAS,18674
+31,2018-02,Bus,Queens,Access,66958
+32,2018-02,Bus,Queens,Reduced Fare,1130592
+33,2018-02,Bus,Staten Island,AFAS,3551
+34,2018-02,Bus,Staten Island,Access,19635
+35,2018-02,Bus,Staten Island,Reduced Fare,136283
+36,2018-03,Bus,Bronx,AFAS,33782
+37,2018-03,Bus,Bronx,Access,62860
+38,2018-03,Bus,Bronx,Reduced Fare,866133
+39,2018-03,Bus,Brooklyn,AFAS,40329
+40,2018-03,Bus,Brooklyn,Access,149371
+41,2018-03,Bus,Brooklyn,Reduced Fare,1391348
+42,2018-03,Bus,Manhattan,AFAS,33036
+43,2018-03,Bus,Manhattan,Access,58516
+44,2018-03,Bus,Manhattan,Reduced Fare,1507090
+45,2018-03,Bus,Misc,AFAS,341
+46,2018-03,Bus,Misc,Access,936
+47,2018-03,Bus,Misc,Reduced Fare,15174
+48,2018-03,Bus,Queens,AFAS,20374
+49,2018-03,Bus,Queens,Access,74630

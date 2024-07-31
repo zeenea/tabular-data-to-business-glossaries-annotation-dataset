@@ -1,0 +1,78 @@
+,Alert ID,Event ID,Update Number,Date,Agency,Status Label,Affected,Header,Description
+0,310639,149254,0,04/27/2024 11:50:00 PM,NYCT Subway,delays,R,R trains are delayed entering/leaving Bay Ridge-95 St while we request EMS assistance for a person in need at that station.,
+1,310638,149253,0,04/27/2024 11:49:00 PM,LIRR,some-delays,Babylon Branch,The 7:13pm train from Grand Central to Babylon is being delayed at Jamaica due to police activity.,
+2,310640,149253,1,04/27/2024 11:54:00 PM,LIRR,some-delays,Babylon Branch,The 7:13pm train from Grand Central to Babylon is operating 15-20 minutes late due to earlier police activity at Jamaica.,
+3,310633,149252,0,04/27/2024 11:31:00 PM,NYCT Subway,delays,2 | 5,Southbound 2 5 are delayed because of an NYPD investigation at West Farms Sq-E Tremont Av.,
+4,310634,149252,1,04/27/2024 11:32:00 PM,NYCT Subway,delays,2 | 5,Southbound 2 5 trains are delayed because of an NYPD investigation at West Farms Sq-E Tremont Av.,
+5,310635,149252,2,04/27/2024 11:37:00 PM,NYCT Subway,stops-skipped,2 | 5,Southbound 2 5 trains are running on the express track from E 180 St to 3 Av-149 St.,"We are investigating a report of smoke at West Farms Sq-E Tremont Av.
+
+For service to/from bypassed stations, take a northbound train."
+6,310637,149252,3,04/27/2024 11:41:00 PM,NYCT Subway,delays,2 | 5,Southbound 2 5 trains are running with delays after FDNY extinguished a track fire at West Farms Sq-E Tremont Av.,Southbound 2 5 trains have resumed running on the local track from  E 180 St to 3 Av-149 St.
+7,310629,149251,0,04/27/2024 11:03:00 PM,MNR,some-delays,Hudson,The 5:16pm train from Grand Central to Poughkeepsie is operating 15-20 minutes late at this time.,
+8,310627,149250,0,04/27/2024 11:02:00 PM,MNR,some-delays,Hudson,The 5:51pm train from Poughkeepsie to Grand Central is operating 10-15 minutes late at this time.,
+9,310626,149249,0,04/27/2024 10:57:00 PM,NYCT Subway,stops-skipped,1,Northbound 1 trains are running express from Chambers St to 34 St-Penn Station while we investigate what caused a train's brakes to activate at 18 St.,"If your stop is skipped, take a southbound train. 
+Expect 2 3 delays while trains share the track."
+10,310631,149249,1,04/27/2024 11:29:00 PM,NYCT Subway,delays,1,Northbound 1 trains are running with delays after we moved a train that's brakes activated at 18 St.,Northbound 1 trains have resumed running on the local track from Chambers St to 34 St-Penn Station.
+11,310621,149248,0,04/27/2024 10:22:00 PM,LIRR,some-delays,Port Jefferson Branch,The 6:02pm train from Penn Station to Huntington is being delayed at Woodside due to police activity.,
+12,310623,149248,1,04/27/2024 10:29:00 PM,LIRR,some-delays,Port Jefferson Branch,The 5:24pm train from Huntington to Port Jefferson is operating 10-15 minutes late due to earlier police activity at Woodside.,
+13,310625,149248,2,04/27/2024 10:47:00 PM,LIRR,delays,Port Jefferson Branch,There are delays along the Port Jefferson Branch due to earlier police activity at Woodside.,"The 5:24pm train from Huntington to Port Jefferson is operating 10-15 minutes late. 
+
+The 5:40pm train from Grand Central to Huntington is operating 10-15 minutes late at this time."
+14,310628,149248,3,04/27/2024 11:02:00 PM,LIRR,some-delays,Port Jefferson Branch,The 6:02pm train from Penn Station to Huntington is operating 10-15 minutes late due to earlier police activity at Woodside.,
+15,310630,149248,4,04/27/2024 11:13:00 PM,LIRR,delays,Port Jefferson Branch,There are delays along the Port Jefferson Branch due to earlier police activity at Woodside.,"The 6:02pm train from Penn Station to Huntington is operating 10-15 minutes late. 
+
+The 6:58pm train from Huntington to Port Jefferson is operating 10-15 minutes late due to a late-arriving connection."
+16,310632,149248,5,04/27/2024 11:30:00 PM,LIRR,some-delays,Port Jefferson Branch,The 6:58pm train from Huntington to Port Jefferson is operating 10-15 minutes late due to a late-arriving connection.,
+17,310636,149248,6,04/27/2024 11:39:00 PM,LIRR,some-delays,Port Jefferson Branch,The 6:58pm train from Huntington to Port Jefferson is operating 20-25 minutes late due to a late-arriving connection.,
+18,310620,149247,0,04/27/2024 10:21:00 PM,LIRR,stops-skipped,City Terminal Zone,Eastbound Main Line trains are bypassing Woodside due to police activity.,"The Port Washington Branch is unaffected; for service to Woodside, take a Port Washington Branch train."
+19,310622,149247,1,04/27/2024 10:26:00 PM,LIRR,stops-skipped,City Terminal Zone,Eastbound Main Line trains are bypassing Woodside due to police activity.,"The Port Washington Branch is unaffected; for service to Woodside, take a Port Washington Branch train.
+
+The MTA is cross-honoring LIRR tickets on the 7 subway line upstairs at 61 St-Woodside and the E subway train at Sutphin Blvd-Archer Av, Kew Gardens-Union Tpke, and Forest Hills-71 Ave."
+20,310624,149247,2,04/27/2024 10:32:00 PM,LIRR,some-delays,City Terminal Zone,Eastbound Main Line trains have resumed making scheduled stops at Woodside following earlier police activity at that station.,The MTA is no longer cross-honoring LIRR tickets on the 7 or E lines.
+21,310617,149246,0,04/27/2024 10:05:00 PM,NYCT Subway,delays,C,Northbound C trains are delayed while NYPD responds to someone being disruptive aboard a train at 168 St.,
+22,310619,149246,1,04/27/2024 10:15:00 PM,NYCT Subway,delays,C,C trains are running with delays in both directions after NYPD responded to someone being disruptive aboard a train at 168 St.,
+23,310613,149245,0,04/27/2024 09:52:00 PM,NYCT Subway,delays,2 | 3,Northbound 2 3 trains are delayed while we request EMS assistance for a person in need on a train at 72 St.,
+24,310615,149245,1,04/27/2024 09:59:00 PM,NYCT Subway,express-to-local,2 | 3,Northbound 2 3 trains are running on the local track from Times Sq-42 St to 96 St.,We are requesting EMS assistance for a person in need on a train at 72 St.
+25,310618,149245,2,04/27/2024 10:12:00 PM,NYCT Subway,delays,2 | 3,Northbound 2 3 trains are running with delays after EMS responded to someone at 72 St.,Northbound 2 3 trains have resumed making regular scheduled stops.
+26,310612,149244,0,04/27/2024 09:50:00 PM,NYCT Subway,delays,4 | 5,Southbound 4 5 trains are running on the local track from Grand Central-42 St to 14 St-Union Sq.,We are addressing a mechanical problem on a train at Grand Central-42 St.
+27,310614,149244,1,04/27/2024 09:53:00 PM,NYCT Subway,express-to-local,4 | 5,Southbound 4 5 trains are running on the local track from Grand Central-42 St to 14 St-Union Sq.,We are addressing a mechanical problem on a train at Grand Central-42 St.
+28,310616,149244,2,04/27/2024 10:01:00 PM,NYCT Subway,delays,4 | 5,Southbound 4 5 trains are running with delays after we addressed a mechanical problem on a train at Grand Central-42 St.,Southbound 4 5 trains have resumed running on the express track from Grand Central-42 St to 14 St-Union Sq.
+29,310609,149243,0,04/27/2024 09:08:00 PM,NYCT Subway,delays,A | H,A Rockaway Park Shuttle trains are delayed in both directions while the South Channel Bridge opens for marine traffic to pass.,
+30,310611,149243,1,04/27/2024 09:20:00 PM,NYCT Subway,delays,A | H,A Rockaway Park Shuttle trains are running with delays in both directions after the South Channel Bridge opened for marine traffic to pass.,
+31,310608,149242,0,04/27/2024 09:08:00 PM,NYCT Bus,delays,M1 | M101 | M102 | M103 | M7,"You may wait longer for these buses: 
+M1, M7, M101, M102, M103",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+32,310607,149241,0,04/27/2024 09:06:00 PM,NYCT Subway,delays,1,Northbound 1 trains are delayed while we request EMS assistance for a person in need on a train at 168 St-Washington Hts.,
+33,310610,149241,1,04/27/2024 09:10:00 PM,NYCT Subway,delays,1,Northbound 1 trains are running with delays after EMS/NYPD responded to a person in need on a train at 168 St-Washington Hts.,
+34,310605,149239,0,04/27/2024 08:42:00 PM,NYCT Bus,cancellations,BXM9,"The following BxM9 bus trips will not run: 
+From Madison Ave/E 25th St: 8:00 PM
+From Layton Ave/Clarence Ave: 9:15 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+35,310603,149237,0,04/27/2024 08:35:00 PM,NYCT Subway,delays,2 | 3,Northbound 2 3 trains are running with delays after NYPD responded to a person being disruptive on a train at Franklin Av-Medgar Evers College.,
+36,310602,149236,0,04/27/2024 08:34:00 PM,NYCT Bus,cancellations,BXM7,"The following BxM7 7 bus trips will not run: 
+From E 23rd St/Madison Ave: 8:30 PM
+From Dreiser Loop/Defoe Pl: 10:00 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+37,310601,149235,0,04/27/2024 08:32:00 PM,NYCT Bus,cancellations,BXM7,"The following BxM7 bus trips will not run: 
+From E 23rd St/Madison Ave: 5:10 PM
+From Dreiser Loop/Defoe Pl: 6:30 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+38,310600,149234,0,04/27/2024 08:27:00 PM,NYCT Bus,cancellations,BXM2,"The following BxM2 bus trip will not run:
+From Riverdale Ave/W 261st St: 10:00 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+39,310599,149233,0,04/27/2024 08:25:00 PM,NYCT Bus,cancellations,BXM2,"The following BxM2 bus trips will not run: 
+From 6th Ave/ W 35th St: 4:15 PM
+From Riverdale Ave/W 261st St: 6:00 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+40,310598,149232,0,04/27/2024 08:22:00 PM,NYCT Bus,cancellations,BXM1,"The following BxM1 bus trips will not run: 
+From Riverdale Ave/W 261st St: 5:15 PM
+From Madison Ave/E 33rd St: 6:55 PM",We're running as much service as we can with the bus operators we have available. Check bt.mta.info before you travel.
+41,310597,149231,0,04/27/2024 07:21:00 PM,NYCT Bus,detour,BM1 | BM2 | BM3 | BM4 | BM5,"Northbound BM1, BM2, BM3, BM4, and BM5 buses are detoured due to a street fair on Madison Ave between 23rd St and 36th St.","BM1, BM2, BM3, and BM4 buses will not serve stops from E 23rd St/Park Ave S to Madison Ave/E 40th St. 
+
+BM5 buses will not serve stops from E 34th St/3rd Ave to Madison Ave/E 40th St. 
+
+Requested stops will made along 3rd Ave. 
+
+Note: Bus arrival information may not be available/accurate while buses are detoured."
+42,310596,149230,0,04/27/2024 07:02:00 PM,MNR,some-delays,New Haven,The 2:05pm train from Grand Central to Stamford is operating 10-15 minutes late at this time.,
+43,310595,149229,0,04/27/2024 06:47:00 PM,NYCT Subway,delays,E,E trains are running with delays in both directions after EMS responded to a person in need on a train at Jamaica Center-Parsons/Archer.,
+44,310591,149228,0,04/27/2024 06:12:00 PM,NYCT Subway,delays,F,Southbound F trains are delayed while we investigate why a train's brakes were activated at W 4 St-Wash Sq.,
+45,310592,149228,1,04/27/2024 06:22:00 PM,NYCT Subway,delays,F,Southbound D F trains are delayed while we investigate why a train's brakes were activated at W 4 St-Wash Sq.,
+46,310593,149228,2,04/27/2024 06:24:00 PM,NYCT Subway,delays,D | F,Southbound D F trains are delayed while we investigate why a train's brakes were activated at W 4 St-Wash Sq.,
+47,310594,149228,3,04/27/2024 06:31:00 PM,NYCT Subway,delays,D | F,Southbound D F trains are running with delays after we removed a train with a mechanical problem from service at W 4 St-Wash Sq.,
+48,310590,149227,0,04/27/2024 05:52:00 PM,NYCT Bus,detour,Q112,Eastbound Q112 buses are detoured due to train track work on Liberty Ave between 96th St and 99th St.,"While detoured, you may notice a few extra turns, but no stops will be missed."
+49,310589,149226,0,04/27/2024 05:25:00 PM,NYCT Subway,delays,E | F,E F trains are running at slower speeds in both directions near Kew Gardens-Union Tpke while we perform planned track work in the area.,Expect delays in E F train service in both directions.

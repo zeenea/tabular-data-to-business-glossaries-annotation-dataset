@@ -1,0 +1,7 @@
+,code,name,description,instances,sub_class_of
+0,Community-And-Economic-Development,Community-And-Economic-Development,Efforts to improve economic and social conditions in a community,[],
+1,Community-And-Economic-Development.Transportation,Transportation,"The means of moving people, goods, and information from one place to another",[],Community-And-Economic-Development
+2,Community-And-Economic-Development.Transportation.Public-Transportation,Public-Transportation,Transport for hire in which the service is open to the general public.,[],Community-And-Economic-Development.Transportation
+3,Community-And-Economic-Development.Transportation.Bikes,Bikes,Vehicles propelled primarily by human effort and having two wheels,"['Wheel', 'Frame', 'Handlebars', 'Pedals']",Community-And-Economic-Development.Transportation
+4,Community-And-Economic-Development.Economic-Development,Economic-Development,"Actions taken by a local, regional or national government to stimulate economic activity and improve economic well-being within its jurisdiction",[],Community-And-Economic-Development
+5,Community-And-Economic-Development.Community-Development,Community-Development,"The process of improving economic, physical, and social conditions in a community",[],Community-And-Economic-Development

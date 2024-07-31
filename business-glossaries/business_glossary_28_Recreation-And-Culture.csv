@@ -1,0 +1,14 @@
+,code,name,description,instances,sub_class_of
+0,Recreation-And-Culture,Recreation-And-Culture,The total sum of all activities involved in the sustainable production and consumption of goods and services,[],
+1,Recreation-And-Culture.Market,Market,"A specific location where buying and selling occurs, often organized by retail categories",['retail'],Recreation-And-Culture
+2,Recreation-And-Culture.Market.Creative-Economy,Creative-Economy,"A sub-sector of the economy that deals with the production and distribution of culture, arts, and entertainment goods and services",[],Recreation-And-Culture.Market
+3,Recreation-And-Culture.Market.Creative-Economy.Creative-Industries,Creative-Industries,"Businesses involved in the creation and distribution of artistic, cultural and creative goods and services",['development-services-department'],Recreation-And-Culture.Market.Creative-Economy
+4,Recreation-And-Culture.Market.Creative-Economy.Creative-Professionals,Creative-Professionals,"Individuals employed in the creative economy, providing services in arts, design, entertainment, and cultural fields",[],Recreation-And-Culture.Market.Creative-Economy
+5,Recreation-And-Culture.Market.Creative-Economy.Creative-Spaces,Creative-Spaces,"Physical locations used to create, manufacture, or sell goods and services in the creative economy",['city-of-austin'],Recreation-And-Culture.Market.Creative-Economy
+6,Recreation-And-Culture.Market.Sector,Sector,An identified part of a larger economy participating in the production and exchange of goods and services,['temporary-use-permits'],Recreation-And-Culture.Market
+7,Recreation-And-Culture.Market.Sector.Transportation,Transportation,The means by which individuals and goods travel from one place to another,[],Recreation-And-Culture.Market.Sector
+8,Recreation-And-Culture.Market.Sector.Transportation.Events,Events,"Organized activities for the entertainment, relaxation or education of people, using various modes of transportation such as trains, buses or boats",[],Recreation-And-Culture.Market.Sector.Transportation
+9,Recreation-And-Culture.Market.Sector.Transportation.Events.Transit,Transit,Publicly available transport services,['events'],Recreation-And-Culture.Market.Sector.Transportation.Events
+10,Recreation-And-Culture.Market.Sector.Transportation.Events.Transit.Services,Services,Activities provided to the public to facilitate transportation,['transit'],Recreation-And-Culture.Market.Sector.Transportation.Events.Transit
+11,Recreation-And-Culture.Market.Region,Region,A geographical area with defined boundaries containing a distinguishable human population,['city-of-austin'],Recreation-And-Culture.Market
+12,Recreation-And-Culture.Market.Region.Government,Government,Organizations or institutions that govern the area,[],Recreation-And-Culture.Market.Region

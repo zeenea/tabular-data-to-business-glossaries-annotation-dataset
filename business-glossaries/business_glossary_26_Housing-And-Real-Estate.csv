@@ -1,0 +1,8 @@
+,code,name,description,instances,sub_class_of
+0,Housing-And-Real-Estate,Housing-And-Real-Estate,"A property market focusing on the buying, selling, renting, and financing of land and buildings",[],
+1,Housing-And-Real-Estate.Housing,Housing,A type of real estate consisting of residential properties,[],Housing-And-Real-Estate
+2,Housing-And-Real-Estate.Housing.Affordability,Affordability,The economic ability of individuals or families to purchase or rent a residence in a particular location,[],Housing-And-Real-Estate.Housing
+3,Housing-And-Real-Estate.Housing.Housing-Market,Housing-Market,"The economic conditions and trends affecting the sale, rental, and financing of housing in a particular area or market",[],Housing-And-Real-Estate.Housing
+4,Housing-And-Real-Estate.Housing.Housing-Market.Housing-Market-Study,Housing-Market-Study,A research report analyzing the housing market conditions,[],Housing-And-Real-Estate.Housing.Housing-Market
+5,Housing-And-Real-Estate.Housing.Housing-Market.Housing-Market-Study.Report,Report,,[],Housing-And-Real-Estate.Housing.Housing-Market.Housing-Market-Study
+6,Housing-And-Real-Estate.Housing.Housing-Market.Housing-Market-Study.Analysis,Analysis,"Analysis of housing market trends, housing demand, and housing supply.",[],Housing-And-Real-Estate.Housing.Housing-Market.Housing-Market-Study

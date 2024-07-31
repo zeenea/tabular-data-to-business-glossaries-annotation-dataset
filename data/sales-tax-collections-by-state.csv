@@ -1,0 +1,101 @@
+,state,month,year,tax type,value,fips state,numeric month,note,id
+0,Delaware,July,2023,motor fuel,,10,7,,10_2023_7
+1,Idaho,January,2021,motor fuel,22273106.0,16,1,,16_2021_1
+2,Maine,February,2021,motor fuel,16310504.0,23,2,,23_2021_2
+3,Montana,April,2019,motor fuel,,30,4,,30_2019_4
+4,Nebraska,May,2021,motor fuel,35390658.0,31,5,,31_2021_5
+5,West Virginia,December,2019,motor fuel,48341000.0,54,12,,54_2019_12
+6,Wyoming,December,2019,motor fuel,,56,12,,56_2019_12
+7,Wyoming,December,2020,motor fuel,,56,12,,56_2020_12
+8,Wyoming,December,2021,motor fuel,,56,12,,56_2021_12
+9,Wyoming,February,2020,motor fuel,,56,2,,56_2020_2
+10,Wyoming,February,2021,motor fuel,,56,2,,56_2021_2
+11,Wyoming,February,2022,motor fuel,,56,2,,56_2022_2
+12,Wyoming,January,2020,motor fuel,,56,1,,56_2020_1
+13,Wyoming,January,2021,motor fuel,,56,1,,56_2021_1
+14,Wyoming,January,2022,motor fuel,,56,1,,56_2022_1
+15,Wyoming,July,2019,motor fuel,,56,7,,56_2019_7
+16,Wyoming,July,2020,motor fuel,,56,7,,56_2020_7
+17,Wyoming,July,2021,motor fuel,,56,7,,56_2021_7
+18,Wyoming,June,2019,motor fuel,,56,6,,56_2019_6
+19,Wyoming,June,2020,motor fuel,,56,6,,56_2020_6
+20,Wyoming,June,2021,motor fuel,,56,6,,56_2021_6
+21,Wyoming,March,2020,motor fuel,,56,3,,56_2020_3
+22,Wyoming,March,2021,motor fuel,,56,3,,56_2021_3
+23,Wyoming,March,2022,motor fuel,,56,3,,56_2022_3
+24,Wyoming,May,2019,motor fuel,,56,5,,56_2019_5
+25,Wyoming,May,2020,motor fuel,,56,5,,56_2020_5
+26,Wyoming,May,2021,motor fuel,,56,5,,56_2021_5
+27,Wyoming,November,2019,motor fuel,,56,11,,56_2019_11
+28,Wyoming,November,2020,motor fuel,,56,11,,56_2020_11
+29,Nevada,June,2023,motor fuel,,32,6,,32_2023_6
+30,Kansas,July,2019,motor fuel,,20,7,,20_2019_7
+31,Nevada,January,2020,motor fuel,,32,1,,32_2020_1
+32,Nevada,July,2020,motor fuel,,32,7,,32_2020_7
+33,Wisconsin,July,2020,motor fuel,90910406.0,55,7,,55_2020_7
+34,Wisconsin,July,2021,motor fuel,89499974.0,55,7,,55_2021_7
+35,Wisconsin,June,2019,motor fuel,94373275.0,55,6,,55_2019_6
+36,Wisconsin,June,2020,motor fuel,89369607.0,55,6,,55_2020_6
+37,Wisconsin,June,2021,motor fuel,87169954.0,55,6,,55_2021_6
+38,Wisconsin,March,2020,motor fuel,89810498.0,55,3,,55_2020_3
+39,Wisconsin,March,2021,motor fuel,77228494.0,55,3,,55_2021_3
+40,Wisconsin,March,2022,motor fuel,88956702.0,55,3,,55_2022_3
+41,Wisconsin,May,2019,motor fuel,87941581.0,55,5,,55_2019_5
+42,Wisconsin,May,2020,motor fuel,52307087.0,55,5,,55_2020_5
+43,Wisconsin,May,2021,motor fuel,89053365.0,55,5,,55_2021_5
+44,Wisconsin,November,2019,motor fuel,85381407.0,55,11,,55_2019_11
+45,Wisconsin,November,2020,motor fuel,102036147.0,55,11,,55_2020_11
+46,Hawaii,May,2022,motor fuel,9080005.0,15,5,,15_2022_5
+47,Michigan,July,2022,motor fuel,127588245.0,26,7,,26_2022_7
+48,Michigan,June,2022,motor fuel,122434867.0,26,6,,26_2022_6
+49,Missouri,September,2022,motor fuel,84287223.0,29,9,,29_2022_9
+50,Montana,August,2022,motor fuel,,30,8,,30_2022_8
+51,Montana,September,2022,motor fuel,,30,9,,30_2022_9
+52,Nebraska,August,2022,motor fuel,30701758.0,31,8,,31_2022_8
+53,Nebraska,September,2022,motor fuel,30936948.0,31,9,,31_2022_9
+54,Nevada,August,2022,motor fuel,,32,8,,32_2022_8
+55,Nevada,September,2022,motor fuel,29912211.0,32,9,,32_2022_9
+56,New Hampshire,August,2022,motor fuel,9900000.0,33,8,,33_2022_8
+57,New Hampshire,September,2022,motor fuel,11600000.0,33,9,,33_2022_9
+58,New Jersey,August,2022,motor fuel,37533000.0,34,8,,34_2022_8
+59,New Jersey,September,2022,motor fuel,42534000.0,34,9,,34_2022_9
+60,New Mexico,August,2022,motor fuel,26420231.0,35,8,,35_2022_8
+61,New Mexico,September,2022,motor fuel,27278022.0,35,9,,35_2022_9
+62,New York,August,2022,motor fuel,93163000.0,36,8,,36_2022_8
+63,New York,September,2022,motor fuel,101442000.0,36,9,,36_2022_9
+64,North Carolina,August,2022,motor fuel,184691420.0,37,8,,37_2022_8
+65,North Carolina,September,2022,motor fuel,216118713.0,37,9,,37_2022_9
+66,North Dakota,August,2022,motor fuel,,38,8,,38_2022_8
+67,North Dakota,September,2022,motor fuel,,38,9,,38_2022_9
+68,Ohio,August,2022,motor fuel,231650607.0,39,8,,39_2022_8
+69,Ohio,September,2022,motor fuel,216906050.0,39,9,,39_2022_9
+70,Oklahoma,August,2022,motor fuel,48675047.0,40,8,,40_2022_8
+71,Oklahoma,September,2022,motor fuel,50927145.0,40,9,,40_2022_9
+72,Oregon,August,2022,motor fuel,61976723.0,41,8,,41_2022_8
+73,Oregon,September,2022,motor fuel,58990943.0,41,9,,41_2022_9
+74,Pennsylvania,August,2022,motor fuel,161156000.0,42,8,,42_2022_8
+75,Pennsylvania,September,2022,motor fuel,152494000.0,42,9,,42_2022_9
+76,Rhode Island,August,2022,motor fuel,,44,8,,44_2022_8
+77,Rhode Island,September,2022,motor fuel,,44,9,,44_2022_9
+78,Delaware,October,2022,motor fuel,,10,10,,10_2022_10
+79,Wisconsin,September,2022,motor fuel,110019987.0,55,9,,55_2022_9
+80,Wyoming,August,2022,motor fuel,,56,8,,56_2022_8
+81,Wyoming,September,2022,motor fuel,,56,9,,56_2022_9
+82,Alabama,October,2022,motor fuel,80850005.0,1,10,,1_2022_10
+83,Alaska,October,2022,motor fuel,3559386.0,2,10,,2_2022_10
+84,Arizona,October,2022,motor fuel,67962955.0,4,10,,4_2022_10
+85,Arkansas,October,2022,motor fuel,47025345.0,5,10,,5_2022_10
+86,California,October,2022,motor fuel,759581000.0,6,10,,6_2022_10
+87,Colorado,October,2022,motor fuel,60137000.0,8,10,,8_2022_10
+88,Alabama,November,2022,motor fuel,80853525.0,1,11,,1_2022_11
+89,Alaska,November,2022,motor fuel,3068884.0,2,11,,2_2022_11
+90,Arizona,November,2022,motor fuel,63323717.0,4,11,,4_2022_11
+91,Arkansas,November,2022,motor fuel,51877323.0,5,11,,5_2022_11
+92,California,November,2022,motor fuel,711104000.0,6,11,,6_2022_11
+93,Colorado,November,2022,motor fuel,67172000.0,8,11,,8_2022_11
+94,Connecticut,November,2022,motor fuel,10929975.0,9,11,,9_2022_11
+95,Delaware,November,2022,motor fuel,,10,11,,10_2022_11
+96,District of Columbia,November,2022,motor fuel,1846071.0,11,11,,11_2022_11
+97,Florida,November,2022,motor fuel,152370595.0,12,11,,12_2022_11
+98,Georgia,November,2022,motor fuel,1025000.0,13,11,,13_2022_11
+99,Arizona,December,2022,motor fuel,66203292.0,4,12,,4_2022_12

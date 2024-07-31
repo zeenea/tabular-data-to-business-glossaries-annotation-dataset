@@ -1,0 +1,19 @@
+,code,name,description,instances,sub_class_of
+0,Transportation-And-Roads,Transportation-And-Roads,,[],
+1,Transportation-And-Roads.Transportation,Transportation,"The action of moving people, animals, or goods from one place to another.",[],Transportation-And-Roads
+2,Transportation-And-Roads.Transportation.Road-Transport,Road-Transport,A form of transportation that relies on roadways for travel.,[],Transportation-And-Roads.Transportation
+3,Transportation-And-Roads.Transportation.Road-Transport.Public-Transport,Public-Transport,A transportation service available for use by the general public.,['king-county-metro'],Transportation-And-Roads.Transportation.Road-Transport
+4,Transportation-And-Roads.Transportation.Road-Transport.Public-Transport.Vehicle,Vehicle,,[],Transportation-And-Roads.Transportation.Road-Transport.Public-Transport
+5,Transportation-And-Roads.Transportation.Road-Transport.Public-Transport.Route,Route,,[],Transportation-And-Roads.Transportation.Road-Transport.Public-Transport
+6,Transportation-And-Roads.Infrastructure,Infrastructure,The fundamental physical and organizational structures essential for the operation of a society or enterprise.,[],Transportation-And-Roads
+7,Transportation-And-Roads.Infrastructure.Transport-Infrastructure,Transport-Infrastructure,Physical structures designed for the transportation of goods or people.,[],Transportation-And-Roads.Infrastructure
+8,Transportation-And-Roads.Infrastructure.Transport-Infrastructure.Road,Road,A transport infrastructure specifically for vehicular or pedestrian travel.,[],Transportation-And-Roads.Infrastructure.Transport-Infrastructure
+9,Transportation-And-Roads.Vehicle,Vehicle,A machine designed for human transport.,[],Transportation-And-Roads
+10,Transportation-And-Roads.Vehicle.Engine,Engine,,[],Transportation-And-Roads.Vehicle
+11,Transportation-And-Roads.Vehicle.Wheels,Wheels,,[],Transportation-And-Roads.Vehicle
+12,Transportation-And-Roads.Vehicle.Body,Body,,[],Transportation-And-Roads.Vehicle
+13,Transportation-And-Roads.Engine,Engine,A device for converting stored energy into useful mechanical motion.,[],Transportation-And-Roads
+14,Transportation-And-Roads.Engine.Internal-Combustion-Engine,Internal-Combustion-Engine,An engine that uses the energy released by the combustion of fuel in a combustion chamber.,[],Transportation-And-Roads.Engine
+15,Transportation-And-Roads.Engine.Internal-Combustion-Engine.Cylinders,Cylinders,,[],Transportation-And-Roads.Engine.Internal-Combustion-Engine
+16,Transportation-And-Roads.Engine.Internal-Combustion-Engine.Valves,Valves,,[],Transportation-And-Roads.Engine.Internal-Combustion-Engine
+17,Transportation-And-Roads.Engine.Internal-Combustion-Engine.Pistons,Pistons,,[],Transportation-And-Roads.Engine.Internal-Combustion-Engine

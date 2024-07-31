@@ -1,0 +1,51 @@
+,Month,Agency,Projection,Recovery
+0,10/01/2020,Subway,Best Case (Dec 2020),0.33
+1,10/01/2020,Subway,Midpoint (Dec 2020),0.33
+2,10/01/2020,Subway,Worst Case (Dec 2020),0.33
+3,10/01/2020,Bus,Best Case (Dec 2020),0.45
+4,10/01/2020,Bus,Midpoint (Dec 2020),0.45
+5,10/01/2020,Bus,Worst Case (Dec 2020),0.45
+6,10/01/2020,LIRR,Best Case (Dec 2020),0.25
+7,10/01/2020,LIRR,Midpoint (Dec 2020),0.25
+8,10/01/2020,LIRR,Worst Case (Dec 2020),0.25
+9,10/01/2020,MNR,Best Case (Dec 2020),0.23
+10,10/01/2020,MNR,Midpoint (Dec 2020),0.23
+11,10/01/2020,MNR,Worst Case (Dec 2020),0.23
+12,10/01/2020,SIR,Best Case (Dec 2020),0.33
+13,10/01/2020,SIR,Midpoint (Dec 2020),0.33
+14,10/01/2020,SIR,Worst Case (Dec 2020),0.33
+15,10/01/2020,BT,Best Case (May 2020),0.65
+16,10/01/2020,BT,Midpoint (May 2020),0.5
+17,10/01/2020,BT,Worst Case (May 2020),0.35
+18,10/01/2020,BT,Best Case (Nov 2020),0.87
+19,10/01/2020,BT,Midpoint (Nov 2020),0.87
+20,10/01/2020,BT,Worst Case (Nov 2020),0.87
+21,10/01/2020,BT,Best Case (Dec 2020),0.87
+22,10/01/2020,BT,Midpoint (Dec 2020),0.87
+23,10/01/2020,BT,Worst Case (Dec 2020),0.87
+24,10/01/2020,MTA Consolidated,Best Case (May 2020),0.45
+25,10/01/2020,MTA Consolidated,Midpoint (May 2020),0.225
+26,10/01/2020,MTA Consolidated,Worst Case (May 2020),0.0
+27,10/01/2020,MTA Consolidated,Best Case (Nov 2020),0.33
+28,10/01/2020,MTA Consolidated,Midpoint (Nov 2020),0.33
+29,10/01/2020,MTA Consolidated,Worst Case (Nov 2020),0.33
+30,10/01/2020,MTA Consolidated,Best Case (Dec 2020),0.36
+31,10/01/2020,MTA Consolidated,Midpoint (Dec 2020),0.36
+32,10/01/2020,MTA Consolidated,Worst Case (Dec 2020),0.36
+33,11/01/2020,Subway,Best Case (Dec 2020),0.33
+34,11/01/2020,Subway,Midpoint (Dec 2020),0.33
+35,11/01/2020,Subway,Worst Case (Dec 2020),0.33
+36,11/01/2020,Bus,Best Case (Dec 2020),0.45
+37,11/01/2020,Bus,Midpoint (Dec 2020),0.45
+38,11/01/2020,Bus,Worst Case (Dec 2020),0.45
+39,11/01/2020,LIRR,Best Case (Dec 2020),0.25
+40,11/01/2020,LIRR,Midpoint (Dec 2020),0.25
+41,11/01/2020,LIRR,Worst Case (Dec 2020),0.25
+42,11/01/2020,MNR,Best Case (Dec 2020),0.23
+43,11/01/2020,MNR,Midpoint (Dec 2020),0.23
+44,11/01/2020,MNR,Worst Case (Dec 2020),0.23
+45,11/01/2020,SIR,Best Case (Dec 2020),0.33
+46,11/01/2020,SIR,Midpoint (Dec 2020),0.33
+47,11/01/2020,SIR,Worst Case (Dec 2020),0.33
+48,11/01/2020,BT,Best Case (May 2020),0.65
+49,11/01/2020,BT,Midpoint (May 2020),0.5

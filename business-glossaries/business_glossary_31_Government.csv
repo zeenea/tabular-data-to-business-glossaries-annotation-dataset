@@ -1,0 +1,12 @@
+,code,name,description,instances,sub_class_of
+0,Government,Government,"A collective body of legislators and administrative officials governing an organized community, especially a state or nation",[],
+1,Government.Executive-Branch,Executive-Branch,The branch of a government that is responsible for the enforcement of law and the implementation of government policy,[],Government
+2,Government.Executive-Branch.Capital-Improvement-Program,Capital-Improvement-Program,,[],Government.Executive-Branch
+3,Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget,Capital-Budget,The portion of a budget that covers the funding of certain projects,[],Government.Executive-Branch.Capital-Improvement-Program
+4,Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget.projects,projects,A coordinated plan for a sequence of capital projects to be undertaken by a government,[],Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget
+5,Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget.Project-Status,Project-Status,The state of development of a construction project,{},Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget
+6,Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget.Budget,Budget,A financial plan that outlines planned revenues and expenses over a certain period of time,{},Government.Executive-Branch.Capital-Improvement-Program.Capital-Budget
+7,Government.Executive-Branch.Capital-Improvement-Program.Legislative-Branch,Legislative-Branch,The branch of a government that is responsible for making new laws,{},Government.Executive-Branch.Capital-Improvement-Program
+8,Government.Executive-Branch.Project,Project,A set of interrelated activities designed to achieve a particular goal,{},Government.Executive-Branch
+9,Government.Executive-Branch.Cip,Cip,An acronym for Capital Improvement Program,[],Government.Executive-Branch
+10,Government.Executive-Branch.Cip.Association,Association,,[],Government.Executive-Branch.Cip

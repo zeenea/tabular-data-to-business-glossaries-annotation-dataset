@@ -1,0 +1,51 @@
+,cash_flow,own_supporting,user_other,trust_fund,exp_type,gov_level,desccription,year,value,mode,chained_value,estimate_actual,deflator,gov_level_sort_order,mode_sort_order,user_other_grp
+0,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2010,190000000,General,211685012.7011008,Actual,89.756,0,6,Other
+1,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2011,105000000,General,113893980.9742817,Actual,92.191,0,6,Other
+2,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2012,99000000,General,106515751.42021,Actual,92.944,0,6,Other
+3,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2013,168000000,General,178052864.7434131,Actual,94.354,0,6,Other
+4,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2014,158000000,General,164246286.2667235,Actual,96.197,0,6,Other
+5,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2015,141000000,General,145302404.1880069,Actual,97.039,0,6,Other
+6,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2016,148000000,General,151026572.5131638,Actual,97.996,0,6,Other
+7,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2017,122000000,General,122000000.0,Actual,100.0,0,6,Other
+8,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2018,241000000,General,234060117.5156607,Actual,102.965,0,6,Other
+9,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2019,132000000,General,125870124.9165634,Actual,104.87,0,6,Other
+10,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2020,136000000,General,129001659.9478302,Actual,105.425,0,6,Other
+11,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2021,183000000,General,168399742.3391921,Actual,108.67,0,6,Other
+12,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for OST nonmodal outlays,2022,93000000,General,81389751.89253053,Actual,114.265,0,6,Other
+13,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2010,86000000,General,95815321.53839298,Actual,89.756,0,6,Other
+14,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2011,96000000,General,104131639.7479147,Actual,92.191,0,6,Other
+15,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2012,97000000,General,104363918.0581856,Actual,92.944,0,6,Other
+16,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2013,101000000,General,107043686.542171,Actual,94.354,0,6,Other
+17,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2014,97000000,General,100834745.3662796,Actual,96.197,0,6,Other
+18,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2015,99000000,General,102020836.9830687,Actual,97.039,0,6,Other
+19,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2016,104000000,General,106126780.6849259,Actual,97.996,0,6,Other
+20,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2017,106000000,General,106000000.0,Actual,100.0,0,6,Other
+21,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2018,103000000,General,100033992.1332492,Actual,102.965,0,6,Other
+22,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2019,105000000,General,100123963.0018118,Actual,104.87,0,6,Other
+23,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2020,111000000,General,105288119.5162438,Actual,105.425,0,6,Other
+24,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2021,111000000,General,102144106.0090181,Actual,108.67,0,6,Other
+25,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for NTSB outlays,2022,122000000,General,106769351.94504,Actual,114.265,0,6,Other
+26,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2010,97000000,General,108070769.6421409,Actual,89.756,0,6,Other
+27,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2011,129000000,General,139926890.9112603,Actual,92.191,0,6,Other
+28,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2012,101000000,General,108667584.7822345,Actual,92.944,0,6,Other
+29,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2013,104000000,General,110223201.9840176,Actual,94.354,0,6,Other
+30,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2014,71000000,General,73806875.47428714,Actual,96.197,0,6,Other
+31,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2015,118000000,General,121600593.5757788,Actual,97.039,0,6,Other
+32,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2016,107000000,General,109188130.1277603,Actual,97.996,0,6,Other
+33,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2017,118000000,General,118000000.0,Actual,100.0,0,6,Other
+34,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2018,282000000,General,273879473.6075366,Actual,102.965,0,6,Other
+35,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2019,129000000,General,123009440.2593687,Actual,104.87,0,6,Other
+36,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2020,140000000,General,132795826.416884,Actual,105.425,0,6,Other
+37,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2021,190000000,General,174841262.5379589,Actual,108.67,0,6,Other
+38,Revenue,Supporting,Other,Non-Trust Fund,-,Federal,General funds used for TSA ground transportation outlays,2022,167000000,General,146151489.9575548,Actual,114.265,0,6,Other
+39,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2010,190000000,General,211685012.7011008,Actual,89.756,0,6,-
+40,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2011,105000000,General,113893980.9742817,Actual,92.191,0,6,-
+41,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2012,99000000,General,106515751.42021,Actual,92.944,0,6,-
+42,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2013,168000000,General,178052864.7434131,Actual,94.354,0,6,-
+43,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2014,158000000,General,164246286.2667235,Actual,96.197,0,6,-
+44,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2015,141000000,General,145302404.1880069,Actual,97.039,0,6,-
+45,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2016,148000000,General,151026572.5131638,Actual,97.996,0,6,-
+46,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2017,122000000,General,122000000.0,Actual,100.0,0,6,-
+47,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2018,241000000,General,234060117.5156607,Actual,102.965,0,6,-
+48,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2019,132000000,General,125870124.9165634,Actual,104.87,0,6,-
+49,Expenditure,-,-,Non-Trust Fund,Non-Capital,Federal,OST nonmodal outlays,2020,136000000,General,129001659.9478302,Actual,105.425,0,6,-

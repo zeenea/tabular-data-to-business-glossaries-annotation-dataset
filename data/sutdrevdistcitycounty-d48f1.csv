@@ -1,0 +1,51 @@
+,X,Y,OBJECTID,FMNAME_PC,strCounty,intFiscalYrFrom,intFiscalYrTo,strJurisdiction,strJurisdictionType,intRevenueDistributed
+0,-13572237.0288,4521947.2071,1,Alameda County,Alameda,2012,2013,Alameda County,County,13670465
+1,-13572237.0288,4521947.2071,2,Alameda County,Alameda,2013,2014,Alameda County,County,13858110
+2,-13572237.0288,4521947.2071,3,Alameda County,Alameda,2014,2015,Alameda County,County,14690142
+3,-13572237.0288,4521947.2071,4,Alameda County,Alameda,2015,2016,Alameda County,County,17896336
+4,-13572237.0288,4521947.2071,5,Alameda County,Alameda,2016,2017,Alameda County,County,20974075
+5,-13572237.0288,4521947.2071,6,Alameda County,Alameda,2017,2018,Alameda County,County,22555772
+6,-13572237.0288,4521947.2071,7,Alameda County,Alameda,2018,2019,Alameda County,County,24117851
+7,-13338326.8178,4664290.1038,8,Alpine County,Alpine,2012,2013,Alpine County,County,222728
+8,-13338326.8178,4664290.1038,9,Alpine County,Alpine,2013,2014,Alpine County,County,195956
+9,-13338326.8178,4664290.1038,10,Alpine County,Alpine,2014,2015,Alpine County,County,253527
+10,-13338326.8178,4664290.1038,11,Alpine County,Alpine,2015,2016,Alpine County,County,393077
+11,-13338326.8178,4664290.1038,12,Alpine County,Alpine,2016,2017,Alpine County,County,541426
+12,-13338326.8178,4664290.1038,13,Alpine County,Alpine,2017,2018,Alpine County,County,400239
+13,-13338326.8178,4664290.1038,14,Alpine County,Alpine,2018,2019,Alpine County,County,278918
+14,-13446123.5172,4639161.7072,15,Amador County,Amador,2012,2013,Amador County,County,1950571
+15,-13446123.5172,4639161.7072,16,Amador County,Amador,2013,2014,Amador County,County,2047563
+16,-13446123.5172,4639161.7072,17,Amador County,Amador,2014,2015,Amador County,County,2147178
+17,-13446123.5172,4639161.7072,18,Amador County,Amador,2015,2016,Amador County,County,2315630
+18,-13446123.5172,4639161.7072,19,Amador County,Amador,2016,2017,Amador County,County,2874018
+19,-13446123.5172,4639161.7072,20,Amador County,Amador,2017,2018,Amador County,County,2952716
+20,-13446123.5172,4639161.7072,21,Amador County,Amador,2018,2019,Amador County,County,3115828
+21,-13536522.366,4817781.9088,22,Butte County,Butte,2012,2013,Butte County,County,2979778
+22,-13536522.366,4817781.9088,23,Butte County,Butte,2013,2014,Butte County,County,3287375
+23,-13536522.366,4817781.9088,24,Butte County,Butte,2014,2015,Butte County,County,3446968
+24,-13536522.366,4817781.9088,25,Butte County,Butte,2015,2016,Butte County,County,4053644
+25,-13536522.366,4817781.9088,26,Butte County,Butte,2016,2017,Butte County,County,5013435
+26,-13536522.366,4817781.9088,27,Butte County,Butte,2017,2018,Butte County,County,5307543
+27,-13536522.366,4817781.9088,28,Butte County,Butte,2018,2019,Butte County,County,5374439
+28,-13419953.6953,4608497.3724,29,Calaveras County,Calaveras,2012,2013,Calaveras County,County,1785593
+29,-13419953.6953,4608497.3724,30,Calaveras County,Calaveras,2013,2014,Calaveras County,County,1819145
+30,-13419953.6953,4608497.3724,31,Calaveras County,Calaveras,2014,2015,Calaveras County,County,1969241
+31,-13419953.6953,4608497.3724,32,Calaveras County,Calaveras,2015,2016,Calaveras County,County,2269134
+32,-13419953.6953,4608497.3724,33,Calaveras County,Calaveras,2016,2017,Calaveras County,County,3101801
+33,-13419953.6953,4608497.3724,34,Calaveras County,Calaveras,2017,2018,Calaveras County,County,3226374
+34,-13419953.6953,4608497.3724,35,Calaveras County,Calaveras,2018,2019,Calaveras County,County,3345492
+35,-13607385.5541,4747201.4307,36,Colusa County,Colusa,2012,2013,Colusa County,County,1462075
+36,-13607385.5541,4747201.4307,37,Colusa County,Colusa,2013,2014,Colusa County,County,1323264
+37,-13607385.5541,4747201.4307,38,Colusa County,Colusa,2014,2015,Colusa County,County,1401474
+38,-13607385.5541,4747201.4307,39,Colusa County,Colusa,2015,2016,Colusa County,County,1605769
+39,-13607385.5541,4747201.4307,40,Colusa County,Colusa,2016,2017,Colusa County,County,1644859
+40,-13607385.5541,4747201.4307,41,Colusa County,Colusa,2017,2018,Colusa County,County,1478701
+41,-13607385.5541,4747201.4307,42,Colusa County,Colusa,2018,2019,Colusa County,County,2036195
+42,-13575413.2519,4568607.866,43,Contra Costa County,Contra Costa,2012,2013,Contra Costa County,County,10698333
+43,-13575413.2519,4568607.866,44,Contra Costa County,Contra Costa,2013,2014,Contra Costa County,County,11456105
+44,-13575413.2519,4568607.866,45,Contra Costa County,Contra Costa,2014,2015,Contra Costa County,County,10335970
+45,-13575413.2519,4568607.866,46,Contra Costa County,Contra Costa,2015,2016,Contra Costa County,County,13437744
+46,-13575413.2519,4568607.866,47,Contra Costa County,Contra Costa,2016,2017,Contra Costa County,County,15105325
+47,-13575413.2519,4568607.866,48,Contra Costa County,Contra Costa,2017,2018,Contra Costa County,County,15073488
+48,-13575413.2519,4568607.866,49,Contra Costa County,Contra Costa,2018,2019,Contra Costa County,County,16631064
+49,-13792131.3923,5122648.8284,50,Del Norte County,Del Norte,2012,2013,Del Norte County,County,773152

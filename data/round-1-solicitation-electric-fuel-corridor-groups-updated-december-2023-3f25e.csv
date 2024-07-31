@@ -1,0 +1,16 @@
+,OBJECTID,Corridor_Segment,Corridor_Group,Alternative_Fuel_Corridor,Minimum_Sites,Chargers_Required,Required_Sites,Additional_Notes,Shape__Length
+0,1,Barstow to Needles,07,I-40,1,8,Ludlow, ,303097.549041557
+1,2,Buttonwillow to Barstow,07,SR-58,4,16,"I-5/SR-58 (Buttonwillow), SR-58/I-15 (Barstow)", ,312901.13861072
+2,3,El Segundo to Norwalk,20,I-105,1,4,I-105/I-605 (Norwalk), ,34182.7819101591
+3,4,Hesperia to Nevada,07,I-15,2,38,, ,326974.519622411
+4,5,Irwindale/Duarte to Seal Beach,20,I-605,1,4,I-605/I-210 (Irwindale/Duarte), ,53346.2591366139
+5,6,Los Angeles to Long Beach,20,I-710,2,8,"I-710/I-10 (Los Angeles), I-710/SR-1 (Long Beach)", ,43290.9043356078
+6,7,Los Angeles to San Pedro,20,I-110,2,8,"I-110/I-10 (Los Angeles), I-110/SR-47 (San Pedro)", ,39801.7492572316
+7,8,Mission Hills to Irvine,19,I-405,1,4,I-405/I-5 (Mission Hills), ,140910.396266939
+8,9,Murrieta to San Bernadino,19,I-215,2,8,"I-215/I-15 (Murrieta), I-215/I-15 (San Bernardino)", ,86588.729624336
+9,10,South of Sacramento to Kettleman City,06A,I-5,2,67,, ,407252.199306801
+10,11,San Diego to El Centro,16,I-8,2,8,, ,243895.995008759
+11,12,San Diego to Murrieta,16,I-15,2,8,"I-15/I-5 (San Diego), I-15/I-215 (Murrieta)", ,109941.761940141
+12,13,San Diego to San Ysidro,16,I-805,1,4,I-805/I-5 (San Diego), ,55302.9583407884
+13,14,Slymar to Redlands,19,I-210,1,4,I-210/I-5 (Sylmar), ,166543.983302455
+14,15,South of Kettleman City to Santa Clarita,06B,I-5,2,81,, ,289099.849017917

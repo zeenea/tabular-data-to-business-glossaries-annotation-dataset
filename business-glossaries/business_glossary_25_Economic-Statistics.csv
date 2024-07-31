@@ -1,0 +1,5 @@
+,code,name,description,instances,sub_class_of
+0,Economic-Statistics,Economic-Statistics,The production and study of statistics relating to economy and finance.,"['U.S. Bureau of Economic Analysis', 'BEA']",
+1,Economic-Statistics.Consumer-Expenditures,Consumer-Expenditures,"The spending by individuals and households, measured as total expenditures on goods and services.","['Personal Consumption Expenditures', 'PCE']",Economic-Statistics
+2,Economic-Statistics.Consumers,Consumers,Households and individuals that make purchases.,[],Economic-Statistics
+3,Economic-Statistics.Consumer-Spending,Consumer-Spending,The portion of personal disposable income that is allocated for purchase of consumer goods and services.,['Consumer-Spending'],Economic-Statistics

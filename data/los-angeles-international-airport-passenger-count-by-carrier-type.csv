@@ -1,0 +1,51 @@
+,DataExtractDate,ReportPeriod,Arrival_Departure,Domestic_International,FlightType,Passenger_Count
+0,05/03/2021 03:08:02 PM,03/01/2021 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1128607
+1,08/01/2021 12:00:23 AM,05/01/2021 12:00:00 AM,Departure,International,Scheduled Carriers,299659
+2,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Departure,Domestic,Charter,753
+3,04/10/2021 06:01:03 AM,03/01/2021 12:00:00 AM,Departure,Domestic,Charter,342
+4,04/10/2021 06:01:03 AM,03/01/2021 12:00:00 AM,Arrival,Domestic,Charter,199
+5,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,366392
+6,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Departure,International,Charter,0
+7,05/03/2021 03:08:02 PM,03/01/2021 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1137239
+8,05/27/2021 03:16:34 PM,04/01/2021 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1323446
+9,05/27/2021 03:16:34 PM,04/01/2021 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1326190
+10,05/10/2021 06:01:09 AM,04/01/2021 12:00:00 AM,Departure,Domestic,Charter,674
+11,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Arrival,International,Charter,11
+12,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Departure,International,Scheduled Carriers,395086
+13,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Arrival,Domestic,Charter,656
+14,05/10/2021 06:01:09 AM,04/01/2021 12:00:00 AM,Arrival,Domestic,Charter,405
+15,08/01/2021 12:00:23 AM,06/01/2021 12:00:00 AM,Arrival,Domestic,Commuter,74
+16,12/10/2020 06:01:38 AM,11/01/2020 12:00:00 AM,Arrival,International,Charter,6
+17,06/09/2021 12:34:10 PM,05/01/2021 12:00:00 AM,Arrival,International,Charter,4
+18,06/11/2021 12:35:47 PM,05/01/2021 12:00:00 AM,Departure,Domestic,Charter,883
+19,06/11/2021 12:35:47 PM,11/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,170834
+20,06/11/2021 12:35:47 PM,02/01/2021 12:00:00 AM,Departure,International,Scheduled Carriers,113193
+21,06/11/2021 12:35:47 PM,09/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,127934
+22,09/28/2020 04:07:45 PM,08/01/2020 12:00:00 AM,Departure,International,Charter,1464
+23,06/11/2021 12:35:47 PM,10/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,156042
+24,06/11/2021 12:35:47 PM,03/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,169960
+25,06/01/2022 12:00:23 AM,04/01/2022 12:00:00 AM,Departure,International,Scheduled Carriers,624711
+26,05/10/2021 06:01:09 AM,04/01/2021 12:00:00 AM,Arrival,International,Charter,17
+27,06/11/2021 12:35:47 PM,01/01/2021 12:00:00 AM,Departure,International,Scheduled Carriers,139549
+28,06/11/2021 12:35:47 PM,01/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,199463
+29,06/11/2021 12:35:47 PM,10/01/2020 12:00:00 AM,Arrival,International,Scheduled Carriers,148999
+30,09/28/2020 04:07:45 PM,08/01/2020 12:00:00 AM,Arrival,International,Charter,586
+31,08/27/2020 07:15:54 AM,07/01/2020 12:00:00 AM,Departure,International,Charter,965
+32,06/11/2021 12:35:47 PM,08/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,112459
+33,06/11/2021 12:35:47 PM,12/01/2020 12:00:00 AM,Arrival,International,Scheduled Carriers,163191
+34,06/11/2021 12:35:47 PM,11/01/2020 12:00:00 AM,Arrival,International,Scheduled Carriers,164266
+35,03/03/2021 10:48:12 AM,01/01/2021 12:00:00 AM,Departure,International,Charter,160
+36,06/11/2021 12:35:47 PM,03/01/2021 12:00:00 AM,Departure,International,Scheduled Carriers,176538
+37,03/03/2021 10:48:12 AM,01/01/2021 12:00:00 AM,Arrival,International,Charter,26
+38,06/29/2021 10:06:21 AM,05/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,297353
+39,06/29/2021 10:06:21 AM,05/01/2021 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1725461
+40,08/27/2020 07:15:54 AM,07/01/2020 12:00:00 AM,Arrival,International,Charter,193
+41,06/11/2021 12:35:47 PM,05/01/2021 12:00:00 AM,Arrival,Domestic,Commuter,30
+42,03/10/2021 06:01:08 AM,02/01/2021 12:00:00 AM,Arrival,International,Charter,8
+43,06/11/2021 12:35:47 PM,07/01/2020 12:00:00 AM,Arrival,International,Scheduled Carriers,85003
+44,06/11/2021 12:35:47 PM,04/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,216529
+45,06/11/2021 12:35:47 PM,08/01/2020 12:00:00 AM,Arrival,International,Scheduled Carriers,107978
+46,06/11/2021 12:35:47 PM,02/01/2021 12:00:00 AM,Arrival,International,Scheduled Carriers,113188
+47,06/11/2021 12:35:47 PM,12/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,200633
+48,06/11/2021 12:35:47 PM,07/01/2020 12:00:00 AM,Departure,International,Scheduled Carriers,105620
+49,02/02/2021 08:17:02 AM,12/01/2020 12:00:00 AM,Arrival,International,Charter,18

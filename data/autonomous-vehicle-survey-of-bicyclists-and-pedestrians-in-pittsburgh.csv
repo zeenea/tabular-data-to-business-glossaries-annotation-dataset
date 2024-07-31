@@ -1,0 +1,101 @@
+,RespondentID,StartDate,EndDate,FamiliarityNews,FamiliarityTech,SharedCyclist,SharedPedestrian,SafeAv,SafeHuman,AvImpact,ProvingGround,Speed25Mph,TwoEmployeesAv,SchoolZoneManual,ShareTripData,SharePerformanceData,ReportSafetyIncident,ArizonaCrash,ZipCode,BikePghMember,AutoOwner,SmartphoneOwner,Age
+0,10505419886,2/2/2019,2/2/2019,To a moderate extent,Somewhat familiar,Yes,Yes,4.0,2.0,Significantly Better,Approve,No,Not sure,No,Not sure,Yes,Yes,No change,15212.0,No,Yes,Yes,25-34
+1,10505138734,2/2/2019,2/2/2019,To a moderate extent,Somewhat familiar,Yes,No,5.0,4.0,Significantly Better,Neutral,No,No,No,No,Yes,Not sure,No change,15232.0,Not sure,Yes,Yes,25-34
+2,10504803283,2/1/2019,2/1/2019,To a moderate extent,Somewhat familiar,Yes,Yes,1.0,4.0,Significantly Worse,Disapprove,Not sure,Yes,No,No,No,Not sure,Significantly more negative opinion,,No,No,No,
+3,10504337177,2/1/2019,2/1/2019,To a moderate extent,Extremely familiar,Yes,Yes,2.0,3.0,Slightly Worse,Disapprove,Yes,Yes,Yes,No,Yes,Yes,No change,15136.0,No,No,Yes,55-64
+4,10504261546,2/1/2019,2/1/2019,To a moderate extent,Mostly familiar,Yes,No,5.0,3.0,Slightly Better,Neutral,No,No,Not sure,Yes,Yes,No,No change,15201.0,Yes,No,Yes,35-44
+5,10504232487,2/1/2019,2/1/2019,To a large extent,Mostly familiar,Yes,Yes,1.0,3.0,Slightly Worse,Somewhat Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15222.0,Yes,Yes,Yes,35-44
+6,10504048132,2/1/2019,2/1/2019,To little extent,Not familiar at all,Yes,Yes,5.0,2.0,Slightly Better,Neutral,Not sure,Not sure,Not sure,Not sure,Not sure,Not sure,No change,15224.0,Yes,Yes,Yes,35-44
+7,10504011274,2/1/2019,2/1/2019,To a large extent,Mostly familiar,Yes,Yes,5.0,2.0,Significantly Better,Somewhat Approve,No,No,No,Yes,Yes,No,No change,15201.0,No,Yes,Yes,25-34
+8,10503863228,2/1/2019,2/1/2019,To a large extent,Somewhat familiar,No,No,5.0,4.0,Significantly Better,Approve,Not sure,No,No,Yes,Yes,Yes,No change,15206.0,No,Yes,Yes,45-54
+9,10503731368,2/1/2019,2/1/2019,To a large extent,Somewhat familiar,Yes,Yes,3.0,5.0,No effect,Somewhat Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15219.0,No,Yes,Yes,55-64
+10,10503687114,2/1/2019,2/1/2019,To a moderate extent,Somewhat familiar,Not sure,Yes,3.0,4.0,Slightly Better,Neutral,Yes,Not sure,Yes,Yes,Yes,Yes,No change,15207.0,Yes,Yes,Yes,45-54
+11,10503567568,2/1/2019,2/1/2019,To a moderate extent,Somewhat familiar,Yes,No,3.0,4.0,Slightly Worse,Somewhat Approve,Yes,Yes,Yes,Not sure,Yes,Yes,Somewhat more negative opinion,15220.0,No,Yes,Yes,35-44
+12,10503541139,2/1/2019,2/1/2019,To a moderate extent,Somewhat familiar,Yes,Yes,3.0,2.0,No effect,Somewhat Approve,Yes,Yes,Not sure,Yes,Yes,Not sure,Somewhat more negative opinion,15201.0,Yes,Yes,Yes,25-34
+13,10503248383,2/1/2019,2/1/2019,Not at all,Extremely familiar,Yes,Yes,5.0,5.0,No effect,Approve,No,No,No,No,No,No,No change,15201.0,No,Yes,Yes,35-44
+14,10503159766,2/1/2019,2/1/2019,To a large extent,Somewhat familiar,No,Yes,4.0,4.0,No effect,Approve,No,No,Yes,Not sure,No,Yes,No change,15206.0,No,Yes,Yes,55-64
+15,10502774103,1/31/2019,1/31/2019,To a large extent,Mostly familiar,Yes,Yes,5.0,3.0,Significantly Better,Approve,Not sure,No,No,No,Yes,Yes,Somewhat more negative opinion,15009.0,Yes,Yes,Yes,25-34
+16,10502675032,1/31/2019,1/31/2019,To little extent,Not familiar at all,Not sure,Not sure,3.0,3.0,Slightly Worse,Neutral,Not sure,Not sure,Not sure,Not sure,Not sure,Yes,Somewhat more negative opinion,15135.0,No,Yes,Yes,45-54
+17,10502625514,1/31/2019,1/31/2019,To a large extent,Somewhat familiar,Yes,No,4.0,2.0,Significantly Better,Approve,No,No,No,No,Yes,Yes,No change,15217.0,Yes,Yes,Yes,35-44
+18,10502571139,1/31/2019,1/31/2019,To a large extent,Mostly familiar,Yes,Yes,5.0,2.0,Significantly Better,Approve,No,No,Not sure,No,No,No,No change,15222.0,Yes,Yes,Yes,35-44
+19,10502460099,1/31/2019,1/31/2019,To some extent,Mostly familiar,Yes,Yes,3.0,2.0,Slightly Better,Somewhat Disapprove,Yes,No,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15224.0,Yes,Yes,Yes,25-34
+20,10502288136,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,No,4.0,3.0,No effect,Somewhat Approve,Not sure,No,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15224.0,No,Yes,Yes,Under 18
+21,10502226666,1/31/2019,1/31/2019,To a moderate extent,Not familiar at all,Not sure,Not sure,1.0,3.0,Slightly Worse,Neutral,Not sure,Not sure,Not sure,Yes,Yes,Yes,Significantly more negative opinion,,Yes,Yes,Yes,25-34
+22,10502199182,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,Yes,Yes,5.0,3.0,Significantly Better,Approve,No,No,No,Yes,Yes,No,No change,15234.0,No,Yes,Yes,25-34
+23,10502147481,1/31/2019,1/31/2019,To some extent,Not familiar at all,No,No,3.0,1.0,Slightly Better,Somewhat Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15221.0,No,Yes,Yes,25-34
+24,10502114701,1/31/2019,1/31/2019,To a moderate extent,Mostly familiar,Yes,Yes,5.0,3.0,Slightly Better,Somewhat Approve,Not sure,Not sure,Yes,Not sure,Yes,Yes,No change,15235.0,No,Yes,Yes,35-44
+25,10502058758,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,Yes,4.0,3.0,No effect,Somewhat Approve,Yes,No,Yes,No,No,Yes,Somewhat more negative opinion,15212.0,No,Yes,Yes,25-34
+26,10502051148,1/31/2019,1/31/2019,To a moderate extent,Extremely familiar,Yes,Yes,4.0,2.0,Significantly Better,Somewhat Approve,Yes,Not sure,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15217.0,No,Yes,Yes,35-44
+27,10502049467,1/31/2019,1/31/2019,To a large extent,Extremely familiar,No,Yes,4.0,1.0,Slightly Better,Approve,Yes,Yes,No,No,Yes,Yes,Significantly more negative opinion,15218.0,Yes,Yes,Yes,25-34
+28,10502033424,1/31/2019,1/31/2019,To a large extent,Extremely familiar,Not sure,Not sure,3.0,4.0,Slightly Worse,Neutral,Yes,Not sure,Yes,Yes,Yes,Yes,No change,16803.0,No,Yes,Yes,25-34
+29,10501991066,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,Yes,Yes,4.0,4.0,Slightly Better,Approve,Not sure,No,Not sure,No,Yes,Yes,No change,15217.0,No,Yes,Yes,65+
+30,10501931788,1/31/2019,1/31/2019,To some extent,Not familiar at all,No,No,2.0,4.0,Slightly Worse,Somewhat Approve,Yes,Yes,No,Yes,Yes,Yes,Significantly more negative opinion,15241.0,No,Yes,Yes,55-64
+31,10501884323,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,No,5.0,2.0,Significantly Better,Neutral,No,Not sure,No,Not sure,Yes,Yes,No change,15201.0,No,Yes,Yes,35-44
+32,10501878218,1/31/2019,1/31/2019,To little extent,Not familiar at all,No,Yes,3.0,3.0,Slightly Better,Somewhat Approve,Yes,No,No,Yes,Yes,Yes,No change,,No,Yes,Yes,25-34
+33,10501701337,1/31/2019,1/31/2019,To a large extent,Extremely familiar,Yes,No,4.0,3.0,Slightly Better,Approve,No,No,No,No,Yes,Yes,No change,15201.0,No,Yes,Yes,35-44
+34,10501695876,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Not sure,Yes,3.0,2.0,Significantly Better,Approve,Yes,Yes,Not sure,Yes,Yes,Yes,No change,15224.0,Not sure,Yes,Yes,35-44
+35,10501693618,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,No,Yes,4.0,3.0,No effect,Somewhat Disapprove,Not sure,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15224.0,No,Yes,Yes,25-34
+36,10501667207,1/31/2019,1/31/2019,To some extent,Somewhat familiar,No,Not sure,3.0,2.0,Slightly Worse,Somewhat Disapprove,Yes,Yes,No,Yes,Yes,Yes,Significantly more negative opinion,15224.0,No,No,Yes,25-34
+37,10501635085,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,Yes,Yes,1.0,1.0,Slightly Worse,Disapprove,Yes,Not sure,Not sure,Not sure,Yes,Yes,Significantly more negative opinion,15209.0,No,Yes,Yes,25-34
+38,10501617297,1/31/2019,1/31/2019,To a large extent,Extremely familiar,Yes,Yes,4.0,1.0,Significantly Better,Approve,Not sure,Yes,Not sure,No,Not sure,Not sure,No change,15014.0,Yes,Yes,Yes,35-44
+39,10501575913,1/31/2019,1/31/2019,To a moderate extent,Mostly familiar,Yes,Yes,5.0,2.0,Significantly Better,Approve,No,No,No,Yes,Yes,Yes,No change,15209.0,Yes,Yes,Yes,35-44
+40,10501574115,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,No,3.0,1.0,No effect,Somewhat Approve,Yes,Yes,Yes,Yes,Yes,Yes,No change,15217.0,Yes,Yes,Yes,18-24
+41,10501516000,1/31/2019,1/31/2019,To some extent,Somewhat familiar,No,Yes,1.0,3.0,Significantly Better,Approve,Not sure,No,No,Yes,Yes,Yes,Somewhat more negative opinion,15071.0,No,Yes,Yes,25-34
+42,10501458859,1/31/2019,1/31/2019,To a moderate extent,Mostly familiar,Not sure,Not sure,4.0,2.0,Significantly Better,Somewhat Approve,No,No,No,Not sure,No,Not sure,No change,15217.0,Not sure,Yes,Yes,25-34
+43,10501451524,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,Yes,Yes,2.0,4.0,Slightly Worse,Somewhat Disapprove,Yes,Not sure,Yes,Yes,Yes,Yes,Significantly more negative opinion,15009.0,No,Yes,Yes,25-34
+44,10501427329,1/31/2019,1/31/2019,To a moderate extent,Somewhat familiar,Yes,Yes,2.0,3.0,No effect,Disapprove,Yes,Not sure,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15217.0,Yes,Yes,Yes,35-44
+45,10501403397,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,Yes,5.0,3.0,Slightly Better,Approve,No,No,Yes,Yes,Yes,No,No change,15211.0,No,Yes,Yes,35-44
+46,10501381784,1/31/2019,1/31/2019,To a large extent,Extremely familiar,Not sure,Yes,5.0,2.0,Significantly Better,Approve,No,No,No,Yes,Yes,Yes,No change,15212.0,Not sure,Yes,Yes,35-44
+47,10501357932,1/31/2019,1/31/2019,To some extent,Somewhat familiar,Yes,Yes,3.0,3.0,No effect,Somewhat Disapprove,Yes,Not sure,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15201.0,No,Yes,Yes,25-34
+48,10501249599,1/31/2019,1/31/2019,To a large extent,Mostly familiar,Yes,No,5.0,2.0,Significantly Better,Approve,No,Not sure,No,Not sure,Yes,No,No change,15211.0,No,Yes,Yes,45-54
+49,10500998053,1/31/2019,1/31/2019,To a moderate extent,Mostly familiar,No,No,2.0,4.0,Slightly Worse,Somewhat Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15223.0,No,Yes,Yes,65+
+50,10500988231,1/31/2019,1/31/2019,To some extent,Mostly familiar,Yes,Yes,4.0,3.0,Slightly Better,Neutral,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15222.0,Not sure,Yes,Yes,55-64
+51,10500988230,1/31/2019,1/31/2019,To a moderate extent,Extremely familiar,Yes,Yes,5.0,2.0,Significantly Better,Approve,No,No,No,No,No,No,Significantly more positive opinion,15090.0,No,Yes,Yes,35-44
+52,10500473518,1/31/2019,1/31/2019,To a large extent,Mostly familiar,No,Not sure,4.0,2.0,Significantly Better,Approve,No,No,No,Yes,Yes,Yes,No change,15202.0,Yes,Yes,Yes,55-64
+53,10500148086,1/30/2019,1/30/2019,To a moderate extent,Mostly familiar,No,Yes,3.0,3.0,Slightly Better,Approve,No,No,No,Yes,Yes,Yes,No change,15217.0,Yes,No,Yes,25-34
+54,10500144606,1/30/2019,1/30/2019,To a moderate extent,Mostly familiar,No,No,2.0,4.0,Significantly Worse,Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15222.0,No,Yes,Yes,25-34
+55,10500039124,1/30/2019,1/30/2019,To a large extent,Mostly familiar,No,Not sure,4.0,2.0,Slightly Better,,No,No,No,Yes,Yes,Yes,No change,15228.0,No,Yes,Yes,45-54
+56,10499881667,1/30/2019,1/30/2019,To some extent,Mostly familiar,Not sure,Not sure,1.0,3.0,Significantly Worse,Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15210.0,Not sure,Yes,Yes,25-34
+57,10499844878,1/30/2019,1/30/2019,To a large extent,Somewhat familiar,Yes,Yes,4.0,3.0,Significantly Better,Approve,No,Not sure,Not sure,Yes,Yes,No,No change,15211.0,No,Yes,Yes,45-54
+58,10499792642,1/30/2019,1/30/2019,To little extent,Somewhat familiar,Not sure,Not sure,3.0,4.0,No effect,Somewhat Disapprove,Not sure,Not sure,Yes,Not sure,Yes,Yes,Somewhat more negative opinion,15206.0,No,Yes,Yes,25-34
+59,10499697392,1/30/2019,1/30/2019,To a moderate extent,Somewhat familiar,Yes,Yes,5.0,3.0,Significantly Better,Approve,Yes,Yes,Yes,Yes,Not sure,No,No change,15201.0,No,Yes,Yes,45-54
+60,10499445271,1/30/2019,1/30/2019,To a large extent,Extremely familiar,No,Yes,4.0,2.0,Significantly Better,Somewhat Approve,Not sure,Yes,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,15201.0,Yes,Yes,Yes,25-34
+61,10499408275,1/30/2019,1/30/2019,To a large extent,Extremely familiar,No,Yes,3.0,2.0,Slightly Better,Somewhat Approve,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15215.0,No,Yes,Yes,45-54
+62,10499373267,1/30/2019,1/30/2019,To a large extent,Mostly familiar,Yes,No,5.0,2.0,Significantly Better,Approve,No,No,Not sure,Yes,Yes,Yes,No change,15224.0,Yes,Yes,Yes,45-54
+63,10499345074,1/30/2019,1/30/2019,To a moderate extent,Somewhat familiar,No,No,,3.0,No effect,Somewhat Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,,No,Yes,Yes,55-64
+64,10499338551,1/30/2019,1/30/2019,To a moderate extent,Extremely familiar,Not sure,Yes,5.0,3.0,Significantly Better,Approve,No,Not sure,No,Not sure,Yes,Yes,No change,15221.0,Yes,Yes,Yes,35-44
+65,10499280976,1/30/2019,1/30/2019,To a moderate extent,Mostly familiar,Not sure,Yes,3.0,2.0,Slightly Better,Neutral,Yes,Not sure,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,38107.0,No,Yes,Yes,45-54
+66,10499279665,1/30/2019,1/30/2019,To a large extent,Extremely familiar,Yes,Yes,4.0,3.0,Slightly Better,Neutral,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15068.0,Not sure,Yes,Yes,55-64
+67,10499249479,1/30/2019,1/30/2019,To a moderate extent,Mostly familiar,Yes,No,5.0,3.0,No effect,Approve,No,No,Not sure,No,No,Yes,No change,15237.0,Yes,Yes,Yes,65+
+68,10499226733,1/30/2019,1/30/2019,To some extent,Somewhat familiar,No,No,2.0,1.0,Slightly Better,Somewhat Disapprove,Yes,No,Yes,Yes,Yes,Yes,Somewhat more negative opinion,,No,Yes,Yes,25-34
+69,10499224313,1/30/2019,1/30/2019,To a moderate extent,Mostly familiar,No,Yes,2.0,2.0,Slightly Worse,Somewhat Approve,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15208.0,No,Yes,Yes,65+
+70,10499216045,1/30/2019,1/30/2019,To little extent,Mostly familiar,No,Yes,5.0,3.0,Significantly Better,Approve,No,No,Not sure,Not sure,Yes,Yes,Somewhat more positive opinion,15235.0,No,Yes,Yes,35-44
+71,10499164226,1/30/2019,1/30/2019,To a moderate extent,Extremely familiar,Yes,Yes,5.0,3.0,Slightly Better,Approve,No,No,No,Yes,Yes,Yes,Significantly more positive opinion,15215.0,Yes,Yes,Yes,55-64
+72,10499143475,1/30/2019,1/30/2019,To some extent,Mostly familiar,Not sure,Yes,4.0,3.0,Significantly Better,Somewhat Approve,No,Yes,Not sure,No,Yes,Yes,No change,15224.0,No,Yes,Yes,25-34
+73,10499048479,1/30/2019,1/30/2019,To a moderate extent,Somewhat familiar,Yes,Yes,3.0,1.0,Slightly Better,Somewhat Approve,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,15201.0,Yes,Yes,Yes,25-34
+74,10498973305,1/30/2019,1/30/2019,To little extent,Somewhat familiar,Yes,Yes,2.0,2.0,Slightly Worse,Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15206.0,Yes,Yes,Yes,25-34
+75,10498913189,1/30/2019,1/30/2019,To a large extent,Mostly familiar,No,Yes,4.0,2.0,Significantly Better,Approve,No,No,No,Yes,Yes,Yes,Somewhat more negative opinion,15206.0,Yes,Yes,Yes,35-44
+76,10498871662,1/30/2019,1/30/2019,To some extent,Not familiar at all,Not sure,Yes,2.0,2.0,Significantly Worse,Somewhat Disapprove,Not sure,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15229.0,Not sure,Yes,Yes,25-34
+77,10498860618,1/30/2019,1/30/2019,To little extent,Not familiar at all,Yes,Yes,5.0,4.0,Significantly Better,Approve,Not sure,Not sure,Not sure,Yes,Yes,Yes,No change,15201.0,Yes,Yes,Yes,25-34
+78,10498725037,1/30/2019,1/30/2019,To a large extent,Somewhat familiar,Yes,Yes,4.0,3.0,Slightly Better,Somewhat Approve,Not sure,Not sure,Yes,Not sure,Not sure,Yes,No change,15217.0,Yes,Yes,Yes,35-44
+79,10498714520,1/30/2019,1/30/2019,To a large extent,Extremely familiar,Yes,Yes,5.0,3.0,Significantly Better,Approve,Yes,No,Not sure,Not sure,Yes,Yes,No change,15223.0,Yes,Yes,Yes,35-44
+80,10498697866,1/30/2019,1/30/2019,To some extent,Somewhat familiar,No,No,3.0,3.0,Slightly Better,Somewhat Approve,Yes,No,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,16262.0,No,Yes,Yes,35-44
+81,10498629080,1/30/2019,1/30/2019,To a moderate extent,Somewhat familiar,No,Yes,4.0,3.0,Significantly Better,Approve,No,Yes,No,Not sure,Yes,Yes,No change,15208.0,No,Yes,Yes,18-24
+82,10498593524,1/30/2019,1/30/2019,To some extent,Somewhat familiar,Yes,No,4.0,3.0,Slightly Better,Approve,No,No,Yes,Not sure,Yes,Yes,No change,15211.0,No,Yes,Yes,18-24
+83,10496666321,1/29/2019,1/29/2019,To some extent,Mostly familiar,Not sure,Yes,4.0,3.0,Significantly Better,Approve,No,No,Not sure,Yes,Yes,Yes,No change,15213.0,Yes,Yes,Yes,25-34
+84,10495230218,1/29/2019,1/29/2019,To a large extent,Extremely familiar,Yes,No,,,,Disapprove,Yes,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15213.0,Yes,Yes,Yes,18-24
+85,10494593942,1/28/2019,1/28/2019,To a large extent,Mostly familiar,Yes,Yes,5.0,1.0,Significantly Better,Approve,No,No,No,Yes,Yes,No,No change,15690.0,No,Yes,Yes,25-34
+86,10494502647,1/28/2019,1/28/2019,To a large extent,Somewhat familiar,Yes,Yes,3.0,2.0,Slightly Better,Approve,Not sure,Not sure,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15212.0,Yes,Yes,Yes,55-64
+87,10494480628,1/28/2019,1/28/2019,To a moderate extent,Mostly familiar,No,Yes,4.0,2.0,Slightly Better,Somewhat Approve,Yes,Not sure,Not sure,Yes,Yes,Yes,No change,15241.0,No,Yes,Yes,55-64
+88,10494076639,1/28/2019,1/28/2019,To a moderate extent,Mostly familiar,Not sure,Not sure,5.0,4.0,Significantly Better,Approve,Not sure,No,Not sure,Not sure,Not sure,Not sure,No change,15601.0,No,Yes,Yes,45-54
+89,10493669679,1/28/2019,1/28/2019,To a large extent,Extremely familiar,Yes,Yes,5.0,1.0,Significantly Better,Approve,No,Yes,Not sure,Yes,Yes,Yes,No change,15224.0,Yes,Yes,Yes,35-44
+90,10493645911,1/28/2019,1/28/2019,To some extent,Somewhat familiar,No,Yes,5.0,1.0,Significantly Better,Approve,Yes,Yes,Not sure,Yes,Yes,Not sure,No change,24060.0,Yes,Yes,Yes,25-34
+91,10492779516,1/27/2019,1/27/2019,To some extent,Mostly familiar,No,No,4.0,3.0,Slightly Better,Somewhat Approve,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,15207.0,Not sure,Yes,Yes,25-34
+92,10492630481,1/27/2019,1/27/2019,To a moderate extent,Mostly familiar,Yes,Yes,4.0,4.0,Slightly Better,Approve,Not sure,No,Not sure,Yes,Yes,Yes,Somewhat more negative opinion,15201.0,No,Yes,Yes,25-34
+93,10492576250,1/27/2019,1/27/2019,To a moderate extent,Mostly familiar,,Yes,5.0,1.0,Slightly Worse,Disapprove,Not sure,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,,No,Yes,Yes,45-54
+94,10492235189,1/27/2019,1/27/2019,To some extent,Somewhat familiar,No,No,2.0,2.0,Slightly Better,Neutral,Not sure,Yes,Yes,Yes,Yes,Yes,Significantly more negative opinion,15232.0,Yes,Yes,Yes,25-34
+95,10491601994,1/26/2019,1/26/2019,To some extent,Mostly familiar,Yes,Yes,3.0,3.0,No effect,Neutral,Yes,No,Yes,Yes,Yes,Yes,Somewhat more negative opinion,15206.0,Yes,Yes,Yes,45-54
+96,10491499662,1/26/2019,1/26/2019,To a large extent,Mostly familiar,Yes,Yes,5.0,4.0,Slightly Better,Approve,No,Not sure,Yes,Yes,Yes,Yes,No change,15217.0,No,Yes,Yes,25-34
+97,10491369820,1/26/2019,1/26/2019,To a large extent,Somewhat familiar,Yes,Yes,5.0,1.0,Slightly Better,Approve,Yes,Yes,No,Yes,Not sure,Yes,No change,15222.0,Yes,Yes,Yes,55-64
+98,10491350174,1/26/2019,1/26/2019,To some extent,Somewhat familiar,Yes,No,5.0,1.0,No effect,Approve,No,No,No,No,Yes,Yes,No change,15212.0,No,Yes,Yes,45-54
+99,10491288987,1/26/2019,1/26/2019,To some extent,Somewhat familiar,Yes,Yes,4.0,3.0,Slightly Better,Approve,Not sure,Not sure,Yes,Not sure,Yes,Yes,No change,15147.0,No,Yes,Yes,55-64

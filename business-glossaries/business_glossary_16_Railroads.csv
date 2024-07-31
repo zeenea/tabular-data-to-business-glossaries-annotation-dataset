@@ -1,0 +1,14 @@
+,code,name,description,instances,sub_class_of
+0,Railroads,Railroads,A business involved in the transportation of passengers and freight by rail,"['CSX Transportation', 'Union Pacific']",
+1,Railroads.Passenger-Railroad,Passenger-Railroad,A railroad that primarily transports passengers,[],Railroads
+2,Railroads.Passenger-Railroad.Rolling-Stock,Rolling-Stock,A set of vehicles coupled together to form a train,['train'],Railroads.Passenger-Railroad
+3,Railroads.Passenger-Railroad.Locomotive,Locomotive,A rail vehicle that provides the motive power for a train,[],Railroads.Passenger-Railroad
+4,Railroads.Passenger-Railroad.Locomotive.Engine,Engine,A mechanical device for converting fuel into motion,[],Railroads.Passenger-Railroad.Locomotive
+5,Railroads.Passenger-Railroad.Car,Car,A wheeled vehicle designed for transport by rail,[],Railroads.Passenger-Railroad
+6,Railroads.Freight-Railroad,Freight-Railroad,A railroad that primarily transports freight,[],Railroads
+7,Railroads.Freight-Railroad.Freight-Car,Freight-Car,A rail vehicle designed for transporting goods,[],Railroads.Freight-Railroad
+8,Railroads.Freight-Railroad.Freight-Car.Loading-Unit,Loading-Unit,"An assembly of cargo, such as containers or trailers, transported on a freight car",[],Railroads.Freight-Railroad.Freight-Car
+9,Accident,Accident,An unexpected occurrence that interrupts the normal flow of operations,[],
+10,Accident.Grade-Crossing-Accident,Grade-Crossing-Accident,An accident at a grade crossing where a railroad crosses a public road,[],Accident
+11,Accident.Grade-Crossing-Accident.Form54,Form54,An official report filed by the railroad after an accident at a grade crossing,[],Accident.Grade-Crossing-Accident
+12,Accident.Grade-Crossing-Accident.Form57,Form57,An official report filed by the Federal Railroad Administration after an accident at a grade crossing,[],Accident.Grade-Crossing-Accident

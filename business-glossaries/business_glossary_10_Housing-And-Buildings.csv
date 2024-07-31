@@ -1,0 +1,10 @@
+,code,name,description,instances,sub_class_of
+0,Housing-And-Buildings,Housing-And-Buildings,A structure designed to provide shelter and protect its occupants and contents from the elements.,[],
+1,Housing-And-Buildings.Residential-Building,Residential-Building,A building intended for use as living quarters.,[],Housing-And-Buildings
+2,Housing-And-Buildings.Residential-Building.Foundation,Foundation,"The lowest part of a building, which transfers its weight to the ground",[],Housing-And-Buildings.Residential-Building
+3,Housing-And-Buildings.Residential-Building.Walls,Walls,"A vertical, structural component that supports a building",[],Housing-And-Buildings.Residential-Building
+4,Housing-And-Buildings.Residential-Building.Roof,Roof,The upper covering of a building,[],Housing-And-Buildings.Residential-Building
+5,Housing-And-Buildings.Commercial-Building,Commercial-Building,A building intended for use as a place of business,[],Housing-And-Buildings
+6,Housing-And-Buildings.Commercial-Building.Structural-System,Structural-System,The system that supports the weight of the building and transfers loads to the foundation,[],Housing-And-Buildings.Commercial-Building
+7,Housing-And-Buildings.Commercial-Building.Elevator,Elevator,A mechanized vertical transportation system,[],Housing-And-Buildings.Commercial-Building
+8,Housing-And-Buildings.Property-Manager,Property-Manager,A person or company that manages real estate property for an owner.,[],Housing-And-Buildings

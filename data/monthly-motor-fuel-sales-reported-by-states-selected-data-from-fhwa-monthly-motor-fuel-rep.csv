@@ -1,0 +1,51 @@
+,id,state,value,date,fuel_type,fuel_type_code,fips,abbrev
+0,35_1_2012_1,New Mexico,74048088,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,35,NM
+1,36_1_2012_1,New York,492654272,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,36,NY
+2,37_1_2012_1,North Carolina,328735168,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,37,NC
+3,38_1_2012_1,North Dakota,30466430,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,38,ND
+4,39_1_2012_1,Ohio,385330848,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,39,OH
+5,40_1_2012_1,Oklahoma,175871968,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,40,OK
+6,41_1_2012_1,Oregon,93581408,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,41,OR
+7,42_1_2012_1,Pennsylvania,398483456,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,42,PA
+8,44_1_2012_1,Rhode Island,26978788,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,44,RI
+9,45_1_2012_1,South Carolina,199649760,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,45,SC
+10,46_1_2012_1,South Dakota,28783136,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,46,SD
+11,47_1_2012_1,Tennessee,258821008,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,47,TN
+12,48_1_2012_1,Texas,979275392,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,48,TX
+13,49_1_2012_1,Utah,84052496,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,49,UT
+14,50_1_2012_1,Vermont,25769998,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,50,VT
+15,51_1_2012_1,Virginia,311380576,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,51,VA
+16,53_1_2012_1,Washington,205490976,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,53,WA
+17,54_1_2012_1,West Virginia,62749288,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,54,WV
+18,55_1_2012_1,Wisconsin,210694608,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,55,WI
+19,56_1_2012_1,Wyoming,29677024,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,56,WY
+20,9999_1_2012_1,US Total,10807964672,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,9999,
+21,72_1_2012_1,Puerto Rico,127914544,01/01/2012 12:00:00 AM,Gasoline/gasohol,1,72,PR
+22,1_1_2012_2,Alabama,200800672,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,1,AL
+23,2_1_2012_2,Alaska,20651802,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,2,AK
+24,4_1_2012_2,Arizona,214476176,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,4,AZ
+25,5_1_2012_2,Arkansas,112755000,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,5,AR
+26,6_1_2012_2,California,1156427904,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,6,CA
+27,8_1_2012_2,Colorado,163531280,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,8,CO
+28,9_1_2012_2,Connecticut,111586000,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,9,CT
+29,10_1_2012_2,Delaware,32954028,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,10,DE
+30,11_1_2012_2,DC,7014108,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,11,DC
+31,12_1_2012_2,Florida,665416768,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,12,FL
+32,13_1_2012_2,Georgia,373130688,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,13,GA
+33,15_1_2012_2,Hawaii,36508224,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,15,HI
+34,16_1_2012_2,Idaho,56804424,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,16,ID
+35,17_1_2012_2,Illinois,370554304,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,17,IL
+36,18_1_2012_2,Indiana,234953776,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,18,IN
+37,19_1_2012_2,Iowa,121612048,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,19,IA
+38,20_1_2012_2,Kansas,101421352,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,20,KS
+39,21_1_2012_2,Kentucky,165831600,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,21,KY
+40,22_1_2012_2,Louisiana,179334768,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,22,LA
+41,23_1_2012_2,Maine,51639400,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,23,ME
+42,24_1_2012_2,Maryland,198367904,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,24,MD
+43,25_1_2012_2,Massachusetts,226552224,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,25,MA
+44,26_1_2012_2,Michigan,342454336,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,26,MI
+45,27_1_2012_2,Minnesota,168066736,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,27,MN
+46,28_1_2012_2,Mississippi,124432144,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,28,MS
+47,29_1_2012_2,Missouri,238013216,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,29,MO
+48,30_1_2012_2,Montana,36585360,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,30,MT
+49,31_1_2012_2,Nebraska,62900656,02/01/2012 12:00:00 AM,Gasoline/gasohol,1,31,NE

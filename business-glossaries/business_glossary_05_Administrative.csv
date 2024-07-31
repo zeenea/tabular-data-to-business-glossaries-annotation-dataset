@@ -1,0 +1,10 @@
+,code,name,description,instances,sub_class_of
+0,Administrative,Administrative,"An administrative organization at the local, regional, or national level",[],
+1,Administrative.Federal-Agency,Federal-Agency,A central government agency,['us'],Administrative
+2,Administrative.State-Agency,State-Agency,An administrative organization empowered to perform tasks within a specific state,[],Administrative
+3,Administrative.State-Agency.Bureau,Bureau,An independent organization within a state government,['census'],Administrative.State-Agency
+4,Data,Data,Facts and information used for decision making,[],
+5,Data.Geospatial-Data,Geospatial-Data,Data represented in terms of geographical location,['states'],Data
+6,Data.Inventory-Data,Inventory-Data,Data used to manage the availability and quantity of goods,['inventory'],Data
+7,Technology,Technology,Tools and systems used to accomplish tasks,[],
+8,Technology.Artificial-Intelligence,Artificial-Intelligence,A machine learning system designed to perform human-like tasks,"['trustworthy-ai', 'ai-use-case']",Technology

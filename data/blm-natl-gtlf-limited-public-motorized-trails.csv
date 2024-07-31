@@ -1,0 +1,51 @@
+,OBJECTID,DSTRBTE_EXTRNL_CODE,PLAN_ROUTE_DSGNTN_AUTH,PLAN_ASSET_CLASS,PLAN_OHV_ROUTE_DSGNTN,PLAN_MODE_TRNSPRT,Original_GlobalID,ADMIN_ST,PLAN_ADD_MODE_TRNSPRT_RSTRT_CD,OBSRVE_MODE_TRNSPRT,OBSRVE_SRFCE_TYPE,OBSRVE_FUNC_CLASS,OBSRVE_ROUTE_USE_CLASS,ROUTE_PRMRY_NM,ROUTE_SCNDRY_SPCL_DSGNTN_NM,ROUTE_SPCL_DSGNTN_TYPE,FAMS ID,Route Existing Authorization Status,Planned Allowed Mode of Transport,OHV Route Designation Limitation Explanation,OHV Route Designation Limitation,Shape__Length
+0,13095,YES,BLM,Transportation System - Trail,Limited,Motorized,{AFB2D7A4-4601-4498-8D83-00EBB43CEF6B},AK,,Motorized,Natural,Resource,ATV,Southside 17 (B) easement,,,,,,,,0.0392651117128112
+1,13098,YES,BLM,Transportation System - Trail,Limited,Motorized,{A18D8BF5-3518-4B8B-98CE-41B640107A1B},AK,,Non-Mechanized,Natural,Resource,Non-Mechanized,Telegraph Cut,,,,,,,,0.0095376359059785
+2,13100,YES,BLM,Transportation System - Trail,Limited,Motorized,{B96B7E62-5833-4417-B3EB-CED118DE5800},AK,,Motorized,Natural,Resource,ATV,carlson creek/lake,,,,,,,,0.0384313531757004
+3,13102,YES,BLM,Transportation System - Trail,Limited,Motorized,{F9DB1BF2-FFB2-414F-A5CF-6FA24242FDA7},AK,,Motorized,Natural Improved,Local,ATV,Bear Valley 17(b),,,,,,,,0.0387716170121989
+4,13103,YES,BLM,Transportation System - Trail,Limited,Motorized,{E3D2675F-00DE-406A-946E-2936F4384AB5},AK,,Motorized,Natural,Resource,ATV,Susitna South,,,,,,,,0.124200825989841
+5,13104,YES,BLM,Transportation System - Trail,Limited,Motorized,{2124D3E7-F967-4B51-B3D8-8F3BAFDFFE6E},AK,,Motorized,Natural Improved,Resource,ATV,80.7 Mile South,,,,,,,,0.0327390354884693
+6,13105,YES,BLM,Transportation System - Trail,Limited,Motorized,{A393333F-B02C-4335-8394-B503787CE4E9},AK,,Motorized,Natural Improved,Resource,ATV,82 Mile South,,,,,,,,0.0113192655377476
+7,13106,YES,BLM,Transportation System - Trail,Limited,Motorized,{4AA9F689-E896-4641-86C8-806DAEC15FEF},AK,,Motorized,Natural,Resource,ATV,Little Gorge Trail,,,,,,,,0.0600225277866296
+8,13109,YES,BLM,Transportation System - Trail,Limited,Motorized,{10692A84-F074-4957-AF2B-B21F7AF357D9},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter Spur,,,,,,,,0.0192054942024076
+9,13110,YES,BLM,Transportation System - Trail,Limited,Motorized,{23C6E03E-6747-4075-AC3F-384E56A3E868},AK,,Motorized,Natural,Local,ATV,Bear Valley,,,,,,,,0.0489252215051827
+10,13111,YES,BLM,Transportation System - Trail,Limited,Motorized,{F128CDF5-2942-4FDB-9A4A-B75A860111CE},AK,,Motorized,Natural,Local,ATV,Bear Valley,,,,,,,,0.0456882260387497
+11,13112,YES,BLM,Transportation System - Trail,Limited,Motorized,{7A57BD96-D8D3-438A-8A30-BEF9CBC14EFE},AK,,Motorized,Natural,Local,ATV,Bear Valley,,,,,,,,0.0413314786666229
+12,13113,YES,BLM,Transportation System - Trail,Limited,Motorized,{435579DE-E7E3-4368-9B31-BCD8B425CB70},AK,,Motorized,Natural,Local,ATV,Bear Valley,,,,,,,,0.0098323037478626
+13,13115,YES,BLM,Transportation System - Trail,Limited,Motorized,{32F8BEB8-4143-482B-9967-F7497279BBB7},AK,,Motorized,Natural,Resource,ATV,Westons Camp Access,,,,,,,,0.0058515554550706
+14,13119,YES,BLM,Transportation System - Trail,Limited,Motorized,{CA267D2A-8D9C-4883-A850-01BCFDC5D46D},AK,,Motorized,Natural,Resource,ATV,Little Swede,,,,,,,,0.019670101901426
+15,13120,YES,BLM,Transportation System - Trail,Limited,Motorized,{ED0E16DD-4036-4AEC-9996-7FBED4D2947D},AK,,Motorized,Natural,Resource,ATV,Little Gorge Trail,,,,,,,,0.0100989440104316
+16,13121,YES,BLM,Transportation System - Trail,Limited,Motorized,{B14E8790-300A-4A0C-9311-EFA2585CEF3E},AK,,Non-Mechanized,Natural Improved,Resource,Non-Motorized,Delta Overlook,,,,,,,,0.0103253984116621
+17,13122,YES,BLM,Transportation System - Trail,Limited,Motorized,{CA398EAD-8B96-494B-8A1D-AD911D5DD7E4},AK,,Motorized,Natural,Resource,ATV,Highline Ridge,,,,,,,,0.038042725072556
+18,13123,YES,BLM,Transportation System - Trail,Limited,Motorized,{D8D499CE-3064-4D7B-9DF8-0333B82740C5},AK,,Motorized,Natural,Resource,ATV,Top of the World Overlook,,,,,,,,0.0070681458779364
+19,13128,YES,BLM,Transportation System - Trail,Limited,Motorized,{EB0670D2-2E6A-4A2E-8598-ED4591A7224F},AK,,Motorized,Natural Improved,Resource,ATV,109 Mile North Diablo,,,,,,,,0.0107340524122768
+20,13130,YES,BLM,Transportation System - Trail,Limited,Motorized,{EA76A938-D6D4-4A07-B42C-FBB7E8754319},AK,,Motorized,Natural,Resource,ATV,Middle Fork Chulitna,,,,,,,,0.0630658323703741
+21,13131,YES,BLM,Transportation System - Trail,Limited,Motorized,{6B300262-1747-4136-B4AE-77444421E6B5},AK,,Motorized,Natural,Resource,ATV,Jack River Spur,,,,,,,,0.0092759119571259
+22,13132,YES,BLM,Transportation System - Trail,Limited,Motorized,{6D3B4DE0-C7E4-403D-901E-0E2EAF14063D},AK,,Motorized,Natural,Resource,ATV,Jack River Overlook,,,,,,,,0.0098239027626917
+23,13133,YES,BLM,Transportation System - Trail,Limited,Motorized,{C8E677E9-46D5-4AB4-84C1-80247281CDA0},AK,,Motorized,Natural,Resource,ATV,Carlo Creek,,,,,,,,0.0505841147585839
+24,13134,YES,BLM,Transportation System - Trail,Limited,Motorized,{598B6E05-7A80-4BAD-8176-BAD80D57A1D7},AK,,Unknown,Natural,Resource,ATV,Hogan Hill,,,,,,,,0.0087735774786014
+25,13135,YES,BLM,Transportation System - Trail,Limited,Motorized,{B37E0471-20DA-444D-8345-D623AE51330A},AK,,Motorized,Natural,Resource,ATV,Round Top West,,,,,,,,0.0436557848091416
+26,13136,YES,BLM,Transportation System - Trail,Limited,Motorized,{FCB8E232-10C3-4C7D-A349-AA218EC097CF},AK,,Motorized,Natural,Resource,ATV,Haggard Creek Spur Trail,,,,,,,,0.0088536012159281
+27,13137,YES,BLM,Transportation System - Trail,Limited,Motorized,{9F890740-2450-484E-B517-3FFEFD983A7B},AK,,Motorized,Natural Improved,Resource,ATV,Swede Mountain,,,,,,,,0.0241452016811366
+28,13167,YES,BLM,Transportation System - Trail,Limited,Motorized,{09FCF8FD-C7A3-4FA8-ADED-8F8723C2C765},AK,UNK,Motorized,Snow,Local,Over Snow Vehicle,Tanana-Allakaket Trail,south half,,,,,,,1.81434529411214
+29,13184,YES,BLM,Transportation System - Trail,Limited,Motorized,{D74D11B6-79ED-4C8A-AB4C-2889BBE125E3},AK,,Motorized,Natural,Resource,ATV,Hungry Hollow Overlook - North,,,,,,,,0.0025813013535208
+30,13185,YES,BLM,Transportation System - Trail,Limited,Motorized,{8B757299-F66D-4FA2-ADAD-B3DD54B0955F},AK,,Motorized,Natural,Resource,ATV,Hungry Hollow Overlook - North,,,,,,,,0.0022505145487566
+31,13212,YES,BLM,Transportation System - Trail,Limited,Motorized,{C796E3D0-FC09-4D80-82FC-FED7F7679E34},AK,,Motorized,Natural,Resource,ATV,Canyon Lake Portage Trail,,,,,,,,0.0091454314619323
+32,13217,YES,BLM,Transportation System - Trail,Limited,Motorized,{54BDC686-39E8-499D-8988-3D78A20601B2},AK,,Motorized,Natural,Resource,ATV,Canyon Lake Portage Trail,,,,,,,,0.0076945034110559
+33,13219,YES,BLM,Transportation System - Trail,Limited,Motorized,{2EE1B23E-8929-4361-9F04-C9475DF99566},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter,,,,,,,,0.0463049067599979
+34,13220,YES,BLM,Transportation System - Trail,Limited,Motorized,{8206BC97-E880-4163-9C88-1C0826D5D1CC},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter Spur,,,,,,,,0.0189471447566079
+35,13221,YES,BLM,Transportation System - Trail,Limited,Motorized,{3DEDDCF4-9E83-4EA4-8FBE-6ED2C1FFCBF7},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter,,,,,,,,0.0176682103632971
+36,13222,YES,BLM,Transportation System - Trail,Limited,Motorized,{AD4E9148-742C-46EE-898E-3BF628E1DB56},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter,,,,,,,,0.0123246827927388
+37,13223,YES,BLM,Transportation System - Trail,Limited,Motorized,{B2A74A50-4DEF-42DF-B9CD-1F43508EE716},AK,,Motorized,Natural Improved,Resource,ATV,Mt. Carter,,,,,,,,0.0371982327265963
+38,13227,YES,BLM,Transportation System - Trail,Limited,Motorized,{A39CFA75-FAA2-45AD-9871-A4FCD8F1EF62},AK,,Motorized,Natural,Local,ATV,Slana River,,,,,,,,0.187143645620011
+39,13229,YES,BLM,Transportation System - Trail,Limited,Motorized,{6D52DF67-D0F8-4524-8438-710452ADB821},AK,,Motorized,Natural,Resource,ATV,Indian River,,,,,,,,0.0099140701276384
+40,13230,YES,BLM,Transportation System - Trail,Limited,Motorized,{722A9380-2B77-4B69-B83A-922083B66A36},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0173562735253414
+41,13231,YES,BLM,Transportation System - Trail,Limited,Motorized,{75E3973C-F052-4A5A-8FF2-38FE73C9806C},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0144066714367504
+42,13232,YES,BLM,Transportation System - Trail,Limited,Motorized,{CCBF4B24-C55C-433F-BE3E-4A2AA3DD113F},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0100942592487644
+43,13233,YES,BLM,Transportation System - Trail,Limited,Motorized,{CB68D9EA-0664-45D9-B2BA-39418A1D29CF},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0034706233066718
+44,13234,YES,BLM,Transportation System - Trail,Limited,Motorized,{4BC186F3-DC5B-43A3-985F-645686812772},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0047084641692387
+45,13235,YES,BLM,Transportation System - Trail,Limited,Motorized,{EBFDEC07-6206-4EF4-AF14-3D3325A3637C},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0311965208831497
+46,13236,YES,BLM,Transportation System - Trail,Limited,Motorized,{F4A8D5A3-1598-4EA1-97EC-95154088A097},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0027778259716253
+47,13237,YES,BLM,Transportation System - Trail,Limited,Motorized,{EA01C9DC-DE98-499B-8358-14E3C845F43D},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0124449940001104
+48,13238,YES,BLM,Transportation System - Trail,Limited,Motorized,{46777D57-92D0-4C64-B885-25A77CEDDA87},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0057643147385046
+49,13239,YES,BLM,Transportation System - Trail,Limited,Motorized,{96E1DC64-1BD1-4118-A7E1-1930579FFD4E},AK,,Motorized,Natural,Resource,ATV,Bear Valley,,,,,,,,0.0763840410551691

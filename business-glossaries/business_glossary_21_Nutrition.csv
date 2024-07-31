@@ -1,0 +1,19 @@
+,code,name,description,instances,sub_class_of
+0,Nutrition,Nutrition,"The process of providing or obtaining food for growth, repair, and maintenance",[],
+1,Nutrition.Dietary-Requirements,Dietary-Requirements,"Specific nutritional requirements for different individuals based on age, gender, health status, and other factors",[],Nutrition
+2,Nutrition.Dietary-Requirements.Policies,Policies,"Rules, regulations, and guidelines that guide decision-making and actions","['Zoning', 'PhysicalActivityEducation']",Nutrition.Dietary-Requirements
+3,Nutrition.Dietary-Requirements.Body-Mass-Index,Body-Mass-Index,A measure of body fat based on weight and height,[],Nutrition.Dietary-Requirements
+4,Nutrition.Dietary-Requirements.Transportation,Transportation,The process of moving people and goods from one place to another,[],Nutrition.Dietary-Requirements
+5,Nutrition.Dietary-Requirements.Transportation.Public-Transport,Public-Transport,Transportation systems that provide services for the general public,[],Nutrition.Dietary-Requirements.Transportation
+6,Nutrition.Dietary-Requirements.Transportation.Active-Transportation,Active-Transportation,"Transportation methods that involve physical activity, such as walking, biking, or using public transportation",[],Nutrition.Dietary-Requirements.Transportation
+7,Nutrition.Healthy-Eating,Healthy-Eating,Eating habits that promote good health and help prevent chronic diseases,"['Fruits-and-Vegetables', 'LeanProteins', 'WholeGrains']",Nutrition
+8,Nutrition.Environment,Environment,"Surroundings or conditions in which a person is located, including physical and social aspects",[],Nutrition
+9,Nutrition.Environment.Built-Environment,Built-Environment,"The human-made surroundings in which people live, work, and play","['Housing', 'Transportation', 'UrbanPlanning']",Nutrition.Environment
+10,Nutrition.Environment.Built-Environment.Food-Access,Food-Access,Accessibility of healthy food options in various environments,[],Nutrition.Environment.Built-Environment
+11,Nutrition.Environment.Built-Environment.Food-Access.Supermarkets,Supermarkets,Retail stores selling a variety of food and beverage items,[],Nutrition.Environment.Built-Environment.Food-Access
+12,Nutrition.Environment.Built-Environment.Food-Access.Farmers-Markets,Farmers-Markets,Temporary markets in various locations where farmers sell their produce directly to consumers,[],Nutrition.Environment.Built-Environment.Food-Access
+13,Nutrition.Environment.Built-Environment.Food-Access.Convenience-Stores,Convenience-Stores,"Retail establishments that offer a selection of goods, typically in small quantities and intended for immediate consumption",[],Nutrition.Environment.Built-Environment.Food-Access
+14,Nutrition.Environment.PhysicalEnvironment,PhysicalEnvironment,"The natural world, including its physical characteristics, and the interaction between living organisms and their environment",['Farm'],Nutrition.Environment
+15,Nutrition.Environment.PhysicalEnvironment.Climate,Climate,"The weather patterns, temperature, and other meteorological conditions in a region",[],Nutrition.Environment.PhysicalEnvironment
+16,Nutrition.Environment.PhysicalEnvironment.Geography,Geography,The physical features and location of a place,[],Nutrition.Environment.PhysicalEnvironment
+17,Nutrition.HealthConditions,HealthConditions,"Various states of health, including diseases and injuries",['Obesity'],Nutrition

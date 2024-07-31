@@ -1,0 +1,101 @@
+,year,state,Auto,Bus,Truck,Motorcycle
+0,1900,Alabama,40,0,0,0
+1,1900,Alaska,0,0,0,0
+2,1900,Arizona,20,0,0,0
+3,1900,Arkansas,20,0,0,0
+4,1900,California,780,0,0,0
+5,1900,Colorado,90,0,0,0
+6,1900,Connecticut,160,0,0,0
+7,1900,Delaware,30,0,0,0
+8,1900,District of Columbia,80,0,0,0
+9,1900,Florida,10,0,0,0
+10,1900,Georgia,80,0,0,0
+11,1900,Hawaii,0,0,0,0
+12,1900,Idaho,10,0,0,0
+13,1900,Illinois,600,0,0,0
+14,1900,Indiana,170,0,0,0
+15,1900,Iowa,40,0,0,0
+16,1900,Kansas,220,0,0,0
+17,1900,Kentucky,40,0,0,0
+18,1900,Louisiana,60,0,0,0
+19,1900,Maine,70,0,0,0
+20,1900,Maryland,80,0,0,0
+21,1900,Massachusetts,600,0,0,0
+22,1900,Michigan,360,0,0,0
+23,1900,Minnesota,260,0,0,0
+24,1900,Mississippi,20,0,0,0
+25,1900,Missouri,180,0,0,0
+26,1900,Montana,20,0,0,0
+27,1900,Nebraska,60,0,0,0
+28,1900,Nevada,10,0,0,0
+29,1900,New Hampshire,50,0,0,0
+30,1900,New Jersey,300,0,0,0
+31,1900,New Mexico,10,0,0,0
+32,1900,New York,500,0,0,0
+33,1900,North Carolina,50,0,0,0
+34,1900,North Dakota,80,0,0,0
+35,1900,Ohio,480,0,0,0
+36,1900,Oklahoma,10,0,0,0
+37,1900,Oregon,80,0,0,0
+38,1900,Pennsylvania,1480,0,0,0
+39,1900,Rhode Island,130,0,0,0
+40,1900,South Carolina,40,0,0,0
+41,1900,South Dakota,50,0,0,0
+42,1900,Tennessee,40,0,0,0
+43,1900,Texas,180,0,0,0
+44,1900,Utah,20,0,0,0
+45,1900,Vermont,30,0,0,0
+46,1900,Virginia,40,0,0,0
+47,1900,Washington,130,0,0,0
+48,1900,West Virginia,20,0,0,0
+49,1900,Wisconsin,160,0,0,0
+50,1900,Wyoming,10,0,0,0
+51,1901,Alabama,60,0,0,0
+52,1901,Alaska,0,0,0,0
+53,1901,Arizona,30,0,0,0
+54,1901,Arkansas,40,0,0,0
+55,1901,California,1450,0,0,0
+56,1901,Colorado,150,0,0,0
+57,1901,Connecticut,300,0,0,0
+58,1901,Delaware,40,0,0,0
+59,1901,District of Columbia,190,0,0,0
+60,1901,Florida,20,0,0,0
+61,1901,Georgia,150,0,0,0
+62,1901,Hawaii,0,0,0,0
+63,1901,Idaho,10,0,0,0
+64,1901,Illinois,1120,0,0,0
+65,1901,Indiana,320,0,0,0
+66,1901,Iowa,60,0,0,0
+67,1901,Kansas,370,0,0,0
+68,1901,Kentucky,80,0,0,0
+69,1901,Louisiana,120,0,0,0
+70,1901,Maine,130,0,0,0
+71,1901,Maryland,160,0,0,0
+72,1901,Massachusetts,1090,0,0,0
+73,1901,Michigan,660,0,0,0
+74,1901,Minnesota,480,0,0,0
+75,1901,Mississippi,40,0,0,0
+76,1901,Missouri,330,0,0,0
+77,1901,Montana,40,0,0,0
+78,1901,Nebraska,116,0,0,0
+79,1901,Nevada,10,0,0,0
+80,1901,New Hampshire,90,0,0,0
+81,1901,New Jersey,590,0,0,0
+82,1901,New Mexico,10,0,0,0
+83,1901,New York,954,0,0,0
+84,1901,North Carolina,100,0,0,0
+85,1901,North Dakota,150,0,0,0
+86,1901,Ohio,880,0,0,0
+87,1901,Oklahoma,20,0,0,0
+88,1901,Oregon,160,0,0,0
+89,1901,Pennsylvania,2750,0,0,0
+90,1901,Rhode Island,260,0,0,0
+91,1901,South Carolina,70,0,0,0
+92,1901,South Dakota,100,0,0,0
+93,1901,Tennessee,70,0,0,0
+94,1901,Texas,230,0,0,0
+95,1901,Utah,40,0,0,0
+96,1901,Vermont,70,0,0,0
+97,1901,Virginia,90,0,0,0
+98,1901,Washington,230,0,0,0
+99,1901,West Virginia,40,0,0,0

@@ -1,0 +1,13 @@
+,code,name,description,instances,sub_class_of
+0,Bicycles-And-Pedestrians,Bicycles-And-Pedestrians,A means of transportation using bicycles for people,[],
+1,Bicycles-And-Pedestrians.Bicycle,Bicycle,A human-powered vehicle with two wheels,['regular-bicycle'],Bicycles-And-Pedestrians
+2,Bicycles-And-Pedestrians.Bicycle.GPS,GPS,A system used to locate and navigate the position of a bicycle and its rider,[],Bicycles-And-Pedestrians.Bicycle
+3,Bicycles-And-Pedestrians.Bicycle.Frame,Frame,"The primary structural component of a bicycle, which holds the wheels, pedals, saddle and other parts",[],Bicycles-And-Pedestrians.Bicycle
+4,Bicycles-And-Pedestrians.E-Bike,E-Bike,An electrically-assisted bicycle,"['e-mountain-bike', 'e-road-bike']",Bicycles-And-Pedestrians
+5,Bicycles-And-Pedestrians.E-Bike.Battery,Battery,A rechargeable energy storage device supplying electric power to the bikes motor,[],Bicycles-And-Pedestrians.E-Bike
+6,Bicycles-And-Pedestrians.E-Bike.Frame,Frame,The primary structural component of an e-bike,[],Bicycles-And-Pedestrians.E-Bike
+7,Bicycles-And-Pedestrians.E-Bike.Motor,Motor,"An electrical machine, used to add power to the bikes drivetrain",[],Bicycles-And-Pedestrians.E-Bike
+8,Bicycles-And-Pedestrians.Public-Area,Public-Area,Land owned or controlled by a government for public use,[],Bicycles-And-Pedestrians
+9,Bicycles-And-Pedestrians.Public-Area.Public-Lands,Public-Lands,Government-owned open spaces for recreational activities,[],Bicycles-And-Pedestrians.Public-Area
+10,Bicycles-And-Pedestrians.Public-Area.Public-Lands.Trail,Trail,"A wide, roughly flat path through open countryside, often used for hiking, cycling, or horseback riding",[],Bicycles-And-Pedestrians.Public-Area.Public-Lands
+11,Bicycles-And-Pedestrians.Public-Area.Public-Lands.Trail.TransportationMethod,TransportationMethod,A means of transportation for people or goods,[],Bicycles-And-Pedestrians.Public-Area.Public-Lands.Trail

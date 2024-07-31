@@ -1,0 +1,20 @@
+,code,name,description,instances,sub_class_of
+0,Health-And-Human-Services,Health-And-Human-Services,Related to maintaining wellness and managing illness,[],
+1,Health-And-Human-Services.Preventative-Services,Preventative-Services,Services designed to prevent illness or injury,[],Health-And-Human-Services
+2,Health-And-Human-Services.Chronic-Disease-Management,Chronic-Disease-Management,Services for managing long-term health conditions,[],Health-And-Human-Services
+3,Health-And-Human-Services.Nutrition,Nutrition,Related to nourishment and sustainment of the body,[],Health-And-Human-Services
+4,Health-And-Human-Services.Nutrition.Food-And-Beverages,Food-And-Beverages,Items consumed for nourishment,[],Health-And-Human-Services.Nutrition
+5,Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages,Beverages,Liquids consumed for hydration and nutritional purposes,[],Health-And-Human-Services.Nutrition.Food-And-Beverages
+6,Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages.Sugary-Beverages,Sugary-Beverages,Beverages high in added sugars,['soda'],Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages
+7,Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages.Sweetened-Beverages,Sweetened-Beverages,Beverages with added sweeteners,"['ssb', 'drink']",Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages
+8,Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages.Fruit-And-Vegetable-Beverages,Fruit-And-Vegetable-Beverages,Beverages made primarily from fruit or vegetable concentrates,['fv'],Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages
+9,Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages.Plain-Water,Plain-Water,"Pure water, without added ingredients",['water'],Health-And-Human-Services.Nutrition.Food-And-Beverages.Beverages
+10,Health-And-Human-Services.Nutrition.Food-And-Beverages.Food,Food,Items consumed for nourishment,[],Health-And-Human-Services.Nutrition.Food-And-Beverages
+11,Health-And-Human-Services.Nutrition.Food-And-Beverages.Food.Fruit,Fruit,Natural or processed food items derived from fruit,"['apple', 'banana']",Health-And-Human-Services.Nutrition.Food-And-Beverages.Food
+12,Health-And-Human-Services.Nutrition.Food-And-Beverages.Food.Vegetable,Vegetable,Natural or processed food items derived from vegetables,"['carrot', 'spinach']",Health-And-Human-Services.Nutrition.Food-And-Beverages.Food
+13,Health-And-Human-Services.Nutrition.Food-And-Beverages.Food.Protein,Protein,Biochemical substances that provide nutritional value and aid in growth and repair,"['chicken', 'tofu']",Health-And-Human-Services.Nutrition.Food-And-Beverages.Food
+14,Health-And-Human-Services.Public-Health,Public-Health,The science of preventing disease and promoting fitness and wellbeing at a population level,['California-Department-of-Public-Health'],Health-And-Human-Services
+15,Health-And-Human-Services.Public-Health.Surveillance,Surveillance,Collecting and analyzing data about health and disease to identify trends and prevent outbreaks,['covid-archive'],Health-And-Human-Services.Public-Health
+16,Health-And-Human-Services.Individual,Individual,A specific person,[],Health-And-Human-Services
+17,Health-And-Human-Services.Individual.Adult,Adult,A mature human being,[],Health-And-Human-Services.Individual
+18,Health-And-Human-Services.Individual.Child,Child,A human being not yet an adult,[],Health-And-Human-Services.Individual

@@ -1,0 +1,51 @@
+,OBJECTID,Corridor_Segment,Corridor_Group,Alternative_Fuel_Corridor,Minimum_Sites,Chargers_Required,Required_Sites,Additional_Notes,Shape__Length
+0,1,Anaheim to Newport Beach,17,SR-55,1,4,SR-55/SR-1 (Newport Beach),,28673.2105149818
+1,2,Arcata to Redding,02,SR-299,4,16,"US-101/SR-299 (Arcata), SR-299/I-5 (Redding)",,220103.707403556
+2,3,Barstow to Needles,07,I-40,1,8,Ludlow,,248922.384365701
+3,4,Beaumont to Blythe,14,I-10,2,32,,,249063.786900129
+4,5,Buttonwillow to Barstow,07,SR-58,4,16,"I-5/SR-58 (Buttonwillow), SR-58/I-15 (Barstow)",,255862.071690187
+5,6,Oregon to North of Leggett,02,US-101,4,16,,,307193.140945236
+6,7,Calpella/Redwood Valley to Yuba Pass,08,SR-20,4,20,SR-20/I-5 (Williams),,250204.435339256
+7,8,Coalinga to Three Rivers,13,SR-198,2,8,,,142045.892951643
+8,9,Cordelia to San Jose,12,I-680,1,4,I-80/I-680 (Cordelia),,113624.255057431
+9,10,Crescent City to Gasquet,02,SR-199,1,4,,,58008.5900239116
+10,11,East of Shandon to Famoso,13,SR-46,1,4,SR-46/SR-99 (Famoso),,102224.446754574
+11,12,El Cajon to Eucalyptus Hills,15,SR-67,1,4,,,14166.3977316631
+12,13,El Centro to Arizona,14,I-8,2,8,,,86812.0095118042
+13,14,El Segundo to Norwalk,20,I-105,1,4,I-105/I-605 (Norwalk),,28387.5911307771
+14,15,Fresno to Squaw Valley,13,SR-180,2,8,SR-180/SR-99 (Fresno),,87473.7207194999
+15,16,Gardena to Riverside,17,SR-91,1,4,SR-91/I-110 (Gardena),,94432.3647124866
+16,17,Hercules to Brentwood,11,SR-4,1,4,,,57792.6787178699
+17,18,Hesperia to Nevada,07,I-15,2,38,,,267560.504355438
+18,19,Nevada to Hesperia,05,US-395 South,5,20,"Lee Vining is a required site for SR-12 in Group 9, so it is not an eligible site for US-395",,569250.107838483
+19,20,Holtville to Mexico,14,SR-7,1,4,,,10970.6912538587
+20,21,Irwindale/Duarte to Seal Beach,20,I-605,1,4,I-605/I-210 (Irwindale/Duarte),,44125.6788480405
+21,22,La Habra to Huntington Beach,17,SR-39,2,8,"SR-39/SR-1 (Huntington Beach), SR-39/SR-72 (La Habra)",,33455.0402158376
+22,23,Paso Robles to Fish Camp,13,SR-41,3,12,SR-41/SR-46 Shandon,,316311.409143153
+23,24,Leggett to North of San Francisco,03,SR-1,6,24,SR-1/US-101 (Leggett),,332709.857420368
+24,25,Lompoc to Las Cruces,Ineligible for Funding,SR-1,0,0,,,28201.7171879692
+25,26,Los Angeles to Beaumont,18,SR-60,1,4,SR-60/I-10 (Los Angeles),,121515.9628444
+26,27,Los Angeles to Long Beach,20,I-710,2,8,"I-710/I-10 (Los Angeles), I-710/SR-1 (Long Beach)",,35804.8836104077
+27,28,Los Angeles to San Pedro,20,I-110,2,8,"I-110/I-10 (Los Angeles), I-110/SR-47 (San Pedro)",,32924.5217234391
+28,29,Manteca to Lee Vining,09,SR-120,5,20,SR-120/US-395 (Lee Vining),,260301.113566963
+29,30,Mission Hills to Irvine,19,I-405,1,4,I-405/I-5 (Mission Hills),,116825.860825405
+30,31,Moonpark to Thousand Oaks,18,SR-23,2,8,"SR-23/SR-118 (Moonpark), SR-23/US-101 (Thousand Oaks)",,14991.5894331819
+31,32,Murrieta to Hesperia,Ineligible for Funding,I-15,0,0,,,104878.580949351
+32,33,Murrieta to San Bernadino,19,I-215,2,8,"I-215/I-15 (Murrieta), I-215/I-15 (San Bernardino)",,71694.06922374
+33,34,Oakland to San Jose,Ineligible for Funding,I-880,0,0,,,74028.3205532088
+34,35,Oakland to Walnut Creek,11,SR-24,1,4,,,21728.5517149865
+35,36,Oceanside to Escondido,15,SR-78,1,4,,,56290.4822858306
+36,37,Oregon to Nevada,04,US-395 North,5,20,,,326044.391242753
+37,38,Oxnard to Dana Point,17,SR-1,1,4,SR-1/I-5 (Dana Point),,189925.350340495
+38,39,Oxnard to Los Angeles,Ineligible for Funding,US-101,0,0,,,103058.021547216
+39,40,Pollock Pines to Nevada Border,08,US-50,1,6,,,78132.6896190327
+40,41,Red Bluff to Sacramento,01,SR-99,2,8,Near Red Bluff,,192952.17669651
+41,42,Sacramento to Nevada,08,I-80,1,16,,,200874.955488798
+42,43,Sacramento to Pollock Pines,Ineligible for Funding,US-50,0,0,,,90619.6951127865
+43,44,South of Sacramento to Kettleman City,06A,I-5,2,67,,,324091.90756639
+44,45,San Diego to El Centro,16,I-8,2,8,,,205264.377762207
+45,46,San Diego to Murrieta,16,I-15,2,8,"I-15/I-5 (San Diego), I-15/I-215 (Murrieta)",,91684.2542155757
+46,47,San Diego to Otay Mesa,15,SR-905,2,8,"SR-905/I-5 (San Diego), SR-905/SR-125 (Otay Mesa)",,13982.476823278
+47,48,San Diego to San Ysidro,16,I-805,1,4,I-805/I-5 (San Diego),,46359.2029643735
+48,49,San Diego to Dulzara (Tecate),15,SR-94,2,8,SR-94/I-5 (San Diego),,59406.0764897703
+49,50,San Francisco to Lompoc,10,SR-1,7,28,,,478927.006779866

@@ -1,0 +1,8 @@
+,code,name,description,instances,sub_class_of
+0,Demographics,Demographics,A specific group of individuals within a larger population,[],
+1,Demographics.Older-Adults,Older-Adults,Individuals who are retirement age or older,[],Demographics
+2,Demographics.Older-Adults.Aging-Process,Aging-Process,The physical and mental changes that occur as a person grows older,[],Demographics.Older-Adults
+3,Demographics.Older-Adults.Aging,Aging,The process of growing older,['aging'],Demographics.Older-Adults
+4,Demographics.Gerontology,Gerontology,The scientific study of aging and the problems and solutions associated with aging,['gerontology'],Demographics
+5,Demographics.Gerontology.Survey,Survey,A method of gathering data and collecting information from a sample,['survey'],Demographics.Gerontology
+6,Demographics.Allegheny-County,Allegheny-County,"A county in Pennsylvania, USA with a significant population of older adults",['Allegheny-county'],Demographics
