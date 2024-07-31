@@ -4,7 +4,7 @@ import torch
 import json
 import pandas as pd
 
-HF_TOKEN = "YOU HUGGINGFACE ACCESS TOKEN"
+HF_TOKEN = "YOUR HUGGINGFACE ACCESS TOKEN"
 
 
 def align_columns_to_business_entities(list_columns, list_entities, llm):
@@ -37,7 +37,7 @@ def align_columns_to_business_entities(list_columns, list_entities, llm):
     generation_valid = False
     cpt = 0
     while not generation_valid:
-        print(f"loop {cpt}")
+        print(f"Iteration number: {cpt}")
         cpt += 1
         data = llm(messages)
         response = data[0]['generated_text'][-1]['content']
