@@ -16,13 +16,16 @@ We choose [data.gov](https://data.gov/) for the following reasons:
 
 The table bellow describes the main content of this repository:
 
-| Content Description  |                                                        |
-|----------------------|--------------------------------------------------------|
-| data/                | Collection of tables in csv files                      |
-| metadata/            | Metadata about Datasets, Columns, Themes and Tags      |
-| business-glossaries/ | Collection of business-glossaries in csv files         |
-| alignments/          | Column and Dataset alignments with business-glossaries |
-| figures/             | Statistical figures                                    |
+
+| Content Description  |                                                    |
+|----------------------|----------------------------------------------------|
+| data/                | Collection of Tables in csv files                  |
+| metadata/            | Metadata about Datasets, Columns, Themes and Tags  |
+| business-glossaries/ | Collection of Business Glossaries in csv files     |
+| alignments/          | Column and Dataset alignments with Business Glossaries |
+| figures/             | Statistical figures                                |
+| scripts/             | Python scripts for Dataset Generation              |
+
 
 We used Large Language Models LLMs to assist the dataset construction as described bellow.
 
@@ -65,6 +68,8 @@ For our experiments, we used [mistralai/Mistral-7B-Instruct-v0.3](https://huggin
 For each theme, we give the LLM the list of corresponding tags as input. 
 The LLM follows the instructions of the prompt and generates a hierarchy of business concepts in relation to the theme and list of tags.
 The dataset theme is placed at the root of the generated hierarchy of business concepts.
+For more details go to [generate_business_glossaries.py](scripts/generate_business_glossaries.py).
+
 
 The prompt used to generate the Business-Glossaries:
 
@@ -118,6 +123,7 @@ The table bellow describes some statistics on the LLM-generated Business Glossar
 For the LLM-Generated Alignments, we use the same LLM as before [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3), but with another prompt.
 For each dataset, we ask the LLM through the prompt to generate alignments between the dataset columns and the corresponding business glossary entities (each dataset has a theme, and each theme is linked to a business glossary).
 Datasets are linked to the business concepts at the root of the generated hierarchies (represented by the themes).
+For more details got to [generate_tabular_data_alignments.py](scripts/generate_tabular_data_alignments.py).
 
 
 The prompt used to generate the Alignments:
@@ -134,7 +140,7 @@ The prompt used to generate the Alignments:
                 "content":"""{
                 "vehicle": "Transportation.Vehicle",
                 "model": "Transportation.Vehicle.Car.Model",
-                "environment": "Trasportation.Environmental-Agency"
+                "environment": "Transportation.Environmental-Agency"
                 }"""
 
             },
