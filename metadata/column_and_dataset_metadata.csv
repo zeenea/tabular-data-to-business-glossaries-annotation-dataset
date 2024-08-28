@@ -180,7 +180,7 @@
 178,Department of Transportation,airports-5e97a,Icao_Ident,"['airport', 'airports', 'national-transportation-atlas-database', 'ntad']",Aviation,False,other-license-specified,other-license-specified,public,https://www.usa.gov/government-works
 179,Department of Transportation,airports-5e97a,Min_Op_Net,"['airport', 'airports', 'national-transportation-atlas-database', 'ntad']",Aviation,False,other-license-specified,other-license-specified,public,https://www.usa.gov/government-works
 180,Department of Transportation,airports-5e97a,Filler,"['airport', 'airports', 'national-transportation-atlas-database', 'ntad']",Aviation,False,other-license-specified,other-license-specified,public,https://www.usa.gov/government-works
-181,City of Chicago,average-daily-traffic-counts,ID ,"['streets', 'sustainability', 'traffic']",Transportation,False,notspecified,License not specified,public,
+181,City of Chicago,average-daily-traffic-counts,ID,"['streets', 'sustainability', 'traffic']",Transportation,False,notspecified,License not specified,public,
 182,City of Chicago,average-daily-traffic-counts,Traffic Volume Count Location  Address,"['streets', 'sustainability', 'traffic']",Transportation,False,notspecified,License not specified,public,
 183,City of Chicago,average-daily-traffic-counts,Street,"['streets', 'sustainability', 'traffic']",Transportation,False,notspecified,License not specified,public,
 184,City of Chicago,average-daily-traffic-counts,Date of Count,"['streets', 'sustainability', 'traffic']",Transportation,False,notspecified,License not specified,public,
