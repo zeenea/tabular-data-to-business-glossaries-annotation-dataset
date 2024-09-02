@@ -2,7 +2,7 @@
 0,electric-vehicle-population-data,Transportation
 1,border-crossing-entry-data-683ae,Research-And-Statistics
 2,electric-vehicle-charging-stations,Transportation
-3,alternative-fueling-station-locations-422f2,Energie
+3,alternative-fueling-station-locations-422f2,Energy
 4,airports-5e97a,Aviation
 5,average-daily-traffic-counts,Transportation
 6,electric-vehicle-population-size-history-by-county,Transportation
@@ -19,7 +19,7 @@
 17,mva-vehicle-sales-counts-by-month-for-calendar-year-2002-2020-up-to-october,Transportation
 18,mta-subway-stations-and-complexes,Transportation
 19,national-forest-system-trails-feature-layer-f51e8,Geospatial
-20,2023-annual-technology-baseline-atb-cost-and-performance-data-for-electricity-generation-t,Energie
+20,2023-annual-technology-baseline-atb-cost-and-performance-data-for-electricity-generation-t,Energy
 21,electric-vehicle-title-and-registration-activity,Transportation
 22,bridge-conditions-nys-department-of-transportation,Transportation
 23,taxi-and-for-hire-vehicle-fhv-relief-stands,Transportation
@@ -88,7 +88,7 @@
 86,airline-customer-service-commitments-for-cancellation,Transportation
 87,mva-vehicle-registration-by-county-fy-2010-to-fy-2020,Transportation
 88,transportation-public-financial-statistics-tpfs,Research-And-Statistics
-89,h2scale-concept-hydrogen-demand-and-resources,Energie
+89,h2scale-concept-hydrogen-demand-and-resources,Energy
 90,mta-subway-hourly-ridership-beginning-february-2022,Transportation
 91,street-names-1fbad,Transportation-And-Infrastructure
 92,allegheny-county-traffic-counts,Environment
@@ -194,7 +194,7 @@
 192,mta-lirr-fare-collection-failure-rates-beginning-2015,Transportation
 193,dmv-peer-to-peer-car-sharing,Transportation
 194,mta-workplace-violence-labor-law-incidents-beginning-2019,Transportation
-195,2022-annual-technology-baseline-atb-cost-and-performance-data-for-electricity-generation-t,Energie
+195,2022-annual-technology-baseline-atb-cost-and-performance-data-for-electricity-generation-t,Energy
 196,certified-disadvantaged-business-enterprises-dbes-in-the-nys-unified-certification-program,Transportation
 197,mta-subway-terminal-on-time-performance-beginning-2020,Transportation
 198,docked-bikeshare-ridership-by-system-year-and-month,Research-And-Statistics
