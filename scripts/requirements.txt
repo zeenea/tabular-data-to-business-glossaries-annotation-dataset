@@ -1,4 +1,4 @@
-sentencepiece==0.2.1
+sentencepiece
 pandas==2.1.4
 transformers==5.13.0
 huggingface_hub==0.23.4
